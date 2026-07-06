@@ -2,17 +2,13 @@
 
 **PostgreSQL portfolio project using synthetic Canadian banking data to analyze customer risk, fraud alerts, branch performance, loans, cards, campaigns, service SLAs, and data quality with advanced SQL.**
 
-This project is built around a synthetic Canadian banking dataset covering the Big 5 banks plus National Bank as a D-SIB benchmark. It is designed to prove that I can work beyond simple `SELECT` queries: data modelling, loading, referential integrity, data-quality testing, reconciliation, deduplication, financial KPI reporting, operational analytics, risk monitoring, campaign analysis, fraud analytics, service SLA analysis, window functions, CTEs, materialized views, stored functions, procedures, SCD Type 2 history logic, transaction control, indexing, query optimization, security permissions, and deployment-ready PostgreSQL execution.
+## Recruiter Summary
+
+This is a recruiter-facing SQL portfolio project built with PostgreSQL, Docker, and synthetic Canadian banking data. It demonstrates beginner-to-advanced SQL through banking analytics use cases across customer risk, fraud alerts, loans, cards, branch targets, campaigns, service SLAs, and data-quality validation.
+
+The project is designed to show more than basic querying. It includes star-schema modelling, CSV loading, referential integrity, reconciliation checks, reusable business views, materialized views, stored procedures, SCD Type 2 logic, transaction control, indexing, query optimization, security roles, and deployment-ready local execution.
 
 > Dataset status: **synthetic / portfolio-safe / no real customers / no confidential bank data**.
-
----
-
-## Why this project is relevant for Canadian analyst roles
-
-Canadian analyst postings commonly ask for SQL, Power BI, data quality, reporting automation, financial/risk analytics, stakeholder communication, and the ability to turn raw data into business recommendations. This project was designed to match those expectations by using a realistic banking star schema and solving analyst-style questions across deposits, cards, loans, fraud, campaigns, branch targets, service operations, and customer risk.
-
-The project is intentionally **SQL-first**. Python is only used for optional local validation scripts and is marked as vendored in `.gitattributes` so GitHub presents this repository as a SQL portfolio project.
 
 ---
 
@@ -44,17 +40,6 @@ A Canadian banking analytics team needs a reusable SQL analytics layer to answer
 
 **Source rows:** 514,632 across **22 CSV tables**. During load, `dim_date` is enriched from 1,096 to 1,099 rows so all valid transaction dates resolve to the conformed date dimension.
 
-## Data modelling and quality notes
-
-This project intentionally keeps two business-valid null scenarios instead of forcing artificial placeholder values:
-
-- `fact_campaign_contacts.customer_id` is nullable because campaign contact records may represent prospects, anonymous leads, or pre-acquisition marketing outreach. These rows are retained for campaign-level performance analysis, while populated `customer_id` values support customer-level conversion and cross-sell analysis.
-- `fact_customer_risk_history.credit_score` is nullable because some customers may be new-to-credit, have limited bureau history, or be temporarily unscoreable. These rows are retained and classified under the `No Score` segment instead of being removed.
-- `fact_transactions.date_key` is standardized from `transaction_date` during the PostgreSQL load step, and the conformed `dim_date` table is extended for valid transaction dates outside the original seed calendar range. This preserves transaction history while keeping time-series joins reliable.
-- `fact_service_requests.sla_breached_flag` is recalculated during load from the business rule `resolution_hours > sla_target_hours`, so SLA reporting uses one consistent definition.
-
-The data-quality layer profiles business-valid exceptions separately, validates populated keys/scores, and documents whether each finding is `Critical`, `Review`, or `Monitor`. Critical checks are expected to return zero exceptions after the reproducible load process.
-
 ## Validation status
 
 The latest clean build passed both reconciliation and assertion-style data-quality checks.
@@ -68,54 +53,6 @@ The latest clean build passed both reconciliation and assertion-style data-quali
 | Data-quality assertions failed | 0 |
 
 `dim_date` uses a minimum row-count reconciliation rule because it is intentionally enriched during load to cover valid transaction dates outside the original seed calendar. All core facts still reconcile exactly to their generated CSV source rows.
-
----
-
-## Repository structure
-
-```text
-canadian-banking-sql-analytics/
-├── data/
-│   ├── raw/                         # Synthetic CSV source files
-│   └── data_dictionary/             # Table inventory and field dictionary
-├── docs/
-│   ├── analyst_role_alignment.md
-│   ├── business_requirements.md
-│   ├── data_dictionary.md
-│   ├── erd.md
-│   ├── github_presentation_guide.md
-│   ├── portfolio_storyboard.md
-│   ├── refinement_notes.md
-│   ├── sql_concepts_coverage.md
-│   └── sql_topic_roadmap_beginner_to_advanced.md
-├── sql/
-│   ├── 00_setup.sql
-│   ├── 01_create_tables.sql
-│   ├── 02_load_csv_postgres.sql
-│   ├── 03_constraints_indexes.sql
-│   ├── 04_data_quality_tests.sql
-│   ├── 05_business_views.sql
-│   ├── 06_materialized_views.sql
-│   ├── 07_functions_procedures.sql
-│   ├── 08_security_roles.sql
-│   ├── 09_performance_tuning_examples.sql
-│   ├── 10_analyst_case_studies.sql
-│   ├── 11_deduplication_examples.sql
-│   ├── 12_scd_type2_customer_risk_history.sql
-│   ├── 13_transaction_control_examples.sql
-│   ├── 14_advanced_sql_patterns.sql
-│   ├── run_all.sql
-│   └── run_advanced.sql
-├── answers/                         # Solved analyst SQL questions
-├── tests/                           # Data quality and reconciliation checks
-├── scripts/                         # Optional validation helpers
-├── reports/                         # Sample outputs and executive summary
-├── docker-compose.yml
-├── Makefile
-├── .gitattributes
-├── .gitignore
-└── README.md
-```
 
 ---
 
@@ -213,7 +150,7 @@ For the full beginner-to-advanced SQL topic checklist, review `docs/sql_topic_ro
 
 ---
 
-## Best files for recruiters to review first
+## Best files to review first
 
 1. `README.md` — project story, business value, and setup.
 2. `docs/sql_topic_roadmap_beginner_to_advanced.md` — full beginner-to-advanced SQL roadmap and coverage matrix.
@@ -226,20 +163,6 @@ For the full beginner-to-advanced SQL topic checklist, review `docs/sql_topic_ro
 9. `sql/12_scd_type2_customer_risk_history.sql` — SCD Type 2 history handling.
 10. `sql/run_advanced.sql` — optional advanced SQL orchestration.
 11. `reports/executive_insights.md` — example insight communication.
-
----
-
-## Suggested GitHub description
-
-```text
-SQL portfolio project using PostgreSQL and synthetic Canadian banking data to analyze Big 5 bank performance, customer risk, fraud alerts, branch targets, campaigns, loans, cards, service SLAs, and data quality with beginner-to-advanced SQL, CTEs, window functions, SCD Type 2, transactions, views, materialized views, procedures, indexing, security, and Docker.
-```
-
-## Suggested topics
-
-```text
-sql postgresql banking finance-analytics data-analytics business-intelligence risk-analytics fraud-analytics portfolio-project canada powerbi-ready data-quality star-schema window-functions cte scd-type-2 query-optimization docker
-```
 
 ---
 
