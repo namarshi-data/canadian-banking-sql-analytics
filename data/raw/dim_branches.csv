@@ -1,0 +1,227 @@
+branch_id,branch_code,institution_id,geo_id,branch_name,city,province,postal_code,branch_type,open_date,is_active
+1,RBC-BR-00001,1,11,RBC Victoria Branch 1,Victoria,BC,V8W 4S9,Retail Banking,1987-10-05,True
+2,RBC-BR-00002,1,16,RBC Red Deer Branch 2,Red Deer,AB,T4N 5K4,Commercial Banking,1994-08-06,True
+3,RBC-BR-00003,1,3,RBC Mississauga Branch 3,Mississauga,ON,L5B 7T4,Retail Banking,2004-02-25,True
+4,RBC-BR-00004,1,20,RBC Halifax Branch 4,Halifax,NS,B3J 9I7,Retail Banking,1996-10-24,True
+5,RBC-BR-00005,1,11,RBC Victoria Branch 5,Victoria,BC,V8W 5F6,Retail Banking,2021-10-18,True
+6,RBC-BR-00006,1,6,RBC Montreal Branch 6,Montreal,QC,H3A 9K1,Retail Banking,2019-07-19,True
+7,RBC-BR-00007,1,6,RBC Montreal Branch 7,Montreal,QC,H3A 4O5,Retail Banking,2006-07-19,True
+8,RBC-BR-00008,1,3,RBC Mississauga Branch 8,Mississauga,ON,L5B 9C6,Retail Banking,2011-06-12,True
+9,RBC-BR-00009,1,5,RBC London Branch 9,London,ON,N6A 4H4,Retail Banking,1996-06-25,True
+10,RBC-BR-00010,1,27,RBC Iqaluit Branch 10,Iqaluit,NU,X0A 9D4,Retail Banking,2012-10-03,True
+11,RBC-BR-00011,1,4,RBC Hamilton Branch 11,Hamilton,ON,L8P 3Y6,Wealth Centre,1999-12-27,True
+12,RBC-BR-00012,1,22,RBC Fredericton Branch 12,Fredericton,NB,E3B 9F8,Retail Banking,2000-01-18,True
+13,RBC-BR-00013,1,12,RBC Surrey Branch 13,Surrey,BC,V3T 3R4,Wealth Centre,2014-06-21,True
+14,RBC-BR-00014,1,11,RBC Victoria Branch 14,Victoria,BC,V8W 6M9,Retail Banking,2024-08-25,True
+15,RBC-BR-00015,1,13,RBC Burnaby Branch 15,Burnaby,BC,V5C 1X8,Retail Banking,1998-03-17,True
+16,RBC-BR-00016,1,8,RBC Laval Branch 16,Laval,QC,H7N 5F5,Retail Banking,1987-10-16,True
+17,RBC-BR-00017,1,5,RBC London Branch 17,London,ON,N6A 3W3,Retail Banking,2023-07-10,False
+18,RBC-BR-00018,1,4,RBC Hamilton Branch 18,Hamilton,ON,L8P 9G5,Retail Banking,1987-04-04,True
+19,RBC-BR-00019,1,11,RBC Victoria Branch 19,Victoria,BC,V8W 1W1,Retail Banking,1994-06-25,True
+20,RBC-BR-00020,1,5,RBC London Branch 20,London,ON,N6A 5C7,Digital Service Hub,2009-02-06,True
+21,RBC-BR-00021,1,4,RBC Hamilton Branch 21,Hamilton,ON,L8P 1U7,Retail Banking,1986-12-25,True
+22,RBC-BR-00022,1,1,RBC Toronto Branch 22,Toronto,ON,M5V 8Q7,Commercial Banking,1998-09-17,True
+23,RBC-BR-00023,1,3,RBC Mississauga Branch 23,Mississauga,ON,L5B 5A9,Retail Banking,2023-04-11,True
+24,RBC-BR-00024,1,4,RBC Hamilton Branch 24,Hamilton,ON,L8P 8K8,Commercial Banking,2018-06-15,True
+25,RBC-BR-00025,1,16,RBC Red Deer Branch 25,Red Deer,AB,T4N 7F5,Wealth Centre,2013-08-05,True
+26,RBC-BR-00026,1,9,RBC Gatineau Branch 26,Gatineau,QC,J8X 3A3,Commercial Banking,2003-08-05,True
+27,RBC-BR-00027,1,1,RBC Toronto Branch 27,Toronto,ON,M5V 7M1,Retail Banking,2014-05-22,True
+28,RBC-BR-00028,1,13,RBC Burnaby Branch 28,Burnaby,BC,V5C 6M5,Retail Banking,1989-05-06,True
+29,RBC-BR-00029,1,10,RBC Vancouver Branch 29,Vancouver,BC,V6B 2S1,Retail Banking,1987-09-12,True
+30,RBC-BR-00030,1,3,RBC Mississauga Branch 30,Mississauga,ON,L5B 5D8,Retail Banking,2017-09-27,True
+31,RBC-BR-00031,1,25,RBC Whitehorse Branch 31,Whitehorse,YT,Y1A 5N2,Retail Banking,1985-08-12,True
+32,RBC-BR-00032,1,5,RBC London Branch 32,London,ON,N6A 8K2,Commercial Banking,1990-06-06,True
+33,RBC-BR-00033,1,1,RBC Toronto Branch 33,Toronto,ON,M5V 5C6,Retail Banking,2002-12-10,True
+34,RBC-BR-00034,1,9,RBC Gatineau Branch 34,Gatineau,QC,J8X 4W5,Retail Banking,2011-10-15,True
+35,RBC-BR-00035,1,19,RBC Regina Branch 35,Regina,SK,S4P 6D3,Retail Banking,2005-09-02,True
+36,RBC-BR-00036,1,12,RBC Surrey Branch 36,Surrey,BC,V3T 7M2,Wealth Centre,2004-04-16,True
+37,RBC-BR-00037,1,9,RBC Gatineau Branch 37,Gatineau,QC,J8X 8T9,Retail Banking,2020-06-06,True
+38,RBC-BR-00038,1,11,RBC Victoria Branch 38,Victoria,BC,V8W 1Z6,Retail Banking,1999-09-11,True
+39,RBC-BR-00039,1,8,RBC Laval Branch 39,Laval,QC,H7N 6O7,Retail Banking,2024-03-19,True
+40,RBC-BR-00040,1,3,RBC Mississauga Branch 40,Mississauga,ON,L5B 9Q3,Wealth Centre,1986-04-01,True
+41,RBC-BR-00041,1,3,RBC Mississauga Branch 41,Mississauga,ON,L5B 4K7,Retail Banking,2003-04-16,True
+42,RBC-BR-00042,1,1,RBC Toronto Branch 42,Toronto,ON,M5V 1I9,Retail Banking,1998-04-20,True
+43,RBC-BR-00043,1,3,RBC Mississauga Branch 43,Mississauga,ON,L5B 1B8,Retail Banking,2014-10-26,False
+44,RBC-BR-00044,1,6,RBC Montreal Branch 44,Montreal,QC,H3A 1O6,Commercial Banking,2019-01-24,True
+45,RBC-BR-00045,1,14,RBC Calgary Branch 45,Calgary,AB,T2P 7P8,Retail Banking,2005-02-05,False
+46,TD-BR-00046,2,2,TD Ottawa Branch 1,Ottawa,ON,K1P 1Q7,Digital Service Hub,2021-07-13,False
+47,TD-BR-00047,2,4,TD Hamilton Branch 2,Hamilton,ON,L8P 1M5,Retail Banking,1994-11-14,True
+48,TD-BR-00048,2,11,TD Victoria Branch 3,Victoria,BC,V8W 6A2,Wealth Centre,2000-11-02,True
+49,TD-BR-00049,2,9,TD Gatineau Branch 4,Gatineau,QC,J8X 2U8,Retail Banking,1992-07-05,True
+50,TD-BR-00050,2,15,TD Edmonton Branch 5,Edmonton,AB,T5J 7Q4,Retail Banking,2002-04-25,True
+51,TD-BR-00051,2,4,TD Hamilton Branch 6,Hamilton,ON,L8P 8T7,Retail Banking,1985-12-02,True
+52,TD-BR-00052,2,12,TD Surrey Branch 7,Surrey,BC,V3T 6Z5,Digital Service Hub,2010-06-03,True
+53,TD-BR-00053,2,2,TD Ottawa Branch 8,Ottawa,ON,K1P 9U4,Retail Banking,2019-05-19,True
+54,TD-BR-00054,2,8,TD Laval Branch 9,Laval,QC,H7N 9D6,Retail Banking,2010-06-22,True
+55,TD-BR-00055,2,1,TD Toronto Branch 10,Toronto,ON,M5V 2D1,Retail Banking,1998-03-03,True
+56,TD-BR-00056,2,7,TD Quebec City Branch 11,Quebec City,QC,G1R 3J6,Retail Banking,1998-03-17,True
+57,TD-BR-00057,2,7,TD Quebec City Branch 12,Quebec City,QC,G1R 6A7,Retail Banking,2000-06-15,True
+58,TD-BR-00058,2,5,TD London Branch 13,London,ON,N6A 5S9,Retail Banking,1996-11-18,True
+59,TD-BR-00059,2,11,TD Victoria Branch 14,Victoria,BC,V8W 1W5,Wealth Centre,1986-09-03,True
+60,TD-BR-00060,2,15,TD Edmonton Branch 15,Edmonton,AB,T5J 2U4,Retail Banking,1985-06-05,True
+61,TD-BR-00061,2,3,TD Mississauga Branch 16,Mississauga,ON,L5B 7H4,Retail Banking,2006-10-15,True
+62,TD-BR-00062,2,1,TD Toronto Branch 17,Toronto,ON,M5V 9J6,Commercial Banking,2022-06-25,True
+63,TD-BR-00063,2,19,TD Regina Branch 18,Regina,SK,S4P 5J7,Commercial Banking,2016-09-04,False
+64,TD-BR-00064,2,15,TD Edmonton Branch 19,Edmonton,AB,T5J 2F9,Retail Banking,2002-05-24,True
+65,TD-BR-00065,2,13,TD Burnaby Branch 20,Burnaby,BC,V5C 2H4,Commercial Banking,1991-06-14,True
+66,TD-BR-00066,2,15,TD Edmonton Branch 21,Edmonton,AB,T5J 1U9,Retail Banking,1996-06-19,True
+67,TD-BR-00067,2,3,TD Mississauga Branch 22,Mississauga,ON,L5B 7G2,Retail Banking,2006-05-15,True
+68,TD-BR-00068,2,2,TD Ottawa Branch 23,Ottawa,ON,K1P 6C1,Digital Service Hub,2017-12-20,True
+69,TD-BR-00069,2,1,TD Toronto Branch 24,Toronto,ON,M5V 6C4,Retail Banking,2015-05-02,True
+70,TD-BR-00070,2,6,TD Montreal Branch 25,Montreal,QC,H3A 2A7,Retail Banking,2001-05-07,True
+71,TD-BR-00071,2,14,TD Calgary Branch 26,Calgary,AB,T2P 7W4,Retail Banking,1988-05-13,True
+72,TD-BR-00072,2,3,TD Mississauga Branch 27,Mississauga,ON,L5B 3L1,Retail Banking,1990-02-27,True
+73,TD-BR-00073,2,7,TD Quebec City Branch 28,Quebec City,QC,G1R 4L9,Commercial Banking,2007-04-08,True
+74,TD-BR-00074,2,23,TD St. John's Branch 29,St. John's,NL,A1C 3H3,Retail Banking,2023-09-22,True
+75,TD-BR-00075,2,21,TD Moncton Branch 30,Moncton,NB,E1C 6R4,Wealth Centre,1992-04-08,True
+76,TD-BR-00076,2,5,TD London Branch 31,London,ON,N6A 9V4,Retail Banking,2011-10-16,True
+77,TD-BR-00077,2,8,TD Laval Branch 32,Laval,QC,H7N 7P1,Retail Banking,1997-06-01,True
+78,TD-BR-00078,2,7,TD Quebec City Branch 33,Quebec City,QC,G1R 5L8,Retail Banking,2003-07-13,True
+79,TD-BR-00079,2,23,TD St. John's Branch 34,St. John's,NL,A1C 1I5,Wealth Centre,2000-03-01,True
+80,TD-BR-00080,2,3,TD Mississauga Branch 35,Mississauga,ON,L5B 5O5,Retail Banking,2004-06-01,True
+81,TD-BR-00081,2,3,TD Mississauga Branch 36,Mississauga,ON,L5B 1D1,Retail Banking,1985-08-22,True
+82,TD-BR-00082,2,5,TD London Branch 37,London,ON,N6A 7O2,Retail Banking,2006-11-12,True
+83,TD-BR-00083,2,18,TD Saskatoon Branch 38,Saskatoon,SK,S7K 2C3,Commercial Banking,1999-02-14,True
+84,TD-BR-00084,2,11,TD Victoria Branch 39,Victoria,BC,V8W 2W8,Retail Banking,2008-08-20,True
+85,TD-BR-00085,2,3,TD Mississauga Branch 40,Mississauga,ON,L5B 8L3,Retail Banking,2022-12-13,True
+86,TD-BR-00086,2,16,TD Red Deer Branch 41,Red Deer,AB,T4N 1E4,Retail Banking,1995-11-02,True
+87,TD-BR-00087,2,5,TD London Branch 42,London,ON,N6A 9A8,Retail Banking,2016-07-18,True
+88,TD-BR-00088,2,11,TD Victoria Branch 43,Victoria,BC,V8W 9G1,Commercial Banking,2019-08-02,True
+89,TD-BR-00089,2,18,TD Saskatoon Branch 44,Saskatoon,SK,S7K 7J9,Retail Banking,2020-04-16,True
+90,TD-BR-00090,2,6,TD Montreal Branch 45,Montreal,QC,H3A 1E3,Wealth Centre,2005-08-07,True
+91,BNS-BR-00091,3,2,BNS Ottawa Branch 1,Ottawa,ON,K1P 5B3,Retail Banking,1985-05-12,True
+92,BNS-BR-00092,3,3,BNS Mississauga Branch 2,Mississauga,ON,L5B 7L7,Retail Banking,2007-09-23,True
+93,BNS-BR-00093,3,24,BNS Charlottetown Branch 3,Charlottetown,PE,C1A 2K8,Commercial Banking,1987-11-06,True
+94,BNS-BR-00094,3,2,BNS Ottawa Branch 4,Ottawa,ON,K1P 5M7,Wealth Centre,2018-08-26,True
+95,BNS-BR-00095,3,16,BNS Red Deer Branch 5,Red Deer,AB,T4N 5A9,Retail Banking,2022-01-14,True
+96,BNS-BR-00096,3,6,BNS Montreal Branch 6,Montreal,QC,H3A 2B2,Retail Banking,2010-08-03,True
+97,BNS-BR-00097,3,22,BNS Fredericton Branch 7,Fredericton,NB,E3B 3V4,Wealth Centre,2022-10-01,True
+98,BNS-BR-00098,3,3,BNS Mississauga Branch 8,Mississauga,ON,L5B 9H1,Retail Banking,2021-10-01,True
+99,BNS-BR-00099,3,8,BNS Laval Branch 9,Laval,QC,H7N 3T1,Retail Banking,2019-01-18,True
+100,BNS-BR-00100,3,10,BNS Vancouver Branch 10,Vancouver,BC,V6B 3U1,Retail Banking,2001-07-26,True
+101,BNS-BR-00101,3,4,BNS Hamilton Branch 11,Hamilton,ON,L8P 4X4,Retail Banking,2008-06-04,True
+102,BNS-BR-00102,3,2,BNS Ottawa Branch 12,Ottawa,ON,K1P 7C2,Retail Banking,2015-09-21,True
+103,BNS-BR-00103,3,7,BNS Quebec City Branch 13,Quebec City,QC,G1R 5L1,Retail Banking,2021-01-26,False
+104,BNS-BR-00104,3,17,BNS Winnipeg Branch 14,Winnipeg,MB,R3C 4C8,Retail Banking,2019-10-06,True
+105,BNS-BR-00105,3,17,BNS Winnipeg Branch 15,Winnipeg,MB,R3C 1W4,Retail Banking,2018-03-19,True
+106,BNS-BR-00106,3,2,BNS Ottawa Branch 16,Ottawa,ON,K1P 1J8,Retail Banking,1991-05-10,False
+107,BNS-BR-00107,3,19,BNS Regina Branch 17,Regina,SK,S4P 3A4,Retail Banking,1990-10-10,True
+108,BNS-BR-00108,3,21,BNS Moncton Branch 18,Moncton,NB,E1C 1W7,Commercial Banking,2003-02-15,True
+109,BNS-BR-00109,3,8,BNS Laval Branch 19,Laval,QC,H7N 4F6,Digital Service Hub,1989-07-04,True
+110,BNS-BR-00110,3,14,BNS Calgary Branch 20,Calgary,AB,T2P 5M4,Retail Banking,1985-06-23,True
+111,BNS-BR-00111,3,2,BNS Ottawa Branch 21,Ottawa,ON,K1P 5Z9,Retail Banking,1999-03-16,True
+112,BNS-BR-00112,3,6,BNS Montreal Branch 22,Montreal,QC,H3A 6Y4,Wealth Centre,1985-11-23,True
+113,BNS-BR-00113,3,1,BNS Toronto Branch 23,Toronto,ON,M5V 9Z8,Retail Banking,2008-08-19,False
+114,BNS-BR-00114,3,7,BNS Quebec City Branch 24,Quebec City,QC,G1R 5F5,Retail Banking,2018-11-02,True
+115,BNS-BR-00115,3,10,BNS Vancouver Branch 25,Vancouver,BC,V6B 8O4,Wealth Centre,1990-04-20,True
+116,BNS-BR-00116,3,11,BNS Victoria Branch 26,Victoria,BC,V8W 8G1,Retail Banking,1993-09-22,True
+117,BNS-BR-00117,3,18,BNS Saskatoon Branch 27,Saskatoon,SK,S7K 5G5,Retail Banking,1996-07-22,True
+118,BNS-BR-00118,3,20,BNS Halifax Branch 28,Halifax,NS,B3J 6P3,Wealth Centre,2019-11-16,True
+119,BNS-BR-00119,3,12,BNS Surrey Branch 29,Surrey,BC,V3T 4E1,Retail Banking,2013-05-13,True
+120,BNS-BR-00120,3,5,BNS London Branch 30,London,ON,N6A 2F2,Retail Banking,1990-03-04,True
+121,BNS-BR-00121,3,20,BNS Halifax Branch 31,Halifax,NS,B3J 2K1,Retail Banking,2010-03-19,True
+122,BNS-BR-00122,3,5,BNS London Branch 32,London,ON,N6A 7O4,Retail Banking,1992-09-24,True
+123,BNS-BR-00123,3,13,BNS Burnaby Branch 33,Burnaby,BC,V5C 5F8,Retail Banking,2014-07-09,True
+124,BNS-BR-00124,3,6,BNS Montreal Branch 34,Montreal,QC,H3A 8B9,Wealth Centre,2012-08-19,True
+125,BNS-BR-00125,3,3,BNS Mississauga Branch 35,Mississauga,ON,L5B 3A6,Retail Banking,2013-12-24,True
+126,BNS-BR-00126,3,10,BNS Vancouver Branch 36,Vancouver,BC,V6B 1W9,Retail Banking,1987-11-01,True
+127,BNS-BR-00127,3,6,BNS Montreal Branch 37,Montreal,QC,H3A 8T2,Retail Banking,2019-08-25,True
+128,BNS-BR-00128,3,2,BNS Ottawa Branch 38,Ottawa,ON,K1P 4Y4,Retail Banking,2022-03-27,True
+129,BNS-BR-00129,3,2,BNS Ottawa Branch 39,Ottawa,ON,K1P 9V5,Retail Banking,1990-11-08,True
+130,BNS-BR-00130,3,2,BNS Ottawa Branch 40,Ottawa,ON,K1P 3S7,Retail Banking,2018-08-16,True
+131,BMO-BR-00131,4,2,BMO Ottawa Branch 1,Ottawa,ON,K1P 5Q8,Retail Banking,2010-10-16,True
+132,BMO-BR-00132,4,2,BMO Ottawa Branch 2,Ottawa,ON,K1P 7P9,Retail Banking,1997-11-10,True
+133,BMO-BR-00133,4,6,BMO Montreal Branch 3,Montreal,QC,H3A 5C5,Wealth Centre,2021-06-08,True
+134,BMO-BR-00134,4,21,BMO Moncton Branch 4,Moncton,NB,E1C 9O8,Wealth Centre,1989-09-04,True
+135,BMO-BR-00135,4,3,BMO Mississauga Branch 5,Mississauga,ON,L5B 7E7,Retail Banking,2011-11-27,True
+136,BMO-BR-00136,4,2,BMO Ottawa Branch 6,Ottawa,ON,K1P 5S8,Retail Banking,2015-04-17,False
+137,BMO-BR-00137,4,16,BMO Red Deer Branch 7,Red Deer,AB,T4N 6G1,Retail Banking,1985-05-06,True
+138,BMO-BR-00138,4,15,BMO Edmonton Branch 8,Edmonton,AB,T5J 1Y6,Retail Banking,2017-04-13,True
+139,BMO-BR-00139,4,5,BMO London Branch 9,London,ON,N6A 5M7,Retail Banking,2019-11-16,False
+140,BMO-BR-00140,4,5,BMO London Branch 10,London,ON,N6A 9E8,Retail Banking,1990-06-18,True
+141,BMO-BR-00141,4,20,BMO Halifax Branch 11,Halifax,NS,B3J 9H1,Retail Banking,1992-07-07,True
+142,BMO-BR-00142,4,9,BMO Gatineau Branch 12,Gatineau,QC,J8X 9F4,Retail Banking,1987-12-17,True
+143,BMO-BR-00143,4,4,BMO Hamilton Branch 13,Hamilton,ON,L8P 1V4,Retail Banking,2006-04-23,False
+144,BMO-BR-00144,4,13,BMO Burnaby Branch 14,Burnaby,BC,V5C 8C3,Retail Banking,2011-11-11,True
+145,BMO-BR-00145,4,2,BMO Ottawa Branch 15,Ottawa,ON,K1P 2P8,Retail Banking,1999-12-08,True
+146,BMO-BR-00146,4,24,BMO Charlottetown Branch 16,Charlottetown,PE,C1A 6Y1,Retail Banking,1997-10-25,True
+147,BMO-BR-00147,4,8,BMO Laval Branch 17,Laval,QC,H7N 6D6,Retail Banking,2014-04-08,True
+148,BMO-BR-00148,4,16,BMO Red Deer Branch 18,Red Deer,AB,T4N 4I7,Retail Banking,2012-09-19,True
+149,BMO-BR-00149,4,4,BMO Hamilton Branch 19,Hamilton,ON,L8P 2A7,Retail Banking,2002-05-17,True
+150,BMO-BR-00150,4,1,BMO Toronto Branch 20,Toronto,ON,M5V 2G9,Wealth Centre,2013-09-24,True
+151,BMO-BR-00151,4,21,BMO Moncton Branch 21,Moncton,NB,E1C 5A9,Retail Banking,2005-10-27,True
+152,BMO-BR-00152,4,4,BMO Hamilton Branch 22,Hamilton,ON,L8P 7O1,Commercial Banking,2010-03-11,True
+153,BMO-BR-00153,4,4,BMO Hamilton Branch 23,Hamilton,ON,L8P 6L5,Retail Banking,2007-08-17,True
+154,BMO-BR-00154,4,13,BMO Burnaby Branch 24,Burnaby,BC,V5C 2L6,Retail Banking,2008-06-20,True
+155,BMO-BR-00155,4,10,BMO Vancouver Branch 25,Vancouver,BC,V6B 8D7,Retail Banking,2008-08-20,True
+156,BMO-BR-00156,4,8,BMO Laval Branch 26,Laval,QC,H7N 3H5,Retail Banking,2019-05-02,True
+157,BMO-BR-00157,4,19,BMO Regina Branch 27,Regina,SK,S4P 5Z8,Retail Banking,2006-06-25,True
+158,BMO-BR-00158,4,1,BMO Toronto Branch 28,Toronto,ON,M5V 7T6,Digital Service Hub,2009-05-01,False
+159,BMO-BR-00159,4,11,BMO Victoria Branch 29,Victoria,BC,V8W 5V6,Retail Banking,1996-08-23,True
+160,BMO-BR-00160,4,9,BMO Gatineau Branch 30,Gatineau,QC,J8X 4A7,Digital Service Hub,1991-01-06,True
+161,BMO-BR-00161,4,3,BMO Mississauga Branch 31,Mississauga,ON,L5B 9B6,Retail Banking,2002-01-03,True
+162,BMO-BR-00162,4,9,BMO Gatineau Branch 32,Gatineau,QC,J8X 3Y5,Retail Banking,1994-11-25,True
+163,BMO-BR-00163,4,10,BMO Vancouver Branch 33,Vancouver,BC,V6B 6W5,Retail Banking,1991-09-13,True
+164,BMO-BR-00164,4,13,BMO Burnaby Branch 34,Burnaby,BC,V5C 3T3,Digital Service Hub,1998-01-26,True
+165,BMO-BR-00165,4,8,BMO Laval Branch 35,Laval,QC,H7N 8D1,Wealth Centre,2007-12-22,True
+166,BMO-BR-00166,4,4,BMO Hamilton Branch 36,Hamilton,ON,L8P 1P2,Commercial Banking,2003-12-27,True
+167,BMO-BR-00167,4,2,BMO Ottawa Branch 37,Ottawa,ON,K1P 4M2,Retail Banking,2008-10-23,True
+168,BMO-BR-00168,4,10,BMO Vancouver Branch 38,Vancouver,BC,V6B 5F6,Retail Banking,2017-07-23,True
+169,BMO-BR-00169,4,9,BMO Gatineau Branch 39,Gatineau,QC,J8X 4X3,Retail Banking,2024-02-16,True
+170,BMO-BR-00170,4,1,BMO Toronto Branch 40,Toronto,ON,M5V 6Z2,Retail Banking,2022-11-19,True
+171,CIBC-BR-00171,5,10,CIBC Vancouver Branch 1,Vancouver,BC,V6B 3N9,Commercial Banking,2023-03-02,True
+172,CIBC-BR-00172,5,8,CIBC Laval Branch 2,Laval,QC,H7N 2O1,Retail Banking,1997-01-18,True
+173,CIBC-BR-00173,5,1,CIBC Toronto Branch 3,Toronto,ON,M5V 1O9,Retail Banking,2008-03-09,True
+174,CIBC-BR-00174,5,17,CIBC Winnipeg Branch 4,Winnipeg,MB,R3C 1J5,Retail Banking,1999-03-19,True
+175,CIBC-BR-00175,5,16,CIBC Red Deer Branch 5,Red Deer,AB,T4N 4G3,Retail Banking,2008-11-14,True
+176,CIBC-BR-00176,5,1,CIBC Toronto Branch 6,Toronto,ON,M5V 6M8,Retail Banking,2014-11-15,True
+177,CIBC-BR-00177,5,3,CIBC Mississauga Branch 7,Mississauga,ON,L5B 8L7,Commercial Banking,2022-07-26,True
+178,CIBC-BR-00178,5,13,CIBC Burnaby Branch 8,Burnaby,BC,V5C 2G2,Retail Banking,2018-06-03,True
+179,CIBC-BR-00179,5,1,CIBC Toronto Branch 9,Toronto,ON,M5V 9U5,Retail Banking,1997-10-02,True
+180,CIBC-BR-00180,5,8,CIBC Laval Branch 10,Laval,QC,H7N 5Q2,Retail Banking,2006-03-08,True
+181,CIBC-BR-00181,5,14,CIBC Calgary Branch 11,Calgary,AB,T2P 6Y9,Retail Banking,2010-07-19,True
+182,CIBC-BR-00182,5,10,CIBC Vancouver Branch 12,Vancouver,BC,V6B 2R1,Retail Banking,2012-05-19,True
+183,CIBC-BR-00183,5,3,CIBC Mississauga Branch 13,Mississauga,ON,L5B 7T1,Retail Banking,2024-10-06,True
+184,CIBC-BR-00184,5,9,CIBC Gatineau Branch 14,Gatineau,QC,J8X 2D1,Retail Banking,1994-03-08,True
+185,CIBC-BR-00185,5,3,CIBC Mississauga Branch 15,Mississauga,ON,L5B 5I9,Retail Banking,2015-08-13,True
+186,CIBC-BR-00186,5,5,CIBC London Branch 16,London,ON,N6A 1U7,Retail Banking,1990-07-14,True
+187,CIBC-BR-00187,5,5,CIBC London Branch 17,London,ON,N6A 1Q8,Commercial Banking,2009-11-25,True
+188,CIBC-BR-00188,5,10,CIBC Vancouver Branch 18,Vancouver,BC,V6B 6V6,Digital Service Hub,2006-11-17,True
+189,CIBC-BR-00189,5,16,CIBC Red Deer Branch 19,Red Deer,AB,T4N 6S7,Retail Banking,1990-10-01,True
+190,CIBC-BR-00190,5,2,CIBC Ottawa Branch 20,Ottawa,ON,K1P 3P4,Commercial Banking,1992-03-17,True
+191,CIBC-BR-00191,5,12,CIBC Surrey Branch 21,Surrey,BC,V3T 7W5,Retail Banking,1999-06-02,True
+192,CIBC-BR-00192,5,21,CIBC Moncton Branch 22,Moncton,NB,E1C 8Q5,Retail Banking,1994-09-12,True
+193,CIBC-BR-00193,5,5,CIBC London Branch 23,London,ON,N6A 6W1,Retail Banking,1987-08-12,True
+194,CIBC-BR-00194,5,16,CIBC Red Deer Branch 24,Red Deer,AB,T4N 9C5,Commercial Banking,2022-04-25,False
+195,CIBC-BR-00195,5,18,CIBC Saskatoon Branch 25,Saskatoon,SK,S7K 5X6,Commercial Banking,2005-06-06,True
+196,CIBC-BR-00196,5,14,CIBC Calgary Branch 26,Calgary,AB,T2P 1H9,Retail Banking,1998-06-24,True
+197,CIBC-BR-00197,5,5,CIBC London Branch 27,London,ON,N6A 5K1,Retail Banking,2016-09-18,True
+198,CIBC-BR-00198,5,6,CIBC Montreal Branch 28,Montreal,QC,H3A 4C9,Retail Banking,2001-01-22,True
+199,CIBC-BR-00199,5,6,CIBC Montreal Branch 29,Montreal,QC,H3A 8C1,Retail Banking,2019-04-06,True
+200,CIBC-BR-00200,5,1,CIBC Toronto Branch 30,Toronto,ON,M5V 8B6,Retail Banking,2002-01-09,True
+201,CIBC-BR-00201,5,4,CIBC Hamilton Branch 31,Hamilton,ON,L8P 6Q6,Retail Banking,2017-02-15,True
+202,CIBC-BR-00202,5,10,CIBC Vancouver Branch 32,Vancouver,BC,V6B 5N1,Commercial Banking,2018-04-21,False
+203,CIBC-BR-00203,5,7,CIBC Quebec City Branch 33,Quebec City,QC,G1R 3P5,Retail Banking,2002-05-02,True
+204,CIBC-BR-00204,5,8,CIBC Laval Branch 34,Laval,QC,H7N 1E9,Digital Service Hub,1985-03-23,True
+205,CIBC-BR-00205,5,9,CIBC Gatineau Branch 35,Gatineau,QC,J8X 8H2,Retail Banking,1990-09-08,True
+206,CIBC-BR-00206,5,22,CIBC Fredericton Branch 36,Fredericton,NB,E3B 9C2,Retail Banking,2009-06-27,True
+207,CIBC-BR-00207,5,8,CIBC Laval Branch 37,Laval,QC,H7N 7W8,Retail Banking,2019-05-23,True
+208,CIBC-BR-00208,5,1,CIBC Toronto Branch 38,Toronto,ON,M5V 3T4,Retail Banking,1994-01-18,True
+209,NBC-BR-00209,6,7,NBC Quebec City Branch 1,Quebec City,QC,G1R 8N1,Retail Banking,2004-03-19,True
+210,NBC-BR-00210,6,17,NBC Winnipeg Branch 2,Winnipeg,MB,R3C 2Y6,Retail Banking,2022-12-17,False
+211,NBC-BR-00211,6,2,NBC Ottawa Branch 3,Ottawa,ON,K1P 9F9,Retail Banking,1998-09-12,True
+212,NBC-BR-00212,6,3,NBC Mississauga Branch 4,Mississauga,ON,L5B 2S3,Commercial Banking,2003-01-13,True
+213,NBC-BR-00213,6,13,NBC Burnaby Branch 5,Burnaby,BC,V5C 1N7,Retail Banking,1997-04-15,True
+214,NBC-BR-00214,6,1,NBC Toronto Branch 6,Toronto,ON,M5V 3Z3,Retail Banking,2007-05-04,True
+215,NBC-BR-00215,6,5,NBC London Branch 7,London,ON,N6A 6G8,Retail Banking,2005-09-17,True
+216,NBC-BR-00216,6,10,NBC Vancouver Branch 8,Vancouver,BC,V6B 6M2,Retail Banking,1997-06-05,True
+217,NBC-BR-00217,6,7,NBC Quebec City Branch 9,Quebec City,QC,G1R 2D4,Retail Banking,2021-12-14,True
+218,NBC-BR-00218,6,19,NBC Regina Branch 10,Regina,SK,S4P 5I4,Commercial Banking,2006-07-06,True
+219,NBC-BR-00219,6,6,NBC Montreal Branch 11,Montreal,QC,H3A 9E1,Retail Banking,2015-05-05,True
+220,NBC-BR-00220,6,2,NBC Ottawa Branch 12,Ottawa,ON,K1P 4U2,Commercial Banking,1994-07-22,True
+221,NBC-BR-00221,6,7,NBC Quebec City Branch 13,Quebec City,QC,G1R 1Y3,Retail Banking,1994-12-14,False
+222,NBC-BR-00222,6,14,NBC Calgary Branch 14,Calgary,AB,T2P 5F1,Retail Banking,1991-03-21,True
+223,NBC-BR-00223,6,3,NBC Mississauga Branch 15,Mississauga,ON,L5B 6C3,Retail Banking,2024-08-24,True
+224,NBC-BR-00224,6,15,NBC Edmonton Branch 16,Edmonton,AB,T5J 6X5,Retail Banking,2023-09-20,True
+225,NBC-BR-00225,6,8,NBC Laval Branch 17,Laval,QC,H7N 7K3,Commercial Banking,1997-07-26,True
+226,NBC-BR-00226,6,12,NBC Surrey Branch 18,Surrey,BC,V3T 3J5,Retail Banking,2008-10-08,True

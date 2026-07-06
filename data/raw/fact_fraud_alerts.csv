@@ -1,0 +1,1801 @@
+fraud_alert_id,transaction_id,account_id,customer_id,institution_id,branch_id,alert_date,alert_type,severity,confirmed_fraud_flag,estimated_loss_amount,resolution_status
+1,29778,12037,5859,6,209,2025-12-27,Card Not Present,High,False,0.0,Closed - False Positive
+2,59810,6059,2968,1,36,2023-04-02,Unusual Amount,Low,False,0.0,Closed - False Positive
+3,26981,6465,3164,3,125,2024-01-15,Card Not Present,Low,False,0.0,Closed - False Positive
+4,39862,3539,1735,6,226,2024-05-16,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+5,51442,7313,3586,3,125,2024-05-16,Geo Mismatch,Low,False,0.0,Closed - False Positive
+6,18092,13401,6525,3,103,2023-03-16,Velocity Spike,Low,False,0.0,Closed - False Positive
+7,36980,11797,5750,6,220,2024-09-13,Velocity Spike,Medium,False,0.0,Closed - False Positive
+8,32119,7985,3902,5,208,2024-09-05,Velocity Spike,Low,False,0.0,Closed - False Positive
+9,35779,7932,3880,2,74,2024-04-04,High Risk Merchant,Low,True,120.44,Closed - Confirmed Fraud
+10,57741,10600,5161,3,99,2025-06-02,Velocity Spike,High,False,0.0,Closed - False Positive
+11,17427,1282,619,4,169,2024-05-15,Card Not Present,Low,False,0.0,Closed - False Positive
+12,18570,6445,3156,1,42,2025-03-17,Known Compromise,High,False,0.0,Under Review
+13,258,6250,3058,1,14,2024-09-02,High Risk Merchant,High,True,48.13,Closed - Confirmed Fraud
+14,25173,4374,2141,2,74,2024-03-23,Velocity Spike,Low,False,0.0,Closed - False Positive
+15,41673,13677,6656,1,28,2023-10-22,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+16,31597,7902,3864,1,19,2023-08-01,High Risk Merchant,Medium,False,0.0,Customer Contacted
+17,47381,11571,5645,2,57,2024-12-04,Card Not Present,Low,False,0.0,Closed - False Positive
+18,9100,6694,3279,1,45,2025-01-13,Geo Mismatch,Low,False,0.0,Account Frozen
+19,50517,8160,3988,3,101,2025-09-05,Velocity Spike,Critical,True,148.85,Account Frozen
+20,53665,4157,2032,2,57,2024-05-31,Unusual Amount,High,False,0.0,Customer Contacted
+21,28412,11897,5797,2,56,2025-09-15,Card Not Present,Critical,False,0.0,Closed - Confirmed Fraud
+22,41034,7218,3536,6,216,2025-01-28,Velocity Spike,High,True,36.15,Closed - Confirmed Fraud
+23,34638,6725,3292,1,10,2025-07-08,Velocity Spike,Medium,False,0.0,Closed - False Positive
+24,28463,6235,3052,1,2,2025-06-07,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+25,39200,12804,6225,1,26,2025-12-16,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+26,11502,10214,4979,6,209,2025-01-01,High Risk Merchant,Low,True,607.55,Closed - Confirmed Fraud
+27,9250,4678,2289,3,111,2023-11-17,High Risk Merchant,High,False,0.0,Closed - False Positive
+28,34766,10763,5243,3,119,2025-01-10,Unusual Amount,Low,False,0.0,Closed - False Positive
+29,25858,11639,5678,3,113,2025-12-08,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+30,58790,2970,1447,2,46,2024-06-10,Known Compromise,Critical,True,352.62,Closed - Confirmed Fraud
+31,50005,9506,4640,2,66,2024-01-04,Geo Mismatch,Critical,False,0.0,Under Review
+32,41185,11331,5522,6,226,2023-07-20,Card Not Present,Low,False,0.0,Customer Contacted
+33,47795,6934,3398,5,189,2025-01-06,Known Compromise,Medium,False,0.0,Closed - False Positive
+34,67214,4824,2367,5,200,2023-05-22,Card Not Present,Low,True,307.51,Closed - Confirmed Fraud
+35,11077,7965,3894,3,119,2025-04-16,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+36,60834,11878,5791,5,171,2023-03-29,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+37,50299,1163,569,4,132,2025-07-24,Known Compromise,Medium,False,0.0,Closed - False Positive
+38,42252,3404,1668,3,105,2024-01-07,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+39,62697,3230,1577,2,61,2024-05-19,Unusual Amount,Low,False,0.0,Account Frozen
+40,36284,8930,4367,1,31,2024-02-16,Velocity Spike,Medium,False,0.0,Closed - False Positive
+41,62973,8909,4357,2,59,2025-02-07,Geo Mismatch,Medium,False,0.0,Account Frozen
+42,56261,7197,3526,2,51,2023-12-07,Unusual Amount,Medium,False,0.0,Closed - False Positive
+43,32660,7666,3753,5,174,2023-09-01,Unusual Amount,Low,False,0.0,Closed - False Positive
+44,1858,12472,6061,1,7,2023-03-10,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+45,37582,11262,5486,2,83,2024-08-02,Card Not Present,Low,False,0.0,Under Review
+46,58593,3312,1619,4,141,2025-06-11,Velocity Spike,Medium,True,234.72,Account Frozen
+47,58181,13290,6470,6,214,2025-09-27,Card Not Present,Low,False,0.0,Account Frozen
+48,50815,11346,5530,1,34,2025-09-01,Card Not Present,Low,False,0.0,Under Review
+49,19646,6075,2978,2,70,2025-04-23,Known Compromise,High,True,39.36,Account Frozen
+50,68883,2083,1017,1,25,2024-08-09,Velocity Spike,Critical,True,372.48,Account Frozen
+51,4533,5917,2904,4,152,2024-07-27,Velocity Spike,High,True,33.47,Account Frozen
+52,40906,1958,955,1,31,2023-05-21,Card Not Present,Medium,False,0.0,Customer Contacted
+53,29374,12467,6059,1,33,2025-09-27,Unusual Amount,Low,False,0.0,Under Review
+54,16985,3520,1722,2,60,2024-03-14,High Risk Merchant,Low,False,0.0,Closed - False Positive
+55,42697,6743,3302,3,93,2023-12-06,Velocity Spike,Medium,False,0.0,Customer Contacted
+56,4377,9045,4420,2,55,2024-06-01,Velocity Spike,Medium,False,0.0,Closed - False Positive
+57,21455,272,130,3,97,2023-11-20,High Risk Merchant,Low,True,174.44,Customer Contacted
+58,35298,8469,4137,1,6,2024-08-27,Geo Mismatch,High,False,0.0,Closed - False Positive
+59,34894,9110,4447,2,83,2023-07-13,Unusual Amount,High,True,70.57,Closed - Confirmed Fraud
+60,61641,6039,2961,2,77,2023-08-17,Card Not Present,Low,False,0.0,Closed - False Positive
+61,63365,9109,4446,1,35,2023-08-25,Geo Mismatch,Medium,False,0.0,Customer Contacted
+62,62637,9616,4694,1,24,2024-10-22,Known Compromise,High,False,0.0,Closed - False Positive
+63,54431,2461,1198,6,222,2024-12-20,High Risk Merchant,Medium,True,63.49,Customer Contacted
+64,23560,11452,5581,5,196,2024-04-20,High Risk Merchant,High,False,0.0,Closed - Confirmed Fraud
+65,23404,4381,2143,2,72,2025-11-26,Geo Mismatch,Low,False,0.0,Closed - False Positive
+66,62496,10311,5027,3,106,2024-08-10,Velocity Spike,Low,False,0.0,Account Frozen
+67,6307,5142,2522,3,94,2024-10-21,Velocity Spike,Low,False,0.0,Customer Contacted
+68,21176,6962,3410,5,196,2024-03-30,Card Not Present,Low,False,0.0,Account Frozen
+69,9832,7034,3444,3,123,2023-12-21,Velocity Spike,Medium,False,0.0,Closed - False Positive
+70,55527,4837,2372,3,116,2024-01-12,Velocity Spike,Critical,False,0.0,Under Review
+71,57153,12040,5861,3,109,2023-02-15,Unusual Amount,High,False,0.0,Closed - False Positive
+72,48065,13157,6404,3,125,2025-04-14,Known Compromise,High,False,0.0,Customer Contacted
+73,40578,11954,5826,6,215,2024-02-29,Unusual Amount,Medium,False,0.0,Closed - False Positive
+74,31251,9974,4858,4,152,2024-02-19,Card Not Present,Low,False,0.0,Closed - False Positive
+75,23664,9936,4842,1,24,2024-09-08,Card Not Present,Medium,False,0.0,Closed - False Positive
+76,59805,13851,6749,3,130,2025-12-31,Card Not Present,Low,False,0.0,Closed - False Positive
+77,17122,3339,1632,2,88,2025-10-27,Card Not Present,High,False,0.0,Closed - False Positive
+78,49170,7021,3438,5,195,2024-12-08,Geo Mismatch,Critical,False,0.0,Closed - False Positive
+79,45265,2741,1325,5,174,2025-01-30,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+80,29052,4336,2120,1,22,2025-09-05,Card Not Present,High,False,0.0,Under Review
+81,44296,9195,4493,6,213,2023-01-20,Card Not Present,High,False,0.0,Closed - False Positive
+82,69949,8383,4098,5,176,2025-11-18,Geo Mismatch,Medium,False,0.0,Customer Contacted
+83,65844,5555,2727,5,201,2025-05-13,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+84,40885,10888,5303,6,224,2024-02-06,Known Compromise,Low,False,0.0,Customer Contacted
+85,29567,364,176,5,203,2025-05-20,Unusual Amount,Medium,False,0.0,Closed - False Positive
+86,18557,9387,4580,2,56,2023-05-12,Known Compromise,Low,False,0.0,Closed - False Positive
+87,50109,14083,6865,2,73,2023-12-02,Geo Mismatch,Low,False,0.0,Closed - False Positive
+88,20320,4728,2318,5,185,2024-03-03,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+89,9051,1187,577,2,48,2025-02-12,Velocity Spike,Low,False,0.0,Closed - False Positive
+90,17960,8534,4169,2,63,2025-07-07,Velocity Spike,High,False,0.0,Account Frozen
+91,34860,10385,5063,1,44,2025-06-30,Velocity Spike,Low,False,0.0,Closed - False Positive
+92,47805,11998,5844,2,84,2023-09-28,Unusual Amount,High,True,19.0,Closed - Confirmed Fraud
+93,10132,5858,2875,1,29,2025-02-17,High Risk Merchant,High,False,0.0,Account Frozen
+94,6865,11235,5472,4,143,2024-12-08,Card Not Present,High,False,0.0,Closed - False Positive
+95,62676,215,106,3,107,2024-06-27,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+96,11877,11270,5489,5,184,2023-06-15,Unusual Amount,High,True,83.66,Closed - Confirmed Fraud
+97,21639,13602,6619,3,129,2025-08-04,Unusual Amount,Low,False,0.0,Closed - False Positive
+98,18376,2663,1290,1,15,2023-08-31,Card Not Present,Medium,False,0.0,Under Review
+99,40241,12384,6022,5,196,2025-03-02,Geo Mismatch,Low,False,0.0,Closed - False Positive
+100,11431,9463,4616,1,1,2024-05-11,Velocity Spike,Medium,False,0.0,Closed - False Positive
+101,68531,9678,4725,3,99,2025-08-11,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+102,27969,2539,1234,4,139,2024-04-04,Geo Mismatch,High,False,0.0,Under Review
+103,5911,4076,1989,5,206,2024-04-13,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+104,65355,8661,4229,2,51,2025-05-01,Card Not Present,Low,False,0.0,Closed - False Positive
+105,52495,13580,6610,2,46,2025-06-18,Geo Mismatch,Low,False,0.0,Closed - False Positive
+106,24097,10817,5269,2,63,2023-09-06,Unusual Amount,Medium,False,0.0,Customer Contacted
+107,66627,9309,4544,5,193,2023-06-27,Known Compromise,Medium,False,0.0,Closed - False Positive
+108,55432,8998,4399,2,68,2024-01-20,Geo Mismatch,High,False,0.0,Closed - False Positive
+109,25402,4708,2308,6,226,2025-03-29,Velocity Spike,Low,False,0.0,Closed - False Positive
+110,33033,13142,6395,4,165,2023-06-06,Velocity Spike,Low,False,0.0,Customer Contacted
+111,65798,9943,4844,5,186,2023-09-03,Card Not Present,Low,False,0.0,Customer Contacted
+112,29143,5988,2935,5,184,2023-07-28,Velocity Spike,High,True,57.78,Closed - Confirmed Fraud
+113,55459,3513,1719,2,75,2025-02-27,Velocity Spike,Medium,False,0.0,Under Review
+114,1682,4004,1956,2,68,2023-12-13,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+115,9816,4965,2433,4,165,2025-12-03,High Risk Merchant,High,True,105.8,Customer Contacted
+116,47198,5583,2739,1,6,2023-10-16,Velocity Spike,Low,False,0.0,Closed - False Positive
+117,25456,12620,6135,3,118,2025-08-15,High Risk Merchant,Medium,True,546.14,Closed - Confirmed Fraud
+118,50022,3236,1581,2,89,2024-08-13,Velocity Spike,Low,False,0.0,Closed - False Positive
+119,12706,5238,2570,3,106,2024-06-27,Geo Mismatch,Low,False,0.0,Account Frozen
+120,68347,6354,3111,2,72,2025-02-23,High Risk Merchant,Medium,False,0.0,Account Frozen
+121,29967,6383,3126,3,102,2023-06-26,Card Not Present,Low,False,0.0,Closed - False Positive
+122,14979,3870,1887,2,90,2023-11-04,Known Compromise,Low,False,0.0,Under Review
+123,7796,5597,2748,4,135,2025-07-03,Unusual Amount,Medium,False,0.0,Closed - False Positive
+124,42743,13934,6791,1,28,2023-02-23,Unusual Amount,High,True,142.47,Customer Contacted
+125,47603,12557,6105,5,198,2024-11-01,Card Not Present,Medium,False,0.0,Closed - False Positive
+126,41298,3739,1826,2,85,2025-02-11,Unusual Amount,Low,False,0.0,Under Review
+127,8117,5265,2586,1,14,2024-03-13,Geo Mismatch,Low,False,0.0,Closed - False Positive
+128,68296,10413,5076,5,173,2024-05-06,Card Not Present,Medium,False,0.0,Closed - False Positive
+129,47520,5902,2897,2,48,2023-12-09,High Risk Merchant,Medium,True,150.89,Closed - Confirmed Fraud
+130,53879,2023,986,6,217,2023-04-18,Velocity Spike,Critical,True,12.66,Account Frozen
+131,48300,8099,3959,2,72,2024-09-08,Unusual Amount,Low,False,0.0,Closed - False Positive
+132,65833,14248,6941,1,8,2023-09-09,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+133,16677,10436,5085,5,171,2023-03-12,Velocity Spike,Low,False,0.0,Account Frozen
+134,3529,8841,4325,5,198,2023-06-09,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+135,51271,12990,6323,3,99,2024-10-25,Geo Mismatch,Low,False,0.0,Closed - False Positive
+136,8532,11353,5533,2,79,2025-10-09,Card Not Present,Low,False,0.0,Closed - False Positive
+137,67520,4346,2127,5,172,2023-11-19,High Risk Merchant,High,True,99.36,Closed - Confirmed Fraud
+138,49305,7061,3456,3,111,2023-07-14,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+139,28808,9550,4661,3,115,2025-01-10,Unusual Amount,Low,False,0.0,Closed - False Positive
+140,52883,3780,1844,5,183,2025-01-03,Geo Mismatch,High,True,30.9,Closed - Confirmed Fraud
+141,51266,12700,6173,1,25,2024-01-30,Unusual Amount,Critical,True,119.29,Customer Contacted
+142,40805,1568,758,3,94,2023-01-01,Card Not Present,High,True,67.78,Closed - Confirmed Fraud
+143,35997,3617,1770,3,123,2024-02-05,Geo Mismatch,High,False,0.0,Customer Contacted
+144,35916,1018,495,2,60,2025-08-11,Card Not Present,Low,False,0.0,Closed - False Positive
+145,11132,11333,5524,5,194,2023-07-17,Known Compromise,Medium,False,0.0,Under Review
+146,3854,8594,4194,1,18,2024-01-25,Velocity Spike,High,True,162.7,Closed - Confirmed Fraud
+147,18378,5926,2907,4,139,2023-01-04,Geo Mismatch,Low,False,0.0,Closed - False Positive
+148,26193,13365,6506,6,222,2024-03-12,Card Not Present,Low,False,0.0,Customer Contacted
+149,51824,14224,6931,1,41,2024-02-21,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+150,46337,7049,3451,2,82,2024-12-23,Velocity Spike,Medium,False,0.0,Closed - False Positive
+151,18939,9095,4441,1,41,2023-03-23,Card Not Present,Medium,False,0.0,Customer Contacted
+152,29206,5703,2796,5,199,2024-05-09,Card Not Present,Low,False,0.0,Closed - False Positive
+153,8908,12722,6184,1,1,2025-01-20,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+154,16012,6667,3263,2,57,2023-04-02,Card Not Present,Medium,False,0.0,Closed - False Positive
+155,26068,13333,6489,2,67,2024-01-13,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+156,37272,10270,5006,4,169,2025-05-09,Velocity Spike,Medium,False,0.0,Closed - False Positive
+157,50893,13484,6561,4,158,2023-08-28,Unusual Amount,High,True,208.26,Closed - Confirmed Fraud
+158,58250,2659,1289,6,216,2023-05-13,Card Not Present,Low,False,0.0,Customer Contacted
+159,61261,5859,2876,6,224,2023-09-17,High Risk Merchant,High,False,0.0,Closed - False Positive
+160,68215,8093,3957,2,77,2025-08-22,Velocity Spike,High,False,0.0,Closed - Confirmed Fraud
+161,61484,7246,3550,1,41,2023-05-27,Card Not Present,Low,False,0.0,Closed - False Positive
+162,38785,1197,582,4,144,2023-02-08,Card Not Present,Low,False,0.0,Customer Contacted
+163,19048,10352,5049,1,13,2025-04-04,Velocity Spike,Low,False,0.0,Closed - False Positive
+164,52815,6330,3100,5,190,2023-05-26,Unusual Amount,High,True,702.21,Account Frozen
+165,34967,4884,2394,5,185,2024-12-18,Card Not Present,High,False,0.0,Customer Contacted
+166,46025,13527,6582,3,125,2025-07-11,Card Not Present,Low,False,0.0,Under Review
+167,12116,4994,2447,3,120,2024-12-29,Geo Mismatch,Low,False,0.0,Closed - False Positive
+168,21280,4520,2213,6,226,2025-02-16,Unusual Amount,High,True,214.9,Account Frozen
+169,32791,3700,1808,3,111,2024-02-07,Unusual Amount,Low,False,0.0,Account Frozen
+170,36250,11994,5842,5,180,2024-01-21,Velocity Spike,High,False,0.0,Closed - False Positive
+171,22008,11841,5771,3,116,2025-11-16,Velocity Spike,Low,False,0.0,Account Frozen
+172,58814,1758,853,2,46,2025-11-12,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+173,39688,6482,3170,4,156,2024-08-02,Known Compromise,Low,False,0.0,Closed - False Positive
+174,35966,2717,1312,3,97,2023-03-17,Velocity Spike,Low,False,0.0,Closed - False Positive
+175,33667,9877,4814,2,74,2023-05-30,Velocity Spike,Critical,False,0.0,Under Review
+176,41335,2643,1282,2,62,2024-03-26,Geo Mismatch,High,True,72.62,Customer Contacted
+177,50842,194,93,2,64,2025-12-26,High Risk Merchant,Critical,True,117.47,Closed - Confirmed Fraud
+178,19695,3362,1646,3,118,2024-12-14,Unusual Amount,High,False,0.0,Closed - False Positive
+179,22924,8873,4340,3,110,2023-02-28,Card Not Present,High,False,0.0,Customer Contacted
+180,12207,7283,3570,2,82,2024-07-19,Card Not Present,Low,False,0.0,Customer Contacted
+181,28179,9726,4745,4,154,2023-02-26,Unusual Amount,Low,False,0.0,Closed - False Positive
+182,9225,5160,2534,1,27,2024-02-18,Velocity Spike,Medium,False,0.0,Under Review
+183,17046,286,137,1,38,2023-01-14,Card Not Present,Medium,False,0.0,Customer Contacted
+184,54254,13728,6683,3,101,2024-11-26,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+185,12586,11930,5815,2,87,2024-09-04,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+186,67006,13222,6438,3,95,2023-05-20,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+187,34554,4681,2292,3,102,2024-12-30,Known Compromise,Medium,False,0.0,Closed - False Positive
+188,45840,2307,1123,4,169,2023-03-10,Unusual Amount,High,False,0.0,Customer Contacted
+189,16215,3398,1667,5,196,2024-05-16,Card Not Present,High,False,0.0,Under Review
+190,43134,13304,6477,4,142,2025-07-14,Unusual Amount,Medium,False,0.0,Customer Contacted
+191,37171,3533,1732,5,175,2023-11-13,Velocity Spike,High,True,212.89,Closed - Confirmed Fraud
+192,16066,9011,4407,2,86,2025-04-19,Velocity Spike,Critical,True,341.53,Closed - Confirmed Fraud
+193,26578,13331,6488,5,189,2024-04-26,Card Not Present,Low,False,0.0,Closed - False Positive
+194,4727,5201,2554,4,168,2023-02-24,Velocity Spike,High,False,0.0,Closed - Confirmed Fraud
+195,2076,9891,4820,5,203,2025-10-07,Velocity Spike,Low,False,0.0,Closed - False Positive
+196,65696,7916,3871,5,206,2024-08-14,Card Not Present,Medium,False,0.0,Account Frozen
+197,57901,8988,4393,4,151,2023-08-22,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+198,42347,8098,3959,2,69,2024-04-09,Velocity Spike,Low,False,0.0,Closed - False Positive
+199,32123,12519,6089,5,204,2025-06-09,Velocity Spike,Medium,True,241.66,Closed - Confirmed Fraud
+200,68384,7590,3718,4,160,2023-05-29,Velocity Spike,High,False,0.0,Closed - False Positive
+201,20253,11256,5481,6,225,2024-07-23,Unusual Amount,Low,False,0.0,Closed - False Positive
+202,14294,7159,3505,3,104,2024-07-13,Unusual Amount,High,False,0.0,Under Review
+203,42246,542,257,2,88,2023-05-01,Velocity Spike,Medium,True,250.33,Account Frozen
+204,23901,13830,6738,3,107,2024-08-15,High Risk Merchant,Low,False,0.0,Closed - False Positive
+205,20770,12631,6141,1,4,2024-12-21,Velocity Spike,Low,False,0.0,Closed - False Positive
+206,40539,12709,6178,2,48,2025-05-24,Card Not Present,Medium,True,268.89,Closed - Confirmed Fraud
+207,45830,12622,6135,3,117,2024-07-12,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+208,60596,5001,2450,3,100,2025-01-01,High Risk Merchant,Low,False,0.0,Closed - False Positive
+209,17712,3571,1749,5,191,2023-08-21,Card Not Present,Low,False,0.0,Closed - False Positive
+210,11090,9147,4466,1,37,2023-12-10,Unusual Amount,Medium,False,0.0,Closed - False Positive
+211,53011,5760,2828,2,68,2024-11-23,High Risk Merchant,Low,False,0.0,Closed - False Positive
+212,52848,10506,5117,2,76,2024-08-21,Unusual Amount,Low,False,0.0,Under Review
+213,48318,11639,5678,3,113,2024-12-08,Unusual Amount,Medium,False,0.0,Closed - False Positive
+214,59029,6487,3172,1,41,2023-06-03,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+215,66440,9704,4735,5,190,2023-02-08,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+216,36706,14179,6909,1,13,2024-03-02,Unusual Amount,High,False,0.0,Closed - Confirmed Fraud
+217,1457,10238,4993,3,95,2024-04-27,Unusual Amount,Low,False,0.0,Closed - False Positive
+218,65171,80,35,4,151,2023-08-19,High Risk Merchant,Medium,False,0.0,Customer Contacted
+219,35913,5322,2613,3,121,2023-06-30,Velocity Spike,Medium,False,0.0,Closed - False Positive
+220,66045,9310,4545,5,199,2023-10-10,Geo Mismatch,High,False,0.0,Customer Contacted
+221,3466,14290,6966,4,148,2025-08-12,Unusual Amount,Low,False,0.0,Closed - False Positive
+222,43458,903,438,3,102,2023-07-05,High Risk Merchant,High,False,0.0,Under Review
+223,32176,9603,4686,2,79,2023-09-07,Velocity Spike,Low,False,0.0,Closed - False Positive
+224,1816,9543,4659,6,221,2024-09-25,High Risk Merchant,Low,False,0.0,Customer Contacted
+225,37746,10368,5058,2,66,2025-09-03,Unusual Amount,Medium,True,275.28,Closed - Confirmed Fraud
+226,68530,1400,680,6,215,2024-10-04,Velocity Spike,Medium,False,0.0,Customer Contacted
+227,46304,12128,5902,2,79,2023-06-08,Velocity Spike,High,True,37.14,Account Frozen
+228,56996,3498,1713,4,149,2024-07-27,High Risk Merchant,High,True,332.69,Account Frozen
+229,29580,12108,5894,1,11,2023-02-12,Card Not Present,Low,False,0.0,Closed - False Positive
+230,17903,9531,4653,5,194,2025-07-06,High Risk Merchant,Medium,False,0.0,Under Review
+231,34489,9275,4527,1,6,2025-10-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+232,26071,9800,4778,3,98,2023-01-19,Velocity Spike,Low,False,0.0,Closed - False Positive
+233,40749,4637,2268,2,47,2024-12-02,Known Compromise,Medium,False,0.0,Closed - False Positive
+234,11786,1762,857,3,101,2024-03-19,Unusual Amount,High,False,0.0,Closed - False Positive
+235,64759,3560,1743,4,169,2025-01-24,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+236,40633,9075,4433,1,30,2023-07-11,Known Compromise,Low,False,0.0,Under Review
+237,41783,13114,6384,2,57,2024-06-21,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+238,6328,7617,3730,4,168,2025-11-10,High Risk Merchant,Low,False,0.0,Under Review
+239,30472,5492,2695,1,1,2023-03-25,Card Not Present,Medium,False,0.0,Customer Contacted
+240,11673,6130,3004,4,166,2023-07-13,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+241,19622,11306,5506,6,217,2025-12-26,Card Not Present,Low,False,0.0,Closed - False Positive
+242,26707,13186,6420,2,63,2025-04-21,Velocity Spike,Medium,True,530.55,Customer Contacted
+243,19358,11901,5799,6,211,2023-01-21,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+244,55693,4338,2122,5,204,2024-10-12,Known Compromise,Medium,False,0.0,Closed - False Positive
+245,40077,10362,5054,4,158,2024-04-17,Unusual Amount,High,False,0.0,Closed - Confirmed Fraud
+246,2513,8030,3925,1,3,2025-02-08,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+247,57230,8032,3926,5,196,2024-01-27,Unusual Amount,High,False,0.0,Customer Contacted
+248,27677,7090,3471,5,203,2025-01-04,Velocity Spike,Medium,False,0.0,Closed - False Positive
+249,14672,14291,6967,1,14,2025-06-22,Velocity Spike,Low,False,0.0,Customer Contacted
+250,64789,14237,6936,2,50,2024-04-22,Velocity Spike,Low,False,0.0,Closed - False Positive
+251,58209,13994,6822,4,138,2023-04-07,Card Not Present,Medium,False,0.0,Closed - False Positive
+252,55523,8719,4263,3,106,2024-12-03,Velocity Spike,Low,False,0.0,Account Frozen
+253,17780,6358,3113,3,120,2024-11-05,High Risk Merchant,Low,False,0.0,Closed - False Positive
+254,17266,611,291,4,136,2024-07-16,Card Not Present,High,False,0.0,Closed - False Positive
+255,49934,3189,1557,5,172,2024-08-28,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+256,35835,7925,3875,1,20,2025-12-11,Geo Mismatch,Low,False,0.0,Closed - False Positive
+257,63278,12442,6050,5,172,2025-11-20,Card Not Present,Low,False,0.0,Closed - False Positive
+258,6567,2357,1146,1,10,2025-05-06,Velocity Spike,Critical,False,0.0,Closed - False Positive
+259,29171,2289,1114,5,179,2023-10-06,Unusual Amount,Critical,True,402.56,Account Frozen
+260,47842,2358,1147,5,206,2025-05-12,Geo Mismatch,Medium,False,0.0,Under Review
+261,33775,10448,5092,1,36,2023-03-26,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+262,59113,4851,2377,2,48,2024-01-03,Card Not Present,Medium,False,0.0,Customer Contacted
+263,32843,13353,6502,2,50,2023-04-28,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+264,28782,1641,795,1,17,2025-09-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+265,9517,13558,6598,2,71,2025-09-16,Velocity Spike,Low,False,0.0,Closed - False Positive
+266,9783,1437,699,2,48,2023-08-13,Unusual Amount,High,False,0.0,Closed - False Positive
+267,67026,4520,2213,6,226,2025-06-09,Velocity Spike,Low,True,516.74,Account Frozen
+268,18774,11368,5540,2,54,2023-06-26,Unusual Amount,Medium,False,0.0,Closed - False Positive
+269,16905,4017,1964,2,78,2024-12-14,High Risk Merchant,High,True,434.57,Customer Contacted
+270,19770,11165,5435,3,101,2025-02-21,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+271,30077,12802,6223,2,62,2023-12-08,Card Not Present,Low,False,0.0,Closed - False Positive
+272,69941,6557,3202,1,43,2025-01-24,Known Compromise,High,False,0.0,Customer Contacted
+273,67559,840,404,1,21,2024-02-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+274,20387,13392,6521,2,61,2024-08-02,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+275,36419,3336,1631,4,149,2023-08-13,High Risk Merchant,High,False,0.0,Closed - False Positive
+276,61952,296,142,2,76,2024-03-09,High Risk Merchant,Low,False,0.0,Closed - False Positive
+277,26869,1589,769,1,40,2023-05-28,Unusual Amount,Medium,False,0.0,Closed - False Positive
+278,2460,728,345,4,136,2023-10-03,Velocity Spike,Low,False,0.0,Under Review
+279,40808,13479,6560,1,2,2025-12-03,Velocity Spike,Medium,False,0.0,Closed - False Positive
+280,47505,10547,5138,3,108,2025-02-10,Unusual Amount,High,True,704.7,Customer Contacted
+281,1142,3592,1759,3,127,2023-06-06,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+282,27656,6439,3153,1,35,2023-05-30,High Risk Merchant,Medium,True,202.5,Account Frozen
+283,49797,2369,1154,4,153,2024-11-05,Velocity Spike,Medium,False,0.0,Customer Contacted
+284,8359,8728,4268,3,113,2023-09-20,Known Compromise,High,False,0.0,Closed - False Positive
+285,38047,8814,4311,2,76,2024-10-03,High Risk Merchant,Low,False,0.0,Account Frozen
+286,68451,13382,6514,3,100,2024-09-06,Card Not Present,Low,False,0.0,Closed - False Positive
+287,63525,4224,2065,2,59,2023-02-05,High Risk Merchant,Low,False,0.0,Closed - False Positive
+288,27014,2783,1347,5,182,2024-05-10,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+289,25884,7612,3728,2,57,2023-09-26,High Risk Merchant,High,True,976.12,Account Frozen
+290,30708,12679,6164,2,57,2025-04-09,Velocity Spike,High,False,0.0,Closed - False Positive
+291,2227,3355,1641,4,151,2024-04-28,Velocity Spike,Low,False,0.0,Closed - False Positive
+292,30780,11740,5728,3,101,2023-12-21,Card Not Present,High,True,589.11,Account Frozen
+293,27721,10892,5305,5,187,2024-09-24,Known Compromise,Medium,False,0.0,Closed - False Positive
+294,27105,602,287,5,199,2023-02-08,Card Not Present,Critical,False,0.0,Closed - False Positive
+295,20488,5543,2720,2,81,2024-06-10,Known Compromise,Low,False,0.0,Closed - False Positive
+296,22595,4867,2385,4,160,2024-05-11,Card Not Present,High,True,630.64,Closed - Confirmed Fraud
+297,38883,6617,3234,1,40,2023-08-11,Velocity Spike,Medium,False,0.0,Closed - False Positive
+298,21903,3128,1532,2,84,2023-11-08,Geo Mismatch,High,False,0.0,Closed - False Positive
+299,54914,9414,4593,5,181,2025-09-19,Card Not Present,Low,False,0.0,Customer Contacted
+300,14454,1737,843,3,93,2025-05-17,High Risk Merchant,Low,False,0.0,Closed - False Positive
+301,56418,5863,2877,3,101,2024-08-20,High Risk Merchant,Low,False,0.0,Closed - False Positive
+302,28004,13351,6501,4,166,2023-11-15,High Risk Merchant,High,False,0.0,Under Review
+303,20826,3622,1772,2,76,2024-03-23,Card Not Present,Critical,True,1419.01,Closed - Confirmed Fraud
+304,1271,2542,1236,2,66,2024-05-17,High Risk Merchant,Low,False,0.0,Closed - False Positive
+305,6797,5217,2561,5,191,2025-04-25,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+306,62757,12249,5957,6,209,2023-12-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+307,52914,8081,3952,2,60,2023-09-05,Geo Mismatch,Low,False,0.0,Customer Contacted
+308,61052,5637,2766,5,175,2023-09-12,High Risk Merchant,Low,False,0.0,Closed - False Positive
+309,3317,8421,4116,5,192,2025-09-22,Unusual Amount,Medium,False,0.0,Closed - False Positive
+310,59201,2063,1008,3,92,2025-09-10,Unusual Amount,High,True,15.98,Customer Contacted
+311,29492,7405,3630,2,55,2025-11-27,Velocity Spike,Low,False,0.0,Customer Contacted
+312,52739,9672,4722,4,139,2023-06-03,Unusual Amount,Low,False,0.0,Closed - False Positive
+313,35203,402,192,1,15,2024-09-13,Card Not Present,Low,False,0.0,Closed - False Positive
+314,29965,12038,5860,3,98,2023-12-13,Velocity Spike,Medium,False,0.0,Closed - False Positive
+315,39816,8171,3995,1,40,2023-12-14,Card Not Present,Medium,False,0.0,Closed - False Positive
+316,35131,560,264,5,178,2024-08-01,Velocity Spike,Low,False,0.0,Closed - False Positive
+317,23424,4229,2067,3,91,2024-02-28,Unusual Amount,Low,False,0.0,Customer Contacted
+318,10798,4475,2190,6,220,2025-10-10,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+319,1385,8420,4115,4,137,2023-09-22,Geo Mismatch,High,False,0.0,Customer Contacted
+320,18384,4977,2440,5,206,2025-03-25,Velocity Spike,Low,False,0.0,Customer Contacted
+321,9424,6162,3017,4,137,2023-06-03,Card Not Present,Medium,False,0.0,Closed - False Positive
+322,33158,333,159,1,30,2024-02-11,Unusual Amount,High,True,492.04,Closed - Confirmed Fraud
+323,7062,10965,5342,3,116,2024-05-11,Card Not Present,Medium,False,0.0,Closed - False Positive
+324,2534,8460,4134,1,32,2024-12-01,Velocity Spike,Low,False,0.0,Closed - False Positive
+325,26631,9845,4799,3,104,2023-07-22,Unusual Amount,Low,False,0.0,Closed - False Positive
+326,25297,8733,4271,6,223,2024-06-08,Card Not Present,Medium,True,249.46,Closed - Confirmed Fraud
+327,53817,6685,3275,5,206,2024-09-11,Velocity Spike,Medium,True,891.35,Closed - Confirmed Fraud
+328,36901,2602,1264,4,157,2025-10-29,Geo Mismatch,High,False,0.0,Closed - False Positive
+329,9575,8674,4237,2,73,2025-02-01,Unusual Amount,Low,False,0.0,Closed - False Positive
+330,16165,288,138,4,136,2024-10-03,Unusual Amount,Low,False,0.0,Closed - False Positive
+331,3705,11042,5378,4,147,2024-04-14,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+332,34755,772,368,1,23,2024-05-26,Velocity Spike,Medium,False,0.0,Closed - False Positive
+333,29091,5475,2687,3,104,2024-08-02,Velocity Spike,Low,False,0.0,Closed - False Positive
+334,54099,10626,5173,2,60,2024-08-16,Geo Mismatch,High,False,0.0,Under Review
+335,31229,9791,4774,5,180,2025-06-30,Card Not Present,Medium,True,192.71,Closed - Confirmed Fraud
+336,66427,4892,2398,5,199,2024-05-15,Unusual Amount,Critical,True,60.64,Customer Contacted
+337,49877,8051,3934,3,93,2023-11-12,Card Not Present,Low,False,0.0,Under Review
+338,10565,2798,1354,3,119,2023-06-09,Geo Mismatch,Low,False,0.0,Closed - False Positive
+339,3780,7889,3859,3,113,2024-09-05,Velocity Spike,Medium,False,0.0,Under Review
+340,37091,1792,872,5,207,2025-03-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+341,6297,5231,2567,2,59,2025-01-07,Geo Mismatch,Low,False,0.0,Customer Contacted
+342,42161,8257,4038,4,152,2024-08-01,Velocity Spike,Low,False,0.0,Closed - False Positive
+343,62245,6743,3302,3,93,2023-08-10,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+344,5318,5579,2737,6,225,2025-05-08,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+345,16840,8480,4143,4,165,2024-04-24,Geo Mismatch,Medium,False,0.0,Closed - Confirmed Fraud
+346,67218,11870,5786,5,180,2025-07-05,High Risk Merchant,High,False,0.0,Closed - False Positive
+347,13770,3496,1712,5,192,2023-10-17,Velocity Spike,Low,False,0.0,Closed - False Positive
+348,46470,8441,4126,5,188,2025-07-09,Velocity Spike,Medium,False,0.0,Customer Contacted
+349,34559,4845,2375,6,210,2024-07-19,Known Compromise,Low,False,0.0,Account Frozen
+350,50143,8744,4277,6,218,2023-01-24,Card Not Present,Low,False,0.0,Account Frozen
+351,3564,10780,5252,2,77,2024-11-08,High Risk Merchant,Low,False,0.0,Account Frozen
+352,48854,4353,2132,5,190,2025-05-20,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+353,24807,5417,2662,6,221,2023-04-25,Card Not Present,Medium,False,0.0,Closed - False Positive
+354,12290,2278,1108,4,156,2024-04-14,Card Not Present,High,False,0.0,Closed - False Positive
+355,35975,5796,2846,4,161,2024-04-10,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+356,60617,14203,6921,1,28,2025-04-12,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+357,18403,12749,6195,2,63,2023-08-23,Velocity Spike,Low,False,0.0,Customer Contacted
+358,42516,5147,2524,6,223,2023-04-09,Unusual Amount,Medium,False,0.0,Closed - False Positive
+359,1950,12789,6218,5,186,2023-05-22,Velocity Spike,Medium,False,0.0,Customer Contacted
+360,43959,10719,5221,1,2,2023-02-22,Velocity Spike,Low,False,0.0,Closed - False Positive
+361,34836,8858,4332,4,146,2023-07-27,Card Not Present,Critical,False,0.0,Under Review
+362,13907,6420,3143,3,103,2025-01-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+363,65490,10139,4942,5,181,2023-06-24,Card Not Present,Low,False,0.0,Closed - False Positive
+364,43130,12978,6316,4,134,2023-03-09,Velocity Spike,Low,False,0.0,Closed - False Positive
+365,3116,9071,4431,5,171,2025-07-10,High Risk Merchant,High,True,48.44,Account Frozen
+366,38760,14325,6987,3,113,2025-03-29,Card Not Present,High,True,487.66,Closed - Confirmed Fraud
+367,2133,1498,728,2,83,2024-02-20,Velocity Spike,High,False,0.0,Closed - False Positive
+368,24549,13772,6706,4,131,2023-12-05,Unusual Amount,Medium,False,0.0,Customer Contacted
+369,12587,10480,5104,5,181,2024-06-14,Velocity Spike,Medium,True,375.7,Closed - Confirmed Fraud
+370,46966,9624,4698,3,91,2024-09-16,High Risk Merchant,High,False,0.0,Under Review
+371,48561,1280,618,1,37,2024-05-07,High Risk Merchant,Medium,False,0.0,Customer Contacted
+372,7907,4455,2179,2,53,2024-03-23,High Risk Merchant,Low,False,0.0,Under Review
+373,56801,11471,5592,2,76,2024-07-19,High Risk Merchant,Low,False,0.0,Under Review
+374,67665,10863,5291,4,139,2023-03-20,Known Compromise,Low,False,0.0,Closed - False Positive
+375,43011,12034,5858,6,222,2025-04-13,Geo Mismatch,High,False,0.0,Closed - False Positive
+376,41131,4576,2240,1,22,2025-01-09,Geo Mismatch,Medium,False,0.0,Under Review
+377,40604,1698,825,5,178,2023-10-19,Card Not Present,Medium,False,0.0,Closed - False Positive
+378,14661,3648,1785,3,93,2023-09-24,Velocity Spike,Medium,False,0.0,Closed - False Positive
+379,44593,442,212,4,159,2024-08-26,Velocity Spike,Medium,False,0.0,Closed - False Positive
+380,51519,1179,575,4,145,2023-12-28,High Risk Merchant,Medium,False,0.0,Customer Contacted
+381,56066,21,9,2,89,2025-12-02,Unusual Amount,Low,False,0.0,Closed - False Positive
+382,41770,10528,5128,6,219,2024-08-14,Velocity Spike,High,True,153.21,Account Frozen
+383,57891,7747,3790,3,107,2024-02-22,Geo Mismatch,High,False,0.0,Closed - False Positive
+384,22070,5463,2681,4,155,2023-10-04,Geo Mismatch,Low,False,0.0,Closed - False Positive
+385,6748,10006,4877,3,99,2024-12-02,Geo Mismatch,Critical,False,0.0,Closed - False Positive
+386,22295,1133,554,4,147,2023-02-07,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+387,34612,6569,3209,4,147,2023-03-14,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+388,2992,12412,6036,6,214,2024-10-21,Card Not Present,Low,False,0.0,Customer Contacted
+389,42261,983,480,1,41,2025-05-28,Card Not Present,Medium,False,0.0,Under Review
+390,26121,10598,5160,4,141,2025-10-18,Known Compromise,High,False,0.0,Closed - False Positive
+391,29234,4418,2161,3,96,2023-05-12,Velocity Spike,Medium,False,0.0,Under Review
+392,65254,11449,5579,2,52,2023-05-30,Unusual Amount,High,True,469.25,Account Frozen
+393,2279,8180,4000,2,81,2025-03-18,Unusual Amount,Low,False,0.0,Closed - False Positive
+394,42286,10706,5214,5,193,2024-10-12,Unusual Amount,Low,False,0.0,Closed - False Positive
+395,37125,2050,1002,1,33,2023-03-18,Velocity Spike,Critical,True,823.58,Customer Contacted
+396,14555,8377,4095,5,197,2024-02-28,Card Not Present,Low,True,312.25,Closed - Confirmed Fraud
+397,48789,455,219,5,204,2023-05-07,Unusual Amount,Low,False,0.0,Under Review
+398,9985,10674,5198,4,157,2025-10-07,Card Not Present,Low,False,0.0,Closed - False Positive
+399,17878,2811,1360,1,13,2024-10-10,Velocity Spike,Low,False,0.0,Closed - False Positive
+400,12803,9690,4730,4,170,2024-01-23,Known Compromise,High,False,0.0,Account Frozen
+401,61034,5027,2465,1,17,2025-02-10,Velocity Spike,Low,False,0.0,Closed - False Positive
+402,20360,6449,3157,3,115,2025-04-14,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+403,21739,3107,1523,2,48,2023-10-21,Unusual Amount,Low,False,0.0,Under Review
+404,5141,5899,2896,1,1,2023-11-23,Velocity Spike,Medium,False,0.0,Customer Contacted
+405,35915,4605,2253,4,166,2025-06-30,Velocity Spike,High,True,3387.77,Closed - Confirmed Fraud
+406,61228,10342,5044,1,17,2023-10-08,Geo Mismatch,Medium,False,0.0,Account Frozen
+407,46606,8333,4074,4,161,2025-04-06,Geo Mismatch,High,False,0.0,Customer Contacted
+408,66024,8318,4065,1,15,2023-09-20,Known Compromise,Medium,False,0.0,Customer Contacted
+409,46674,8653,4225,6,220,2023-07-08,Geo Mismatch,Medium,True,257.93,Account Frozen
+410,16515,2264,1101,3,100,2024-12-09,Unusual Amount,Medium,False,0.0,Closed - False Positive
+411,66799,10138,4942,3,127,2025-07-21,Velocity Spike,Low,False,0.0,Closed - False Positive
+412,61295,11179,5444,1,42,2025-05-16,Velocity Spike,Low,False,0.0,Closed - False Positive
+413,20628,9220,4503,3,100,2025-08-05,Velocity Spike,High,False,0.0,Closed - Confirmed Fraud
+414,48859,4093,1998,1,18,2023-02-24,Card Not Present,Low,False,0.0,Closed - False Positive
+415,45133,4353,2132,5,190,2025-01-05,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+416,46094,470,225,5,208,2025-06-27,Card Not Present,High,False,0.0,Under Review
+417,23427,587,279,4,160,2023-06-24,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+418,49712,11715,5717,4,139,2024-01-10,Velocity Spike,Medium,False,0.0,Account Frozen
+419,30726,8368,4089,5,205,2024-01-03,Unusual Amount,Low,False,0.0,Closed - False Positive
+420,59910,13909,6781,2,73,2025-10-14,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+421,22667,2898,1407,1,8,2023-11-12,Unusual Amount,Low,False,0.0,Closed - False Positive
+422,27104,6832,3346,1,14,2025-12-26,High Risk Merchant,High,False,0.0,Closed - False Positive
+423,35472,1907,930,1,14,2024-12-04,Velocity Spike,Medium,False,0.0,Closed - False Positive
+424,67201,5421,2663,1,22,2024-01-12,Card Not Present,Low,False,0.0,Under Review
+425,286,9219,4503,1,7,2023-03-01,Velocity Spike,Low,False,0.0,Account Frozen
+426,49382,3198,1560,4,159,2023-10-25,Card Not Present,Low,False,0.0,Under Review
+427,67992,13130,6390,1,18,2025-12-09,Card Not Present,High,False,0.0,Under Review
+428,26163,6752,3306,4,143,2024-10-20,Known Compromise,High,True,36.17,Customer Contacted
+429,41118,7598,3721,5,193,2025-09-01,Velocity Spike,Low,False,0.0,Closed - False Positive
+430,45609,3699,1808,4,153,2023-10-29,Known Compromise,Medium,False,0.0,Customer Contacted
+431,12464,8695,4250,5,197,2023-06-19,Unusual Amount,Low,True,243.81,Customer Contacted
+432,21133,4236,2071,5,193,2023-02-19,High Risk Merchant,High,False,0.0,Closed - False Positive
+433,11702,13136,6393,5,208,2024-04-03,Geo Mismatch,Low,False,0.0,Closed - False Positive
+434,32706,4709,2308,2,69,2025-10-26,Card Not Present,High,True,602.96,Closed - Confirmed Fraud
+435,531,7759,3797,2,68,2025-10-07,Unusual Amount,Medium,False,0.0,Closed - False Positive
+436,46900,3493,1709,4,164,2023-03-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+437,49405,10256,5002,3,105,2023-02-24,Velocity Spike,Low,False,0.0,Under Review
+438,21598,3108,1524,5,176,2024-09-12,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+439,52762,6045,2963,6,211,2025-08-27,Known Compromise,Low,False,0.0,Customer Contacted
+440,35757,3888,1896,4,150,2023-11-24,Velocity Spike,Low,False,0.0,Account Frozen
+441,62303,3176,1551,4,153,2023-09-20,Card Not Present,Medium,False,0.0,Closed - False Positive
+442,9003,10450,5093,3,110,2025-12-27,Unusual Amount,Medium,False,0.0,Closed - False Positive
+443,25790,3149,1539,3,104,2024-08-22,Velocity Spike,Low,False,0.0,Closed - False Positive
+444,4677,3400,1667,5,188,2024-01-02,Geo Mismatch,Low,False,0.0,Closed - False Positive
+445,60493,7409,3633,3,93,2025-01-20,Velocity Spike,Low,True,47.09,Customer Contacted
+446,16353,8102,3960,2,80,2025-09-21,Geo Mismatch,Medium,False,0.0,Account Frozen
+447,33534,5757,2826,3,111,2025-05-02,High Risk Merchant,High,False,0.0,Closed - False Positive
+448,32804,2361,1149,1,6,2024-12-18,Velocity Spike,Low,False,0.0,Account Frozen
+449,12442,930,450,2,69,2025-09-08,Velocity Spike,Low,False,0.0,Closed - False Positive
+450,63597,14164,6902,1,43,2025-04-03,Velocity Spike,Low,False,0.0,Customer Contacted
+451,19224,7580,3714,2,90,2025-11-28,Unusual Amount,High,False,0.0,Customer Contacted
+452,32179,8390,4100,5,171,2025-04-29,Unusual Amount,High,False,0.0,Closed - False Positive
+453,12743,3610,1766,2,77,2025-06-05,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+454,25049,5641,2769,1,8,2023-01-10,High Risk Merchant,Low,False,0.0,Closed - False Positive
+455,65830,8260,4039,4,146,2023-11-24,Card Not Present,Critical,True,1153.42,Closed - Confirmed Fraud
+456,10842,12665,6156,6,223,2025-07-29,High Risk Merchant,Low,False,0.0,Closed - False Positive
+457,57786,10484,5107,2,83,2023-03-01,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+458,48673,2164,1054,4,143,2025-12-05,High Risk Merchant,Low,False,0.0,Account Frozen
+459,5383,11117,5412,5,180,2023-11-09,Unusual Amount,Medium,False,0.0,Closed - False Positive
+460,59502,9352,4564,5,195,2023-12-07,High Risk Merchant,Low,False,0.0,Closed - False Positive
+461,64239,11986,5839,1,21,2023-05-30,Unusual Amount,Low,False,0.0,Closed - False Positive
+462,66664,11298,5503,3,116,2025-04-26,Card Not Present,Low,False,0.0,Account Frozen
+463,17840,8190,4005,1,39,2023-11-22,Unusual Amount,Low,False,0.0,Closed - False Positive
+464,58580,6461,3162,5,175,2025-04-09,Card Not Present,Low,True,105.25,Closed - Confirmed Fraud
+465,45310,379,182,4,143,2025-02-17,Card Not Present,Medium,False,0.0,Closed - False Positive
+466,41133,13063,6359,4,155,2025-10-10,Card Not Present,Low,False,0.0,Closed - False Positive
+467,40653,13742,6690,2,68,2024-12-29,Card Not Present,Low,True,2640.72,Closed - Confirmed Fraud
+468,10678,5365,2634,1,21,2025-05-07,Card Not Present,Low,False,0.0,Closed - False Positive
+469,53462,2608,1267,6,218,2025-05-13,Card Not Present,Medium,False,0.0,Closed - False Positive
+470,49643,5838,2865,5,199,2024-02-27,Card Not Present,Medium,True,229.28,Closed - Confirmed Fraud
+471,42759,3135,1535,6,220,2025-12-17,Unusual Amount,High,False,0.0,Closed - False Positive
+472,31672,10230,4987,1,30,2024-08-22,Unusual Amount,Medium,False,0.0,Closed - False Positive
+473,48137,3051,1490,1,45,2024-06-10,Card Not Present,Medium,False,0.0,Under Review
+474,65778,5379,2641,2,87,2024-12-08,Known Compromise,Low,True,199.74,Closed - Confirmed Fraud
+475,30686,9051,4423,1,36,2024-08-11,Card Not Present,Medium,False,0.0,Closed - False Positive
+476,48194,2438,1186,4,144,2024-05-17,Velocity Spike,Low,False,0.0,Closed - False Positive
+477,30523,1203,583,6,215,2023-09-02,Known Compromise,Low,False,0.0,Customer Contacted
+478,11799,9377,4575,4,146,2023-05-15,Card Not Present,Low,False,0.0,Closed - False Positive
+479,19713,3646,1784,3,130,2024-06-30,Unusual Amount,Low,False,0.0,Closed - False Positive
+480,44885,12330,5993,5,171,2024-07-23,Velocity Spike,Critical,False,0.0,Customer Contacted
+481,63256,9135,4458,3,98,2023-01-18,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+482,60389,5672,2780,4,151,2025-05-18,Known Compromise,Low,False,0.0,Customer Contacted
+483,69419,10973,5346,3,116,2024-11-24,Velocity Spike,High,False,0.0,Closed - False Positive
+484,16501,363,175,2,72,2025-04-05,Unusual Amount,Medium,False,0.0,Closed - False Positive
+485,46910,9773,4765,6,224,2025-10-08,Velocity Spike,Low,False,0.0,Customer Contacted
+486,65096,9483,4629,5,180,2025-10-17,Card Not Present,Medium,False,0.0,Closed - False Positive
+487,23704,6699,3282,6,222,2023-08-11,Card Not Present,Low,False,0.0,Closed - False Positive
+488,29210,7282,3570,5,184,2023-08-19,Velocity Spike,Low,False,0.0,Closed - False Positive
+489,56653,11444,5576,1,27,2023-12-06,Card Not Present,Low,False,0.0,Under Review
+490,60642,757,361,1,10,2024-12-02,Card Not Present,High,False,0.0,Closed - False Positive
+491,67139,12168,5920,5,203,2023-07-29,Velocity Spike,Low,False,0.0,Account Frozen
+492,27678,10800,5262,5,181,2024-10-01,Velocity Spike,High,True,15.4,Closed - Confirmed Fraud
+493,2056,8027,3923,6,212,2023-07-15,Geo Mismatch,High,False,0.0,Customer Contacted
+494,7431,7044,3449,5,201,2023-12-04,Velocity Spike,Critical,True,491.39,Customer Contacted
+495,39275,3602,1763,1,12,2025-09-08,Velocity Spike,Medium,False,0.0,Closed - False Positive
+496,18707,3514,1719,4,156,2024-04-27,High Risk Merchant,Low,False,0.0,Closed - False Positive
+497,58032,4457,2180,4,149,2023-04-11,Known Compromise,Medium,False,0.0,Closed - Confirmed Fraud
+498,46330,12720,6183,4,139,2025-06-29,Unusual Amount,High,True,163.65,Closed - Confirmed Fraud
+499,3972,12447,6052,6,218,2024-04-21,Geo Mismatch,High,False,0.0,Closed - False Positive
+500,4310,13872,6760,1,31,2023-05-25,Card Not Present,Medium,True,2365.08,Closed - Confirmed Fraud
+501,35981,10368,5058,2,66,2023-07-15,Known Compromise,Medium,False,0.0,Account Frozen
+502,41558,1549,750,4,135,2025-01-09,Velocity Spike,Medium,False,0.0,Under Review
+503,22056,4310,2108,1,2,2025-03-22,Known Compromise,High,False,0.0,Closed - False Positive
+504,855,4603,2252,2,72,2023-11-04,Geo Mismatch,High,True,87.07,Closed - Confirmed Fraud
+505,2143,2034,993,5,186,2025-07-09,Geo Mismatch,Medium,False,0.0,Account Frozen
+506,29688,8730,4269,4,154,2025-03-04,Unusual Amount,Low,False,0.0,Closed - False Positive
+507,20573,6792,3327,5,179,2024-01-04,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+508,22157,6562,3205,2,84,2023-09-01,High Risk Merchant,Low,False,0.0,Closed - False Positive
+509,64877,3531,1730,2,81,2023-03-19,High Risk Merchant,Low,False,0.0,Closed - False Positive
+510,52740,9964,4853,1,6,2024-01-10,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+511,61956,2061,1007,2,61,2023-04-24,Unusual Amount,Low,False,0.0,Customer Contacted
+512,23485,12947,6300,2,69,2023-07-24,Unusual Amount,High,False,0.0,Closed - False Positive
+513,30301,11254,5480,2,72,2023-08-23,Velocity Spike,High,False,0.0,Account Frozen
+514,53480,8726,4267,2,88,2025-09-16,Geo Mismatch,High,False,0.0,Closed - False Positive
+515,6478,2703,1304,2,59,2025-01-06,Card Not Present,Low,False,0.0,Closed - False Positive
+516,11033,10099,4924,4,154,2025-09-03,Unusual Amount,Low,False,0.0,Customer Contacted
+517,60075,4292,2099,2,57,2023-02-04,Card Not Present,Medium,True,118.36,Closed - Confirmed Fraud
+518,34355,11194,5453,4,148,2025-01-21,Card Not Present,Low,False,0.0,Account Frozen
+519,24194,390,187,6,225,2023-06-02,Velocity Spike,High,False,0.0,Closed - False Positive
+520,37349,12901,6278,6,226,2024-07-26,Unusual Amount,Low,False,0.0,Account Frozen
+521,916,1027,499,5,204,2024-07-06,Geo Mismatch,High,False,0.0,Under Review
+522,68879,8607,4202,4,168,2025-06-28,Card Not Present,Low,True,25.8,Closed - Confirmed Fraud
+523,63295,14017,6833,2,49,2023-12-31,Card Not Present,Medium,False,0.0,Customer Contacted
+524,50632,2208,1076,2,48,2024-11-12,Card Not Present,Medium,False,0.0,Closed - False Positive
+525,10792,2537,1234,4,148,2024-08-07,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+526,36225,12518,6088,4,156,2024-09-05,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+527,24536,2414,1175,4,137,2024-04-09,Velocity Spike,Low,False,0.0,Account Frozen
+528,33172,11920,5806,3,113,2023-11-18,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+529,22738,9349,4563,3,123,2025-05-13,High Risk Merchant,High,False,0.0,Closed - False Positive
+530,13476,3230,1577,2,61,2024-06-24,Geo Mismatch,High,False,0.0,Customer Contacted
+531,59094,10195,4970,5,208,2023-11-03,Unusual Amount,Medium,False,0.0,Closed - False Positive
+532,11121,5008,2455,4,158,2023-10-19,Card Not Present,Low,False,0.0,Under Review
+533,26335,3368,1649,3,127,2023-03-06,Velocity Spike,Medium,False,0.0,Closed - False Positive
+534,66008,12594,6123,2,66,2023-02-11,Geo Mismatch,Low,False,0.0,Closed - False Positive
+535,28209,10269,5006,1,1,2024-07-26,High Risk Merchant,High,True,430.48,Closed - Confirmed Fraud
+536,53521,2762,1337,5,198,2025-04-09,Unusual Amount,Low,False,0.0,Closed - False Positive
+537,23969,8068,3945,4,156,2023-01-06,High Risk Merchant,Low,False,0.0,Closed - False Positive
+538,56504,8901,4353,6,218,2025-11-12,High Risk Merchant,High,True,84.45,Account Frozen
+539,65265,2178,1062,4,150,2025-06-07,Card Not Present,Medium,True,844.29,Customer Contacted
+540,35674,2794,1352,2,79,2024-12-07,Unusual Amount,High,True,249.97,Account Frozen
+541,14006,6934,3398,5,189,2025-02-15,Card Not Present,Low,False,0.0,Customer Contacted
+542,56458,1422,692,2,68,2025-09-15,Velocity Spike,Medium,True,25.66,Closed - Confirmed Fraud
+543,24385,6299,3084,3,93,2024-09-06,Unusual Amount,Medium,False,0.0,Closed - False Positive
+544,36501,2672,1293,3,119,2025-01-15,High Risk Merchant,Low,False,0.0,Under Review
+545,4021,3036,1483,2,81,2025-12-16,Geo Mismatch,Low,False,0.0,Closed - False Positive
+546,62221,3593,1760,3,125,2023-12-30,Card Not Present,Low,False,0.0,Closed - False Positive
+547,60060,1071,524,4,132,2023-08-09,Velocity Spike,Critical,False,0.0,Customer Contacted
+548,14268,516,247,5,186,2023-06-04,Card Not Present,High,False,0.0,Closed - False Positive
+549,17779,823,396,1,8,2023-12-07,Unusual Amount,Low,False,0.0,Closed - False Positive
+550,6662,3643,1783,1,2,2023-09-20,Card Not Present,High,False,0.0,Customer Contacted
+551,40142,145,66,4,138,2023-10-28,High Risk Merchant,Low,False,0.0,Customer Contacted
+552,56325,7236,3545,5,173,2025-10-10,Geo Mismatch,Low,False,0.0,Under Review
+553,40773,13887,6768,3,119,2024-06-10,Unusual Amount,Low,False,0.0,Closed - False Positive
+554,20595,11042,5378,4,147,2024-10-03,Unusual Amount,High,True,66.01,Closed - Confirmed Fraud
+555,35626,3702,1810,1,3,2023-03-19,Unusual Amount,High,False,0.0,Customer Contacted
+556,68300,7320,3590,3,105,2023-02-22,Geo Mismatch,High,True,212.51,Closed - Confirmed Fraud
+557,25538,14185,6913,5,204,2025-10-27,Card Not Present,Low,False,0.0,Closed - False Positive
+558,47315,5748,2820,3,110,2024-12-08,Unusual Amount,Low,False,0.0,Customer Contacted
+559,50440,1570,759,3,104,2025-07-29,Velocity Spike,High,True,41.6,Closed - Confirmed Fraud
+560,19613,8308,4061,2,80,2023-09-01,Unusual Amount,High,False,0.0,Account Frozen
+561,62811,8183,4001,1,19,2023-08-23,Card Not Present,Medium,False,0.0,Customer Contacted
+562,62240,3610,1766,2,77,2023-03-21,Unusual Amount,Medium,False,0.0,Closed - False Positive
+563,57563,3060,1496,2,58,2024-02-20,Velocity Spike,Medium,False,0.0,Closed - False Positive
+564,63009,11382,5548,1,13,2023-03-31,Velocity Spike,High,False,0.0,Account Frozen
+565,32557,7708,3772,2,56,2023-07-23,Velocity Spike,Medium,False,0.0,Closed - False Positive
+566,51330,6049,2964,4,156,2025-11-22,Velocity Spike,Low,False,0.0,Closed - False Positive
+567,38199,10675,5199,2,82,2023-11-16,High Risk Merchant,Medium,True,587.85,Account Frozen
+568,55295,2176,1060,2,90,2024-12-08,Unusual Amount,Low,False,0.0,Closed - False Positive
+569,1290,9143,4464,3,99,2025-11-03,Unusual Amount,High,True,47.96,Closed - Confirmed Fraud
+570,33254,3158,1542,1,3,2023-04-23,High Risk Merchant,Medium,False,0.0,Under Review
+571,60457,10829,5274,1,34,2023-08-19,Unusual Amount,High,False,0.0,Closed - False Positive
+572,2893,7626,3735,4,139,2023-02-22,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+573,9568,8755,4282,5,197,2024-10-26,Unusual Amount,High,True,302.64,Closed - Confirmed Fraud
+574,40731,7630,3737,6,226,2023-10-05,Card Not Present,Low,False,0.0,Account Frozen
+575,17135,2745,1328,4,150,2023-04-07,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+576,29166,3674,1797,4,150,2024-03-03,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+577,48450,5543,2720,2,81,2023-08-21,Unusual Amount,Medium,False,0.0,Closed - False Positive
+578,6371,8639,4217,5,206,2024-03-02,High Risk Merchant,Medium,True,47.33,Closed - Confirmed Fraud
+579,16990,8542,4173,2,88,2025-03-14,Velocity Spike,Medium,False,0.0,Under Review
+580,11698,1347,655,6,211,2023-03-10,Known Compromise,High,True,68.97,Account Frozen
+581,51360,7467,3659,4,170,2023-06-18,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+582,23887,6326,3098,6,218,2024-12-01,Unusual Amount,High,False,0.0,Closed - False Positive
+583,9161,582,277,2,51,2023-04-07,Velocity Spike,Medium,False,0.0,Closed - False Positive
+584,61531,3555,1741,6,223,2023-04-24,Unusual Amount,Critical,False,0.0,Closed - False Positive
+585,25533,3148,1539,2,80,2025-04-25,Velocity Spike,Medium,False,0.0,Customer Contacted
+586,69793,4031,1969,5,202,2025-03-05,Card Not Present,Low,False,0.0,Account Frozen
+587,32355,8587,4192,2,81,2023-07-21,Velocity Spike,Medium,False,0.0,Closed - False Positive
+588,62150,323,156,5,207,2025-06-02,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+589,14402,2039,996,1,35,2025-02-17,Velocity Spike,Medium,False,0.0,Closed - False Positive
+590,37986,5671,2780,2,67,2025-04-29,Card Not Present,Low,False,0.0,Closed - False Positive
+591,1963,12292,5977,1,41,2025-03-28,Unusual Amount,High,False,0.0,Closed - False Positive
+592,59930,7634,3739,1,20,2023-10-08,Geo Mismatch,Medium,False,0.0,Under Review
+593,19218,11112,5410,2,71,2024-05-22,Geo Mismatch,Low,False,0.0,Closed - False Positive
+594,21963,7972,3897,4,165,2023-08-18,Velocity Spike,Low,False,0.0,Under Review
+595,37650,2908,1414,2,58,2023-07-05,Card Not Present,Medium,False,0.0,Closed - False Positive
+596,65116,10175,4959,5,175,2025-02-27,Unusual Amount,Medium,False,0.0,Closed - False Positive
+597,42426,5264,2586,5,193,2023-02-08,Velocity Spike,Medium,False,0.0,Customer Contacted
+598,39708,2772,1342,4,165,2023-11-07,Card Not Present,Low,False,0.0,Closed - False Positive
+599,14683,13316,6482,3,100,2025-02-19,High Risk Merchant,Low,False,0.0,Customer Contacted
+600,1690,3988,1949,1,29,2023-05-28,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+601,19749,7509,3677,1,15,2025-02-16,Unusual Amount,Low,False,0.0,Customer Contacted
+602,64599,6778,3320,2,76,2023-11-14,Known Compromise,High,False,0.0,Closed - Confirmed Fraud
+603,14040,14134,6887,1,6,2023-12-26,Unusual Amount,Low,False,0.0,Closed - False Positive
+604,1209,8065,3943,1,4,2023-04-10,High Risk Merchant,Low,False,0.0,Under Review
+605,260,1355,658,2,53,2024-10-21,Known Compromise,Low,False,0.0,Closed - False Positive
+606,17952,258,126,2,76,2024-05-31,Card Not Present,Low,False,0.0,Customer Contacted
+607,51710,13903,6777,4,136,2025-06-29,Geo Mismatch,High,False,0.0,Closed - Confirmed Fraud
+608,45145,419,201,2,67,2023-03-25,Unusual Amount,Medium,False,0.0,Customer Contacted
+609,54832,5049,2475,5,203,2023-04-05,Geo Mismatch,High,False,0.0,Closed - False Positive
+610,44556,2360,1148,2,73,2024-09-09,Known Compromise,Medium,False,0.0,Customer Contacted
+611,45780,6121,3001,5,178,2023-01-22,High Risk Merchant,Low,False,0.0,Customer Contacted
+612,30429,5452,2676,6,221,2024-06-14,Card Not Present,Medium,False,0.0,Customer Contacted
+613,29568,13128,6389,5,202,2024-01-29,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+614,39337,4222,2063,1,22,2023-02-08,High Risk Merchant,Medium,False,0.0,Under Review
+615,20530,3622,1772,2,76,2023-01-29,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+616,43093,3297,1611,3,125,2025-05-30,Card Not Present,Low,False,0.0,Closed - False Positive
+617,15267,10850,5285,5,207,2024-04-20,High Risk Merchant,Critical,True,64.24,Customer Contacted
+618,35738,13279,6466,6,223,2025-02-12,Geo Mismatch,High,False,0.0,Closed - False Positive
+619,53044,1992,969,4,164,2024-12-06,Velocity Spike,Medium,False,0.0,Closed - False Positive
+620,47632,5538,2718,5,179,2024-04-05,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+621,14536,12353,6006,1,36,2024-05-21,Card Not Present,High,False,0.0,Closed - False Positive
+622,69693,2735,1322,2,88,2023-11-10,Card Not Present,Medium,False,0.0,Closed - False Positive
+623,9346,3314,1620,2,65,2025-03-10,Velocity Spike,Low,False,0.0,Under Review
+624,57521,10560,5144,1,28,2023-03-20,Velocity Spike,Low,False,0.0,Customer Contacted
+625,14589,7912,3870,6,221,2023-11-04,Unusual Amount,Low,False,0.0,Closed - False Positive
+626,45044,8341,4078,3,121,2025-07-23,High Risk Merchant,High,False,0.0,Closed - Confirmed Fraud
+627,5336,9332,4555,3,125,2023-03-08,Unusual Amount,Low,False,0.0,Closed - False Positive
+628,12016,7761,3798,3,92,2024-01-14,Velocity Spike,High,True,46.54,Closed - Confirmed Fraud
+629,40076,12552,6104,6,219,2024-12-05,Geo Mismatch,High,False,0.0,Closed - False Positive
+630,43551,3320,1622,4,141,2023-10-26,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+631,68247,11692,5705,5,173,2024-11-05,Geo Mismatch,Low,False,0.0,Closed - False Positive
+632,45466,12228,5947,2,84,2025-11-14,Velocity Spike,Low,False,0.0,Closed - False Positive
+633,60616,13232,6442,3,112,2025-10-08,Unusual Amount,Medium,False,0.0,Customer Contacted
+634,2389,6057,2967,5,207,2023-10-22,Geo Mismatch,Low,False,0.0,Customer Contacted
+635,45388,2231,1087,3,123,2025-10-08,Unusual Amount,Critical,True,1696.56,Closed - Confirmed Fraud
+636,37487,9718,4742,6,226,2024-06-06,Unusual Amount,Low,False,0.0,Customer Contacted
+637,56720,6446,3156,5,207,2023-03-20,Unusual Amount,High,False,0.0,Closed - False Positive
+638,59509,13088,6372,2,47,2023-05-06,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+639,1754,9511,4642,1,37,2024-01-02,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+640,11290,3652,1787,5,178,2025-06-14,High Risk Merchant,High,False,0.0,Closed - False Positive
+641,16192,5075,2488,2,71,2024-06-16,Known Compromise,Critical,False,0.0,Customer Contacted
+642,10248,13425,6535,2,62,2025-06-21,High Risk Merchant,Low,False,0.0,Closed - False Positive
+643,63613,6848,3353,4,143,2024-11-03,Known Compromise,Low,False,0.0,Customer Contacted
+644,33032,13107,6381,4,170,2024-03-17,Card Not Present,High,False,0.0,Account Frozen
+645,41184,3611,1767,3,113,2025-05-24,Unusual Amount,Medium,False,0.0,Closed - False Positive
+646,51030,16,8,2,48,2025-10-28,Known Compromise,Low,False,0.0,Under Review
+647,47646,11447,5578,5,197,2023-01-12,Velocity Spike,Critical,False,0.0,Under Review
+648,65890,1182,575,5,192,2024-08-06,High Risk Merchant,Low,False,0.0,Account Frozen
+649,56327,11384,5548,1,37,2025-03-05,High Risk Merchant,Low,False,0.0,Closed - False Positive
+650,39421,10134,4941,1,19,2024-07-11,Unusual Amount,Medium,False,0.0,Closed - False Positive
+651,62568,10307,5026,5,177,2023-10-29,Velocity Spike,Medium,False,0.0,Account Frozen
+652,26128,1213,588,5,181,2025-03-16,Card Not Present,Medium,False,0.0,Under Review
+653,26234,9269,4525,1,3,2025-01-06,Velocity Spike,Medium,False,0.0,Closed - False Positive
+654,67169,13283,6467,1,33,2024-12-12,Unusual Amount,Low,True,129.55,Customer Contacted
+655,56159,6598,3222,2,88,2025-10-13,Velocity Spike,Critical,False,0.0,Closed - False Positive
+656,18509,10302,5024,3,106,2024-12-07,High Risk Merchant,Medium,False,0.0,Under Review
+657,45216,10762,5242,1,33,2025-11-24,Velocity Spike,High,False,0.0,Closed - False Positive
+658,3137,4315,2110,6,213,2025-01-28,High Risk Merchant,Low,False,0.0,Closed - False Positive
+659,24671,12644,6146,4,157,2023-08-22,Card Not Present,Medium,True,502.45,Customer Contacted
+660,23209,46,22,1,6,2024-12-30,Unusual Amount,Medium,False,0.0,Closed - False Positive
+661,33857,4987,2444,5,183,2023-03-17,Unusual Amount,Medium,True,11.96,Closed - Confirmed Fraud
+662,33742,8506,4157,1,22,2023-06-03,Known Compromise,Low,False,0.0,Closed - False Positive
+663,54491,154,72,4,161,2023-10-08,Unusual Amount,High,False,0.0,Account Frozen
+664,9243,1724,836,2,89,2024-06-26,Geo Mismatch,Low,False,0.0,Under Review
+665,65056,4901,2402,1,36,2023-03-14,Card Not Present,Critical,False,0.0,Closed - False Positive
+666,43812,3650,1786,1,5,2023-09-24,Card Not Present,Medium,False,0.0,Closed - False Positive
+667,20621,13147,6398,3,110,2024-04-27,Known Compromise,Low,False,0.0,Closed - False Positive
+668,21764,12982,6318,2,77,2025-01-30,Velocity Spike,Medium,False,0.0,Closed - False Positive
+669,16651,10037,4894,6,216,2024-07-14,Velocity Spike,Low,False,0.0,Closed - False Positive
+670,28102,6282,3074,2,50,2023-09-25,Card Not Present,Critical,True,296.82,Closed - Confirmed Fraud
+671,39604,13920,6785,4,162,2025-07-25,Geo Mismatch,Low,False,0.0,Closed - False Positive
+672,27944,666,321,4,161,2023-12-21,Card Not Present,Low,False,0.0,Closed - False Positive
+673,16591,7534,3690,4,147,2024-10-03,Known Compromise,High,True,19.57,Closed - Confirmed Fraud
+674,43784,8531,4167,1,19,2024-08-25,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+675,5573,5528,2713,4,170,2024-05-04,Unusual Amount,Low,False,0.0,Closed - False Positive
+676,14405,12190,5929,3,105,2023-03-07,Card Not Present,Low,False,0.0,Closed - False Positive
+677,53946,13351,6501,4,166,2023-06-25,Velocity Spike,High,False,0.0,Customer Contacted
+678,14439,11870,5786,5,180,2023-10-15,High Risk Merchant,Low,False,0.0,Closed - False Positive
+679,13218,1063,520,5,172,2023-11-05,Unusual Amount,Medium,False,0.0,Customer Contacted
+680,27652,10950,5335,1,41,2025-11-21,Geo Mismatch,Low,False,0.0,Closed - False Positive
+681,64956,986,481,1,23,2025-08-06,Velocity Spike,High,True,801.68,Customer Contacted
+682,23870,9305,4542,4,147,2023-11-29,Geo Mismatch,High,False,0.0,Closed - False Positive
+683,61375,4017,1964,2,78,2023-05-01,Geo Mismatch,High,True,402.17,Closed - Confirmed Fraud
+684,1975,5855,2874,5,178,2025-04-07,Known Compromise,Medium,False,0.0,Closed - Confirmed Fraud
+685,30484,10166,4955,1,42,2024-07-22,Card Not Present,Medium,False,0.0,Closed - False Positive
+686,8369,5785,2841,1,20,2025-06-21,Velocity Spike,Low,False,0.0,Customer Contacted
+687,17941,641,310,4,160,2024-09-18,Velocity Spike,Critical,True,52.1,Closed - Confirmed Fraud
+688,4936,8883,4345,2,51,2025-07-04,Geo Mismatch,Medium,False,0.0,Closed - Confirmed Fraud
+689,47714,12636,6143,2,79,2024-12-31,High Risk Merchant,Low,False,0.0,Closed - False Positive
+690,5598,11189,5449,3,100,2023-12-24,Geo Mismatch,Medium,False,0.0,Closed - Confirmed Fraud
+691,21603,7860,3842,1,36,2023-06-05,Card Not Present,High,True,54.97,Closed - Confirmed Fraud
+692,12533,9029,4414,2,76,2023-08-09,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+693,52109,3530,1730,4,146,2024-09-24,High Risk Merchant,High,True,86.73,Customer Contacted
+694,55339,557,263,1,4,2023-11-03,Card Not Present,Medium,False,0.0,Customer Contacted
+695,60008,12102,5892,5,199,2024-09-29,Known Compromise,Low,False,0.0,Closed - False Positive
+696,19896,7379,3617,1,29,2023-10-15,Velocity Spike,Low,False,0.0,Closed - False Positive
+697,49504,1919,936,2,89,2025-08-22,Unusual Amount,Medium,False,0.0,Closed - False Positive
+698,69726,8441,4126,5,188,2024-08-23,Velocity Spike,Medium,False,0.0,Under Review
+699,42734,501,240,2,88,2023-06-27,Velocity Spike,Medium,True,184.2,Customer Contacted
+700,8970,3308,1617,1,11,2023-01-21,Known Compromise,Low,False,0.0,Closed - False Positive
+701,28632,1390,675,2,50,2025-01-14,Card Not Present,Medium,False,0.0,Closed - False Positive
+702,53434,2256,1097,1,24,2024-08-07,Unusual Amount,High,False,0.0,Closed - False Positive
+703,64670,6724,3292,3,118,2024-12-11,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+704,43089,6215,3044,2,77,2025-08-07,Velocity Spike,Critical,True,56.32,Customer Contacted
+705,14167,13308,6479,2,63,2025-11-16,Velocity Spike,High,False,0.0,Closed - False Positive
+706,19955,9422,4598,4,150,2023-06-05,Card Not Present,Medium,False,0.0,Closed - False Positive
+707,68033,14068,6858,6,223,2025-10-27,Card Not Present,Low,False,0.0,Customer Contacted
+708,33072,4880,2393,2,52,2023-04-11,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+709,32698,520,248,1,5,2023-01-16,Card Not Present,Medium,False,0.0,Customer Contacted
+710,15,10765,5244,1,14,2023-06-03,Card Not Present,Low,False,0.0,Account Frozen
+711,53391,13675,6656,2,86,2023-11-14,Card Not Present,Medium,False,0.0,Closed - False Positive
+712,65606,13751,6694,1,41,2024-06-26,Unusual Amount,Medium,False,0.0,Closed - False Positive
+713,13996,12759,6200,4,148,2024-10-01,Velocity Spike,High,True,140.38,Account Frozen
+714,43568,7797,3812,3,100,2023-08-04,Geo Mismatch,Medium,True,488.19,Account Frozen
+715,13897,9461,4616,3,94,2024-10-28,High Risk Merchant,Medium,False,0.0,Customer Contacted
+716,30221,5477,2688,6,218,2025-08-08,Geo Mismatch,Low,False,0.0,Closed - False Positive
+717,55683,4387,2146,5,181,2024-05-26,Unusual Amount,Low,False,0.0,Under Review
+718,58962,2590,1258,1,41,2024-10-21,Velocity Spike,Medium,False,0.0,Closed - False Positive
+719,59594,8266,4043,1,38,2025-02-06,Card Not Present,Low,False,0.0,Closed - False Positive
+720,64711,11657,5687,2,74,2023-03-08,High Risk Merchant,Medium,False,0.0,Account Frozen
+721,15769,484,231,5,172,2025-02-17,Card Not Present,Medium,False,0.0,Customer Contacted
+722,3327,13091,6373,2,70,2025-02-14,Card Not Present,Medium,False,0.0,Under Review
+723,61739,4928,2415,1,38,2025-02-11,Known Compromise,High,False,0.0,Customer Contacted
+724,56231,4625,2265,5,179,2023-01-29,Velocity Spike,Low,False,0.0,Closed - False Positive
+725,2091,5715,2802,2,47,2025-11-20,High Risk Merchant,Medium,False,0.0,Customer Contacted
+726,51033,11352,5533,1,41,2024-12-04,Card Not Present,High,True,61.1,Closed - Confirmed Fraud
+727,50217,4880,2393,2,52,2025-06-18,Known Compromise,Low,False,0.0,Customer Contacted
+728,37420,7454,3652,1,34,2024-11-11,High Risk Merchant,Low,False,0.0,Closed - False Positive
+729,61260,6698,3282,5,191,2023-04-13,High Risk Merchant,Medium,False,0.0,Customer Contacted
+730,36023,7074,3462,3,92,2024-10-09,Unusual Amount,Low,False,0.0,Closed - False Positive
+731,57507,2009,977,4,154,2025-07-11,Geo Mismatch,Low,False,0.0,Closed - False Positive
+732,23845,11919,5806,2,85,2024-05-09,Card Not Present,Low,True,84.02,Account Frozen
+733,9979,9393,4584,3,109,2023-11-26,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+734,41330,13556,6598,4,136,2025-05-08,High Risk Merchant,Low,False,0.0,Customer Contacted
+735,40179,2679,1296,1,10,2023-01-29,Unusual Amount,Low,False,0.0,Closed - False Positive
+736,10549,1153,564,1,34,2025-05-30,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+737,34575,136,63,5,183,2023-04-26,Unusual Amount,Medium,False,0.0,Customer Contacted
+738,24473,13767,6703,5,191,2023-08-26,Velocity Spike,Low,False,0.0,Under Review
+739,54494,878,426,6,214,2023-01-19,Unusual Amount,Low,False,0.0,Customer Contacted
+740,17880,6077,2979,3,97,2024-05-01,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+741,17159,2307,1123,4,169,2025-09-30,Unusual Amount,Critical,True,207.1,Account Frozen
+742,37713,1621,786,3,105,2023-03-16,Card Not Present,Medium,False,0.0,Closed - False Positive
+743,61500,13853,6750,4,135,2023-05-01,Unusual Amount,High,True,23.01,Closed - Confirmed Fraud
+744,53273,3431,1681,2,60,2023-06-02,Geo Mismatch,Low,False,0.0,Under Review
+745,40888,9947,4846,2,57,2025-07-08,Known Compromise,Medium,False,0.0,Customer Contacted
+746,64921,9790,4773,6,212,2025-07-28,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+747,62163,78,34,5,177,2025-11-19,Known Compromise,Low,False,0.0,Customer Contacted
+748,65469,12877,6264,2,84,2025-07-19,Geo Mismatch,Low,False,0.0,Closed - False Positive
+749,48246,12295,5978,2,73,2025-11-11,Known Compromise,Medium,False,0.0,Customer Contacted
+750,3030,9611,4690,2,75,2025-09-08,Card Not Present,Low,False,0.0,Customer Contacted
+751,46879,6858,3360,2,47,2024-04-02,High Risk Merchant,Low,False,0.0,Closed - False Positive
+752,69411,310,147,1,11,2024-02-10,Velocity Spike,Low,False,0.0,Closed - False Positive
+753,44323,11912,5803,1,18,2023-05-25,High Risk Merchant,Low,False,0.0,Closed - False Positive
+754,54701,9674,4723,1,16,2025-04-07,Card Not Present,Low,False,0.0,Closed - False Positive
+755,67341,10435,5085,5,197,2025-10-30,Unusual Amount,Medium,False,0.0,Closed - False Positive
+756,52531,9598,4684,5,203,2025-02-04,High Risk Merchant,Medium,True,152.35,Closed - Confirmed Fraud
+757,45999,6210,3041,4,167,2023-02-05,Velocity Spike,Low,False,0.0,Under Review
+758,23554,4617,2260,4,134,2024-12-04,Velocity Spike,Critical,False,0.0,Closed - False Positive
+759,57647,10617,5169,6,221,2023-07-26,Velocity Spike,Medium,True,174.41,Closed - Confirmed Fraud
+760,38178,4212,2058,1,25,2023-10-24,Card Not Present,Medium,False,0.0,Under Review
+761,43979,1758,853,2,46,2024-07-14,Velocity Spike,Low,False,0.0,Customer Contacted
+762,60514,11742,5729,2,89,2023-09-24,Card Not Present,Critical,True,39.08,Account Frozen
+763,56608,174,81,6,216,2025-07-04,Known Compromise,Low,False,0.0,Closed - False Positive
+764,56894,318,153,5,172,2023-02-18,Geo Mismatch,Low,False,0.0,Closed - False Positive
+765,28030,6273,3070,4,146,2025-08-05,Velocity Spike,Medium,False,0.0,Customer Contacted
+766,7902,10142,4943,1,10,2023-04-05,Velocity Spike,High,True,230.14,Account Frozen
+767,24868,3335,1630,1,5,2024-06-04,Geo Mismatch,Medium,True,199.66,Account Frozen
+768,57466,1087,533,4,166,2024-05-31,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+769,56580,13014,6336,1,4,2023-02-27,Card Not Present,Low,True,114.5,Closed - Confirmed Fraud
+770,12549,2859,1386,6,215,2024-09-30,High Risk Merchant,Medium,True,287.35,Closed - Confirmed Fraud
+771,40036,8938,4371,4,138,2025-11-19,Known Compromise,Medium,False,0.0,Closed - False Positive
+772,62886,7939,3883,2,47,2023-12-14,Geo Mismatch,Medium,True,197.57,Customer Contacted
+773,38543,2920,1420,4,163,2024-03-21,Velocity Spike,Medium,False,0.0,Customer Contacted
+774,36600,6632,3243,3,104,2025-10-18,Velocity Spike,Low,False,0.0,Closed - False Positive
+775,38990,2381,1159,1,30,2025-10-27,Velocity Spike,Low,False,0.0,Customer Contacted
+776,11037,7949,3887,2,72,2024-07-26,Card Not Present,Low,False,0.0,Under Review
+777,16071,8195,4007,1,24,2023-04-15,Geo Mismatch,Low,False,0.0,Closed - False Positive
+778,48956,826,397,4,158,2023-01-09,Geo Mismatch,Low,False,0.0,Closed - False Positive
+779,60825,1444,703,3,92,2023-01-18,Unusual Amount,Low,False,0.0,Closed - False Positive
+780,17378,9291,4534,5,196,2023-08-29,Card Not Present,Low,False,0.0,Account Frozen
+781,56190,10078,4915,1,27,2023-08-15,High Risk Merchant,Low,False,0.0,Closed - False Positive
+782,41197,13818,6731,6,226,2023-09-04,Geo Mismatch,Medium,False,0.0,Under Review
+783,55618,604,288,2,52,2023-05-19,Card Not Present,Low,False,0.0,Closed - False Positive
+784,36404,6325,3098,1,18,2023-05-24,Geo Mismatch,High,True,64.75,Closed - Confirmed Fraud
+785,47104,5228,2566,3,130,2023-03-06,Velocity Spike,Low,False,0.0,Closed - False Positive
+786,44766,3232,1578,2,90,2025-07-26,Geo Mismatch,Low,False,0.0,Closed - False Positive
+787,42471,10555,5143,5,203,2024-11-11,Geo Mismatch,Low,False,0.0,Customer Contacted
+788,38074,7356,3606,2,66,2023-03-07,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+789,12103,5455,2677,3,110,2025-06-19,Geo Mismatch,Low,False,0.0,Account Frozen
+790,956,8591,4194,2,88,2025-01-03,Geo Mismatch,Medium,False,0.0,Customer Contacted
+791,25092,4836,2372,2,47,2024-04-18,Velocity Spike,Medium,False,0.0,Under Review
+792,6427,5408,2657,3,106,2023-03-08,Velocity Spike,Low,False,0.0,Account Frozen
+793,62913,7473,3661,5,176,2024-08-12,Unusual Amount,Medium,False,0.0,Closed - False Positive
+794,33714,2906,1413,2,77,2025-09-26,Velocity Spike,Medium,True,423.75,Account Frozen
+795,18362,3019,1475,3,119,2025-08-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+796,46735,4280,2094,5,203,2025-05-16,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+797,39543,13161,6406,4,159,2023-05-17,Card Not Present,Low,False,0.0,Closed - False Positive
+798,39891,2562,1245,5,198,2025-05-27,Velocity Spike,Medium,False,0.0,Closed - False Positive
+799,61303,4588,2245,6,214,2023-01-11,Card Not Present,Low,False,0.0,Under Review
+800,12105,10495,5111,1,29,2024-05-30,Velocity Spike,High,False,0.0,Closed - False Positive
+801,51879,8482,4145,3,125,2024-10-12,Geo Mismatch,Critical,True,27.12,Closed - Confirmed Fraud
+802,69047,13039,6347,3,118,2023-11-18,Unusual Amount,Low,False,0.0,Under Review
+803,63787,9223,4504,5,171,2024-04-07,Geo Mismatch,High,False,0.0,Closed - False Positive
+804,15895,4255,2082,1,31,2025-07-12,Velocity Spike,Medium,False,0.0,Closed - False Positive
+805,47627,765,365,3,106,2023-07-17,Card Not Present,Low,False,0.0,Closed - False Positive
+806,48192,6061,2969,3,94,2023-09-03,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+807,41024,3770,1840,3,102,2023-04-30,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+808,6108,4525,2215,1,19,2024-03-03,Geo Mismatch,Low,False,0.0,Customer Contacted
+809,163,9156,4472,4,131,2023-05-26,Card Not Present,Medium,False,0.0,Under Review
+810,51461,10344,5045,4,159,2024-08-24,Card Not Present,Low,False,0.0,Closed - False Positive
+811,22187,9053,4424,2,77,2025-06-23,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+812,50419,4635,2268,4,142,2025-06-27,Card Not Present,Medium,False,0.0,Account Frozen
+813,26440,3828,1868,4,136,2023-02-11,Geo Mismatch,Low,False,0.0,Under Review
+814,40009,6646,3253,1,8,2023-09-19,Card Not Present,Medium,False,0.0,Closed - False Positive
+815,50414,5816,2856,5,176,2024-01-01,Velocity Spike,Medium,False,0.0,Closed - False Positive
+816,628,732,347,3,120,2025-06-12,Geo Mismatch,Low,False,0.0,Closed - False Positive
+817,45362,1943,947,5,200,2025-04-23,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+818,55145,8362,4086,3,130,2025-11-05,Card Not Present,High,False,0.0,Closed - False Positive
+819,53992,4792,2349,2,55,2024-01-18,Unusual Amount,Low,False,0.0,Customer Contacted
+820,6065,12323,5991,1,5,2025-03-07,Known Compromise,Low,False,0.0,Closed - False Positive
+821,7498,1891,922,6,214,2024-11-04,High Risk Merchant,High,True,184.55,Account Frozen
+822,24759,1435,697,3,95,2023-04-16,Velocity Spike,Low,False,0.0,Customer Contacted
+823,27548,6372,3120,2,88,2024-10-12,Geo Mismatch,Low,False,0.0,Closed - False Positive
+824,39908,675,325,4,162,2025-04-02,Unusual Amount,Medium,False,0.0,Customer Contacted
+825,41492,11763,5737,2,88,2024-01-24,Velocity Spike,High,False,0.0,Closed - False Positive
+826,24665,13441,6541,6,218,2025-11-18,Unusual Amount,Low,False,0.0,Account Frozen
+827,36106,4231,2068,2,89,2025-01-10,Known Compromise,Low,False,0.0,Closed - False Positive
+828,31898,9204,4497,4,165,2025-11-18,Velocity Spike,Critical,True,249.9,Closed - Confirmed Fraud
+829,60806,1013,492,3,104,2025-12-23,Geo Mismatch,Medium,False,0.0,Under Review
+830,14415,14194,6916,1,44,2023-11-07,Unusual Amount,Low,False,0.0,Closed - False Positive
+831,25510,8800,4303,5,187,2023-08-07,High Risk Merchant,High,False,0.0,Closed - Confirmed Fraud
+832,22898,11933,5816,1,33,2024-02-28,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+833,27672,11216,5462,1,44,2024-07-01,High Risk Merchant,Low,False,0.0,Closed - False Positive
+834,62024,4293,2099,1,43,2023-03-19,Known Compromise,Medium,False,0.0,Closed - False Positive
+835,59908,1060,518,3,129,2023-05-01,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+836,1864,10903,5312,2,88,2024-08-21,Card Not Present,Low,False,0.0,Closed - False Positive
+837,33075,7155,3502,3,100,2024-04-21,Unusual Amount,Medium,False,0.0,Closed - False Positive
+838,14649,6432,3149,4,168,2024-02-23,Known Compromise,High,False,0.0,Closed - False Positive
+839,13650,1887,920,2,52,2023-11-16,High Risk Merchant,High,True,21.56,Account Frozen
+840,41554,12197,5932,4,132,2023-09-01,Velocity Spike,Medium,False,0.0,Closed - False Positive
+841,15072,7512,3679,1,44,2024-05-20,Geo Mismatch,Low,False,0.0,Customer Contacted
+842,3722,860,415,6,218,2024-04-07,Card Not Present,Low,False,0.0,Closed - False Positive
+843,55388,7446,3648,2,83,2025-01-27,Card Not Present,Medium,False,0.0,Account Frozen
+844,58128,12353,6006,1,36,2025-05-17,Known Compromise,High,False,0.0,Closed - False Positive
+845,22509,6375,3121,4,134,2025-09-13,Velocity Spike,High,False,0.0,Account Frozen
+846,50350,5918,2904,2,54,2025-02-16,Velocity Spike,Medium,False,0.0,Closed - False Positive
+847,22015,6598,3222,2,88,2025-12-15,Unusual Amount,Medium,False,0.0,Account Frozen
+848,461,3805,1857,2,61,2024-01-08,Unusual Amount,Medium,False,0.0,Closed - False Positive
+849,68865,5865,2878,2,76,2025-08-09,Card Not Present,Medium,False,0.0,Closed - False Positive
+850,38680,13709,6671,3,103,2023-02-04,Card Not Present,High,False,0.0,Customer Contacted
+851,44049,11172,5438,2,87,2024-04-10,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+852,58178,8252,4035,4,156,2025-07-20,High Risk Merchant,Low,False,0.0,Closed - False Positive
+853,36015,5657,2774,4,141,2023-10-08,Unusual Amount,Low,False,0.0,Account Frozen
+854,64408,5767,2831,2,62,2024-01-17,Card Not Present,Critical,True,124.31,Customer Contacted
+855,35051,6331,3101,6,223,2024-08-22,High Risk Merchant,Low,False,0.0,Closed - False Positive
+856,51886,9750,4754,3,101,2024-01-21,Velocity Spike,Medium,False,0.0,Customer Contacted
+857,48338,12911,6283,5,172,2025-02-12,Known Compromise,Low,False,0.0,Closed - False Positive
+858,15319,2902,1410,4,143,2024-08-09,Velocity Spike,Low,False,0.0,Closed - False Positive
+859,5131,8773,4290,4,163,2024-07-25,Velocity Spike,Low,False,0.0,Closed - False Positive
+860,46070,6592,3220,2,52,2023-07-06,Velocity Spike,High,False,0.0,Closed - False Positive
+861,17788,7365,3610,3,122,2024-06-02,Known Compromise,Critical,False,0.0,Closed - False Positive
+862,5424,5057,2478,4,150,2025-09-05,Unusual Amount,Low,False,0.0,Customer Contacted
+863,63884,303,144,3,129,2023-02-02,Geo Mismatch,Medium,False,0.0,Account Frozen
+864,24157,5058,2479,2,51,2024-11-04,Velocity Spike,High,True,103.56,Closed - Confirmed Fraud
+865,58309,9974,4858,4,152,2025-09-02,Unusual Amount,Low,False,0.0,Closed - False Positive
+866,6581,1007,489,6,219,2024-02-07,Velocity Spike,Medium,False,0.0,Under Review
+867,22134,13238,6445,3,110,2025-11-04,Velocity Spike,Medium,False,0.0,Closed - False Positive
+868,63967,11735,5726,1,1,2024-07-13,Velocity Spike,Low,False,0.0,Closed - False Positive
+869,42501,3715,1816,4,154,2024-05-19,Geo Mismatch,High,False,0.0,Closed - False Positive
+870,61596,13846,6746,2,54,2025-02-24,Unusual Amount,High,True,171.49,Closed - Confirmed Fraud
+871,42822,10122,4934,6,219,2023-06-06,Velocity Spike,Medium,True,284.74,Closed - Confirmed Fraud
+872,56920,13089,6372,4,162,2025-06-09,Geo Mismatch,Critical,False,0.0,Closed - False Positive
+873,32215,962,467,2,73,2023-03-03,Card Not Present,Critical,False,0.0,Closed - False Positive
+874,69285,6273,3070,4,146,2023-07-02,Known Compromise,Low,False,0.0,Closed - False Positive
+875,39195,8215,4017,2,55,2024-12-28,High Risk Merchant,High,False,0.0,Closed - False Positive
+876,32062,9580,4674,1,41,2025-08-26,Geo Mismatch,Medium,True,857.23,Customer Contacted
+877,51171,7294,3576,1,38,2023-12-16,Unusual Amount,Medium,True,383.35,Account Frozen
+878,19991,6731,3296,1,28,2023-04-01,Unusual Amount,Low,False,0.0,Closed - False Positive
+879,49500,615,294,1,35,2025-10-27,Card Not Present,Critical,True,478.0,Account Frozen
+880,38970,11704,5711,2,61,2025-01-19,Geo Mismatch,Low,False,0.0,Closed - False Positive
+881,50127,2016,982,5,200,2025-08-16,Velocity Spike,Medium,False,0.0,Closed - False Positive
+882,1905,5274,2591,3,104,2023-07-05,Velocity Spike,Low,False,0.0,Closed - False Positive
+883,24172,6953,3406,5,199,2024-01-25,Velocity Spike,Medium,False,0.0,Under Review
+884,50053,12891,6271,3,118,2025-08-23,Geo Mismatch,Low,False,0.0,Customer Contacted
+885,10249,13180,6417,3,103,2024-05-12,Velocity Spike,Medium,False,0.0,Closed - False Positive
+886,26233,11482,5600,5,200,2023-01-14,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+887,9653,3744,1828,5,171,2024-09-27,Unusual Amount,Low,False,0.0,Customer Contacted
+888,65477,3656,1789,5,190,2025-11-02,Velocity Spike,High,False,0.0,Customer Contacted
+889,49410,9704,4735,5,190,2024-01-27,Unusual Amount,High,False,0.0,Customer Contacted
+890,35455,13188,6421,5,174,2025-06-06,Geo Mismatch,Low,False,0.0,Closed - False Positive
+891,41247,8572,4187,2,47,2024-04-13,Card Not Present,Low,False,0.0,Account Frozen
+892,9483,5762,2829,1,17,2024-02-18,Card Not Present,Low,False,0.0,Customer Contacted
+893,16509,5806,2851,3,102,2025-03-13,Unusual Amount,Low,False,0.0,Closed - False Positive
+894,21395,11888,5795,5,203,2025-03-01,High Risk Merchant,Medium,False,0.0,Under Review
+895,4504,6326,3098,6,218,2024-12-04,High Risk Merchant,Low,False,0.0,Customer Contacted
+896,50429,12502,6078,6,219,2025-10-01,Geo Mismatch,Critical,True,67.98,Closed - Confirmed Fraud
+897,11063,13841,6744,5,187,2023-10-26,High Risk Merchant,High,False,0.0,Closed - False Positive
+898,27323,11375,5543,3,91,2024-11-10,High Risk Merchant,Low,False,0.0,Closed - False Positive
+899,45113,904,438,2,75,2023-04-03,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+900,60439,4859,2380,4,151,2025-01-06,Velocity Spike,Medium,True,135.01,Customer Contacted
+901,65429,10728,5226,2,56,2025-06-11,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+902,53499,7781,3806,5,197,2023-04-17,Velocity Spike,Low,False,0.0,Closed - False Positive
+903,452,5908,2900,5,192,2024-02-09,Velocity Spike,Medium,False,0.0,Closed - False Positive
+904,16051,4033,1970,4,136,2025-06-07,Velocity Spike,Medium,False,0.0,Customer Contacted
+905,41708,9003,4402,2,65,2025-11-18,Unusual Amount,Low,True,666.72,Account Frozen
+906,9784,1944,947,3,126,2024-07-16,Unusual Amount,Low,False,0.0,Closed - False Positive
+907,11417,5007,2455,1,19,2024-01-02,Velocity Spike,Medium,False,0.0,Customer Contacted
+908,54409,8875,4342,4,159,2025-01-27,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+909,32669,788,377,2,61,2023-02-04,Velocity Spike,High,False,0.0,Closed - False Positive
+910,20030,676,325,4,157,2024-01-20,Known Compromise,Critical,False,0.0,Closed - False Positive
+911,907,1783,867,2,66,2024-09-29,Card Not Present,Medium,False,0.0,Closed - False Positive
+912,53164,8452,4130,1,5,2025-01-12,High Risk Merchant,Low,False,0.0,Closed - False Positive
+913,9390,2592,1259,4,155,2023-06-03,Card Not Present,Medium,False,0.0,Closed - False Positive
+914,27253,13961,6803,6,212,2023-10-09,Known Compromise,Medium,False,0.0,Customer Contacted
+915,27571,10759,5242,3,106,2025-12-28,High Risk Merchant,Low,False,0.0,Closed - False Positive
+916,7679,1857,903,2,86,2023-09-01,Velocity Spike,Medium,False,0.0,Closed - False Positive
+917,52979,4721,2314,6,217,2025-05-23,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+918,49479,7318,3589,6,214,2025-01-24,Geo Mismatch,Low,False,0.0,Closed - False Positive
+919,7912,10174,4959,5,200,2024-10-03,Velocity Spike,Medium,True,47.98,Closed - Confirmed Fraud
+920,7092,4926,2413,5,193,2024-09-29,Geo Mismatch,Critical,True,53.8,Closed - Confirmed Fraud
+921,22415,4540,2222,5,175,2025-12-04,Velocity Spike,Low,False,0.0,Closed - False Positive
+922,12134,4529,2216,1,23,2024-02-02,Card Not Present,Low,False,0.0,Closed - False Positive
+923,10073,8966,4384,4,139,2023-06-01,Geo Mismatch,Low,False,0.0,Closed - False Positive
+924,31522,579,275,4,161,2025-12-29,Velocity Spike,Medium,False,0.0,Customer Contacted
+925,68981,4528,2216,2,72,2023-05-28,Card Not Present,Low,False,0.0,Closed - False Positive
+926,11262,6807,3332,3,101,2023-03-29,Velocity Spike,Medium,False,0.0,Customer Contacted
+927,24241,1629,791,1,33,2023-05-02,Card Not Present,Medium,False,0.0,Customer Contacted
+928,11757,5501,2700,3,99,2025-09-28,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+929,23030,7277,3566,2,85,2024-04-11,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+930,30827,1207,585,5,180,2023-03-12,Geo Mismatch,Low,False,0.0,Closed - False Positive
+931,59782,6597,3222,6,225,2023-09-07,Card Not Present,Low,False,0.0,Closed - False Positive
+932,67630,1858,903,5,205,2024-04-20,Known Compromise,Low,False,0.0,Customer Contacted
+933,54205,1733,841,5,194,2023-05-27,Velocity Spike,High,True,89.16,Account Frozen
+934,10343,8238,4027,4,165,2024-08-15,Geo Mismatch,Low,False,0.0,Closed - False Positive
+935,49493,1606,778,5,188,2023-12-31,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+936,10511,71,32,4,164,2024-02-11,Card Not Present,High,False,0.0,Closed - False Positive
+937,48355,13432,6537,1,3,2024-02-28,Geo Mismatch,Low,True,116.14,Account Frozen
+938,53059,1862,905,2,46,2025-01-24,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+939,24386,10869,5294,3,114,2024-04-21,Unusual Amount,High,False,0.0,Closed - False Positive
+940,7292,743,353,2,53,2024-10-12,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+941,42463,8006,3914,2,76,2025-03-02,Geo Mismatch,Medium,False,0.0,Closed - Confirmed Fraud
+942,26053,12442,6050,5,172,2025-07-03,Geo Mismatch,Low,False,0.0,Closed - False Positive
+943,24950,10380,5061,6,217,2024-06-03,Geo Mismatch,High,False,0.0,Closed - False Positive
+944,63880,8503,4156,1,37,2025-10-18,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+945,41172,4713,2311,2,83,2024-11-18,Geo Mismatch,Critical,True,132.84,Closed - Confirmed Fraud
+946,38108,4282,2095,4,138,2024-06-16,Known Compromise,Low,False,0.0,Closed - False Positive
+947,68019,6446,3156,5,207,2023-02-06,Velocity Spike,Medium,True,2068.91,Customer Contacted
+948,69840,4452,2178,3,120,2024-11-07,Card Not Present,Medium,False,0.0,Closed - False Positive
+949,8758,2170,1056,5,194,2025-12-18,Geo Mismatch,Medium,True,328.37,Closed - Confirmed Fraud
+950,11373,219,108,2,51,2025-07-27,Velocity Spike,Medium,False,0.0,Closed - False Positive
+951,34779,158,74,2,70,2025-11-25,Card Not Present,Low,False,0.0,Closed - False Positive
+952,53083,9677,4725,2,80,2024-05-05,Unusual Amount,Medium,False,0.0,Account Frozen
+953,57323,146,67,3,122,2024-02-18,Velocity Spike,Medium,False,0.0,Closed - False Positive
+954,64565,5493,2695,5,188,2024-12-03,Card Not Present,Medium,True,19.71,Customer Contacted
+955,60847,1775,864,6,213,2025-06-06,Unusual Amount,High,False,0.0,Closed - False Positive
+956,20379,12120,5899,5,194,2025-04-19,Geo Mismatch,Low,False,0.0,Closed - False Positive
+957,487,10798,5261,1,16,2025-02-17,High Risk Merchant,High,False,0.0,Closed - False Positive
+958,48702,7013,3434,3,95,2024-11-09,Geo Mismatch,Low,False,0.0,Account Frozen
+959,13345,8188,4004,3,117,2023-11-06,Unusual Amount,High,False,0.0,Customer Contacted
+960,66891,5343,2623,3,124,2023-08-14,Velocity Spike,Critical,True,236.4,Closed - Confirmed Fraud
+961,26615,12589,6122,5,186,2025-03-07,High Risk Merchant,Low,False,0.0,Closed - False Positive
+962,52457,8452,4130,1,5,2023-09-08,Unusual Amount,Medium,True,126.05,Closed - Confirmed Fraud
+963,4241,2236,1089,5,199,2023-10-06,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+964,40553,12824,6234,3,120,2025-04-07,Velocity Spike,Medium,False,0.0,Closed - False Positive
+965,52084,3111,1525,5,175,2025-09-26,Velocity Spike,Medium,False,0.0,Closed - False Positive
+966,58386,8541,4172,4,138,2023-06-16,Card Not Present,Low,True,27.25,Closed - Confirmed Fraud
+967,48761,10262,5004,3,107,2023-06-15,High Risk Merchant,Low,False,0.0,Closed - False Positive
+968,67224,2131,1040,3,101,2025-09-16,Card Not Present,Low,False,0.0,Closed - False Positive
+969,62812,14300,6972,3,123,2024-02-16,Known Compromise,Low,False,0.0,Under Review
+970,16879,9633,4703,6,216,2025-09-26,Velocity Spike,Low,False,0.0,Closed - False Positive
+971,31017,4840,2374,4,156,2023-07-27,High Risk Merchant,Low,False,0.0,Customer Contacted
+972,1608,11230,5470,1,3,2023-05-14,Geo Mismatch,High,True,362.01,Closed - Confirmed Fraud
+973,64624,6888,3377,5,189,2025-02-21,Geo Mismatch,Low,False,0.0,Customer Contacted
+974,41959,13301,6476,5,202,2024-11-22,Card Not Present,High,True,142.66,Closed - Confirmed Fraud
+975,52450,12605,6128,3,126,2023-01-15,Geo Mismatch,Low,False,0.0,Closed - False Positive
+976,12335,5944,2916,2,76,2023-12-17,Card Not Present,Low,False,0.0,Account Frozen
+977,62172,6450,3157,2,74,2023-11-24,Geo Mismatch,Low,False,0.0,Closed - False Positive
+978,60462,8921,4363,5,172,2025-05-01,Unusual Amount,Low,True,278.87,Customer Contacted
+979,63437,9425,4600,5,199,2023-06-19,Card Not Present,Low,False,0.0,Closed - False Positive
+980,37674,2001,972,3,93,2023-04-25,Card Not Present,Critical,True,384.76,Closed - Confirmed Fraud
+981,30962,10148,4947,4,149,2023-09-23,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+982,13679,224,110,1,35,2025-03-08,Velocity Spike,Low,False,0.0,Customer Contacted
+983,602,1418,690,2,59,2024-08-30,Unusual Amount,Low,False,0.0,Closed - False Positive
+984,16558,7534,3690,4,147,2025-08-21,Card Not Present,Low,False,0.0,Customer Contacted
+985,10214,10765,5244,1,14,2025-07-28,Unusual Amount,High,True,169.51,Customer Contacted
+986,40386,8202,4011,4,146,2023-10-01,Card Not Present,Low,False,0.0,Under Review
+987,17911,3870,1887,2,90,2024-09-29,Unusual Amount,Critical,True,230.24,Account Frozen
+988,13497,11821,5761,1,44,2023-01-23,Card Not Present,High,False,0.0,Closed - Confirmed Fraud
+989,28006,2644,1282,4,150,2024-08-29,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+990,66027,542,257,2,88,2024-09-15,Velocity Spike,Low,False,0.0,Closed - False Positive
+991,45069,6936,3399,2,66,2024-09-28,High Risk Merchant,Medium,True,458.26,Closed - Confirmed Fraud
+992,42642,3476,1702,4,163,2025-01-12,Geo Mismatch,Low,False,0.0,Under Review
+993,40800,2797,1353,4,162,2023-10-26,Geo Mismatch,Critical,True,22.5,Account Frozen
+994,34957,13833,6740,2,76,2025-12-17,Velocity Spike,Low,False,0.0,Customer Contacted
+995,24453,3790,1851,4,170,2023-01-06,Velocity Spike,High,False,0.0,Closed - False Positive
+996,29150,12952,6304,1,30,2025-09-10,Geo Mismatch,High,True,254.18,Closed - Confirmed Fraud
+997,48914,12923,6289,5,186,2024-08-05,Velocity Spike,Low,False,0.0,Customer Contacted
+998,38557,8187,4003,2,83,2023-05-08,Velocity Spike,High,False,0.0,Under Review
+999,35568,6847,3353,5,184,2025-02-13,Unusual Amount,High,False,0.0,Closed - False Positive
+1000,58524,3054,1492,5,175,2023-10-01,Geo Mismatch,Medium,False,0.0,Under Review
+1001,53976,13360,6505,6,226,2024-01-05,Unusual Amount,Critical,True,243.07,Closed - Confirmed Fraud
+1002,59896,1347,655,6,211,2025-04-10,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1003,36348,10121,4934,6,216,2024-04-14,Geo Mismatch,High,False,0.0,Account Frozen
+1004,63644,3425,1678,4,164,2023-12-23,Velocity Spike,Critical,False,0.0,Closed - False Positive
+1005,30385,11593,5657,5,192,2025-08-16,Velocity Spike,High,True,94.79,Customer Contacted
+1006,4304,10773,5248,1,22,2025-02-22,Velocity Spike,Low,False,0.0,Under Review
+1007,45042,5320,2613,2,79,2023-04-15,Velocity Spike,Low,False,0.0,Closed - False Positive
+1008,43714,4936,2420,3,97,2025-06-16,Card Not Present,Medium,True,227.16,Closed - Confirmed Fraud
+1009,26373,8269,4044,3,91,2024-04-04,Velocity Spike,Medium,False,0.0,Customer Contacted
+1010,20432,3513,1719,2,75,2023-01-30,Unusual Amount,Medium,True,19.22,Account Frozen
+1011,17536,12436,6049,6,215,2024-11-13,Card Not Present,Medium,False,0.0,Customer Contacted
+1012,19908,10089,4920,3,107,2023-12-03,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1013,7671,1702,828,6,221,2023-06-08,Geo Mismatch,Medium,False,0.0,Customer Contacted
+1014,36787,12828,6235,5,185,2023-02-22,High Risk Merchant,High,False,0.0,Closed - False Positive
+1015,17567,11047,5380,1,33,2025-03-08,Unusual Amount,Low,False,0.0,Under Review
+1016,30192,7029,3441,4,141,2024-03-03,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1017,69236,10516,5122,4,166,2025-10-27,High Risk Merchant,Medium,False,0.0,Customer Contacted
+1018,4826,3167,1547,5,176,2023-08-12,Geo Mismatch,High,False,0.0,Customer Contacted
+1019,4440,9889,4819,3,119,2024-03-20,High Risk Merchant,Critical,True,75.19,Customer Contacted
+1020,66450,2375,1156,6,223,2024-01-15,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1021,53551,13756,6696,1,6,2024-04-04,Geo Mismatch,High,False,0.0,Closed - Confirmed Fraud
+1022,38116,6073,2976,3,128,2023-07-29,Geo Mismatch,Low,False,0.0,Account Frozen
+1023,22994,7864,3844,2,89,2023-12-14,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+1024,108,4697,2301,4,150,2023-11-01,High Risk Merchant,High,False,0.0,Closed - False Positive
+1025,6727,12079,5880,3,104,2025-09-06,Known Compromise,Critical,True,221.53,Customer Contacted
+1026,24068,7242,3547,3,97,2025-07-12,Card Not Present,Medium,False,0.0,Account Frozen
+1027,14529,12296,5978,1,26,2025-09-15,Card Not Present,Low,False,0.0,Account Frozen
+1028,24979,5233,2568,3,129,2023-11-19,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1029,24428,10383,5063,5,182,2023-06-06,Card Not Present,Low,False,0.0,Closed - False Positive
+1030,35406,8295,4056,4,135,2024-06-07,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1031,16688,1813,880,2,71,2024-06-06,High Risk Merchant,Medium,False,0.0,Under Review
+1032,49321,3947,1926,4,150,2023-02-19,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1033,68331,6626,3240,5,191,2023-05-25,Card Not Present,Low,False,0.0,Closed - False Positive
+1034,21710,4983,2443,6,213,2025-11-21,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1035,12968,6671,3266,1,1,2024-06-24,Velocity Spike,Low,False,0.0,Closed - False Positive
+1036,26405,1109,544,3,92,2025-12-01,Velocity Spike,Medium,False,0.0,Account Frozen
+1037,60741,4026,1967,2,61,2023-09-18,Velocity Spike,High,False,0.0,Closed - Confirmed Fraud
+1038,48651,9235,4511,3,111,2023-12-25,Card Not Present,Low,False,0.0,Closed - False Positive
+1039,5723,11936,5817,5,188,2025-04-21,Velocity Spike,Low,False,0.0,Closed - False Positive
+1040,32529,12577,6117,3,106,2023-11-28,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1041,65791,3855,1882,5,192,2024-04-27,Geo Mismatch,Low,False,0.0,Account Frozen
+1042,11375,11784,5745,1,14,2025-06-28,Card Not Present,High,False,0.0,Closed - False Positive
+1043,32219,721,343,1,32,2024-03-14,Card Not Present,High,True,42.7,Customer Contacted
+1044,9325,2919,1419,3,96,2024-01-16,Velocity Spike,Medium,False,0.0,Customer Contacted
+1045,20250,9011,4407,2,86,2024-12-25,Geo Mismatch,High,False,0.0,Closed - False Positive
+1046,19408,119,55,1,7,2023-08-23,Known Compromise,Medium,False,0.0,Under Review
+1047,48708,6429,3148,1,21,2023-05-21,Card Not Present,Low,True,529.31,Customer Contacted
+1048,13491,9795,4776,1,17,2025-04-03,Geo Mismatch,High,False,0.0,Closed - False Positive
+1049,4480,10234,4991,6,222,2024-05-09,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1050,28232,3123,1529,4,144,2024-08-07,Geo Mismatch,High,False,0.0,Customer Contacted
+1051,59055,8337,4076,4,133,2024-09-23,Card Not Present,Low,False,0.0,Closed - False Positive
+1052,44893,2477,1207,1,28,2024-04-17,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1053,53856,5053,2477,1,15,2023-12-23,Velocity Spike,Low,False,0.0,Closed - False Positive
+1054,25258,10683,5204,5,191,2024-04-08,Card Not Present,Medium,False,0.0,Customer Contacted
+1055,66820,5660,2775,4,148,2024-08-16,Known Compromise,Low,False,0.0,Closed - False Positive
+1056,56311,7868,3846,2,79,2024-02-22,Velocity Spike,Low,False,0.0,Closed - False Positive
+1057,16366,746,354,5,180,2024-12-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1058,31389,3827,1868,4,150,2023-12-22,Velocity Spike,Medium,True,183.52,Closed - Confirmed Fraud
+1059,63419,2758,1336,5,180,2025-11-12,Known Compromise,Critical,True,18.14,Account Frozen
+1060,12677,10569,5147,1,41,2023-01-02,Card Not Present,Low,False,0.0,Closed - False Positive
+1061,64275,2773,1343,1,20,2024-12-31,Geo Mismatch,Medium,False,0.0,Closed - Confirmed Fraud
+1062,12142,4211,2058,1,31,2023-03-23,Unusual Amount,Low,False,0.0,Customer Contacted
+1063,32257,8806,4306,3,91,2023-05-01,Card Not Present,Medium,False,0.0,Customer Contacted
+1064,17290,7940,3883,4,153,2023-01-27,Velocity Spike,Medium,False,0.0,Under Review
+1065,63582,10695,5210,2,89,2024-12-09,Card Not Present,Low,False,0.0,Customer Contacted
+1066,38790,12856,6252,4,146,2024-05-20,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1067,51377,11124,5415,3,105,2024-05-25,Unusual Amount,High,False,0.0,Customer Contacted
+1068,66798,5046,2474,2,53,2025-01-25,High Risk Merchant,High,False,0.0,Closed - False Positive
+1069,5370,7331,3595,2,77,2024-01-17,Geo Mismatch,High,True,658.05,Account Frozen
+1070,36623,13888,6769,4,164,2024-08-02,High Risk Merchant,High,False,0.0,Closed - False Positive
+1071,12302,5764,2830,1,3,2024-02-13,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1072,23594,11391,5553,4,134,2025-06-17,Card Not Present,Low,False,0.0,Closed - False Positive
+1073,42938,12994,6325,6,213,2024-12-05,Card Not Present,High,False,0.0,Closed - False Positive
+1074,52004,3254,1590,1,3,2023-04-30,Card Not Present,Medium,False,0.0,Closed - False Positive
+1075,29616,246,121,4,164,2024-04-03,Geo Mismatch,Medium,False,0.0,Account Frozen
+1076,45098,1340,650,1,35,2024-02-10,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1077,65929,5664,2776,1,34,2023-03-01,Velocity Spike,Medium,True,149.35,Account Frozen
+1078,36447,4832,2370,6,218,2025-12-03,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1079,59420,3140,1537,1,39,2025-06-30,Velocity Spike,Medium,False,0.0,Customer Contacted
+1080,23356,10483,5107,1,11,2025-07-20,Velocity Spike,Low,False,0.0,Closed - False Positive
+1081,23246,958,464,2,84,2025-07-07,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1082,62264,13665,6649,3,105,2025-09-13,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+1083,28255,1207,585,5,180,2025-09-04,High Risk Merchant,Critical,True,99.07,Closed - Confirmed Fraud
+1084,5513,7866,3845,6,213,2024-12-11,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1085,29097,13208,6432,3,115,2024-08-18,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1086,34192,10557,5143,4,147,2025-03-12,Card Not Present,Medium,True,117.44,Closed - Confirmed Fraud
+1087,52160,93,40,5,182,2023-10-26,Velocity Spike,Low,False,0.0,Closed - False Positive
+1088,58426,8249,4033,4,135,2023-04-17,Velocity Spike,Medium,False,0.0,Under Review
+1089,8891,2830,1371,1,7,2023-02-07,Card Not Present,Medium,False,0.0,Closed - False Positive
+1090,4349,2707,1306,3,122,2025-09-28,Velocity Spike,High,False,0.0,Closed - False Positive
+1091,53607,6245,3056,3,93,2024-08-21,Card Not Present,High,False,0.0,Closed - False Positive
+1092,42993,12447,6052,6,218,2023-05-05,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1093,42141,6952,3405,1,35,2025-10-15,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1094,4421,8506,4157,1,22,2024-11-11,Geo Mismatch,Low,False,0.0,Under Review
+1095,13850,1828,888,6,210,2024-10-03,Card Not Present,Critical,True,88.63,Closed - Confirmed Fraud
+1096,22,5276,2593,4,132,2023-01-28,Geo Mismatch,High,True,128.56,Closed - Confirmed Fraud
+1097,34608,5157,2532,3,99,2025-03-07,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1098,60505,13053,6353,4,136,2025-02-01,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1099,10561,2254,1095,2,74,2024-12-16,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1100,25115,5735,2811,1,2,2024-05-14,Velocity Spike,Critical,True,74.95,Closed - Confirmed Fraud
+1101,3423,5134,2518,5,190,2024-03-21,Card Not Present,Medium,False,0.0,Under Review
+1102,14034,7547,3696,3,128,2023-03-26,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1103,56726,11541,5630,1,21,2023-06-17,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1104,48188,1701,827,1,34,2023-02-06,High Risk Merchant,High,False,0.0,Closed - False Positive
+1105,68768,6875,3370,1,15,2023-09-23,Card Not Present,Critical,True,127.82,Account Frozen
+1106,44070,3811,1860,5,183,2023-03-18,Known Compromise,Medium,False,0.0,Closed - False Positive
+1107,205,5628,2761,4,167,2024-08-29,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1108,17586,771,367,4,138,2025-09-24,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1109,47424,1060,518,3,129,2023-10-02,Card Not Present,High,False,0.0,Customer Contacted
+1110,8315,2259,1099,3,121,2024-08-30,Card Not Present,Low,False,0.0,Customer Contacted
+1111,52535,13696,6667,2,71,2024-02-18,Known Compromise,Low,False,0.0,Under Review
+1112,44225,10906,5313,4,137,2024-01-14,Velocity Spike,Low,False,0.0,Customer Contacted
+1113,33458,6773,3316,5,175,2024-03-27,Velocity Spike,High,False,0.0,Closed - False Positive
+1114,67116,9147,4466,1,37,2024-04-21,Card Not Present,Low,False,0.0,Closed - False Positive
+1115,51748,8973,4387,1,15,2023-08-24,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1116,57590,8219,4018,3,124,2025-08-19,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+1117,170,547,260,2,47,2025-07-07,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1118,67915,685,330,4,159,2023-09-09,Card Not Present,Low,False,0.0,Account Frozen
+1119,37069,14015,6831,1,36,2024-01-28,High Risk Merchant,Low,False,0.0,Account Frozen
+1120,34224,13041,6347,1,5,2024-05-15,High Risk Merchant,High,False,0.0,Closed - False Positive
+1121,34002,13750,6694,4,164,2023-11-23,Card Not Present,Medium,False,0.0,Customer Contacted
+1122,13413,6455,3159,1,8,2025-01-21,Card Not Present,Medium,True,57.47,Account Frozen
+1123,57502,3302,1614,6,224,2024-09-03,Velocity Spike,Low,False,0.0,Closed - False Positive
+1124,43106,2560,1243,6,223,2025-03-18,Velocity Spike,High,True,1395.54,Account Frozen
+1125,12123,9378,4576,4,161,2023-02-11,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+1126,22193,2148,1046,3,130,2023-12-22,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1127,60004,4168,2037,2,68,2023-10-01,Card Not Present,High,False,0.0,Account Frozen
+1128,16199,2303,1121,1,32,2025-08-24,Card Not Present,Medium,False,0.0,Closed - False Positive
+1129,64815,7090,3471,5,203,2025-02-11,Card Not Present,Low,False,0.0,Closed - False Positive
+1130,20327,5023,2463,1,16,2023-08-19,Geo Mismatch,High,True,232.23,Account Frozen
+1131,30605,11593,5657,5,192,2024-04-13,Card Not Present,High,False,0.0,Closed - False Positive
+1132,4536,5772,2833,5,183,2024-06-21,Geo Mismatch,Medium,True,3884.81,Closed - Confirmed Fraud
+1133,23138,9757,4759,4,167,2024-03-09,Unusual Amount,Low,False,0.0,Account Frozen
+1134,64911,1041,508,4,166,2025-08-20,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1135,21734,4547,2226,3,124,2024-08-19,High Risk Merchant,Medium,False,0.0,Under Review
+1136,67670,4269,2090,4,136,2023-02-05,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1137,28919,11826,5765,1,18,2025-04-21,Geo Mismatch,Medium,True,377.31,Closed - Confirmed Fraud
+1138,47576,14047,6849,5,203,2024-04-13,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1139,20598,7522,3685,4,170,2024-05-02,High Risk Merchant,Low,False,0.0,Under Review
+1140,59316,6035,2958,3,127,2023-10-19,Unusual Amount,Critical,False,0.0,Customer Contacted
+1141,2034,885,429,2,66,2023-06-12,Velocity Spike,Low,False,0.0,Closed - False Positive
+1142,22732,107,49,4,144,2023-06-17,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1143,31023,5678,2784,5,192,2023-10-30,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1144,54023,2837,1374,1,42,2025-05-11,Velocity Spike,Low,False,0.0,Closed - False Positive
+1145,25999,7906,3867,2,59,2023-05-21,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1146,66038,5266,2587,2,52,2025-07-13,Unusual Amount,Medium,True,297.29,Account Frozen
+1147,9486,6207,3040,5,171,2024-03-19,Card Not Present,Medium,False,0.0,Closed - False Positive
+1148,22810,854,412,3,127,2025-06-15,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1149,40368,8138,3977,5,196,2023-04-20,High Risk Merchant,High,True,722.46,Customer Contacted
+1150,63082,1389,674,1,33,2023-03-10,Card Not Present,High,True,159.43,Closed - Confirmed Fraud
+1151,2247,11914,5804,5,198,2025-09-16,Card Not Present,Medium,False,0.0,Closed - False Positive
+1152,6999,834,401,4,145,2024-12-14,Known Compromise,Medium,False,0.0,Closed - False Positive
+1153,10262,13179,6416,6,219,2023-04-12,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1154,36103,2775,1344,5,183,2025-04-19,Geo Mismatch,High,False,0.0,Closed - False Positive
+1155,67310,12316,5986,4,164,2025-02-11,Geo Mismatch,High,False,0.0,Closed - False Positive
+1156,20448,3499,1713,1,35,2024-10-04,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1157,7083,12702,6173,2,74,2023-02-01,Unusual Amount,High,True,719.94,Customer Contacted
+1158,52903,4710,2309,2,65,2024-08-28,Card Not Present,Low,False,0.0,Closed - False Positive
+1159,59216,7060,3455,1,10,2025-09-13,Card Not Present,Low,False,0.0,Closed - False Positive
+1160,112,6175,3024,5,188,2023-01-14,Geo Mismatch,Medium,False,0.0,Customer Contacted
+1161,56375,4123,2014,5,205,2023-03-27,Card Not Present,High,True,92.5,Customer Contacted
+1162,23921,3030,1479,1,43,2025-05-14,Geo Mismatch,Critical,False,0.0,Under Review
+1163,69975,9110,4447,2,83,2024-12-10,Known Compromise,Medium,False,0.0,Closed - False Positive
+1164,23920,1244,601,1,11,2025-08-15,Known Compromise,Low,False,0.0,Customer Contacted
+1165,66490,12407,6034,1,38,2025-08-20,Known Compromise,High,False,0.0,Closed - False Positive
+1166,43167,5202,2554,1,36,2024-06-17,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1167,58468,8223,4020,2,83,2023-06-18,Known Compromise,Low,False,0.0,Closed - False Positive
+1168,51594,4785,2345,5,192,2024-11-26,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1169,33782,1122,549,1,42,2024-01-03,Known Compromise,Low,False,0.0,Under Review
+1170,921,536,255,4,135,2023-08-15,Velocity Spike,High,False,0.0,Closed - False Positive
+1171,16741,3655,1788,3,103,2023-12-28,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1172,21876,8106,3961,2,81,2025-09-07,Geo Mismatch,Low,False,0.0,Customer Contacted
+1173,67236,10369,5058,3,98,2024-07-30,Geo Mismatch,Medium,False,0.0,Under Review
+1174,39161,9512,4642,3,92,2023-04-26,Card Not Present,Low,False,0.0,Closed - False Positive
+1175,60974,4664,2283,2,59,2023-11-10,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1176,11159,5512,2704,5,171,2023-09-05,Known Compromise,Low,False,0.0,Closed - False Positive
+1177,61290,8502,4155,5,204,2023-05-17,Unusual Amount,Medium,True,24.69,Customer Contacted
+1178,16849,6069,2973,1,22,2024-02-15,Card Not Present,Low,False,0.0,Closed - False Positive
+1179,66657,2983,1458,5,185,2024-12-18,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1180,66478,10377,5060,5,207,2023-05-23,Velocity Spike,Medium,True,1776.23,Customer Contacted
+1181,19483,6344,3107,3,93,2025-08-01,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1182,50166,6169,3021,1,35,2025-04-21,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1183,9608,12367,6013,2,62,2024-02-11,Velocity Spike,Low,False,0.0,Closed - False Positive
+1184,64301,1566,757,2,87,2023-07-06,Unusual Amount,Medium,False,0.0,Customer Contacted
+1185,56390,6874,3369,2,80,2025-06-24,High Risk Merchant,Medium,False,0.0,Under Review
+1186,5775,1277,618,2,87,2025-01-04,Known Compromise,Medium,False,0.0,Closed - False Positive
+1187,26455,12200,5934,1,12,2023-07-27,Card Not Present,High,False,0.0,Closed - False Positive
+1188,14642,3205,1564,3,100,2025-08-04,Velocity Spike,High,True,213.57,Account Frozen
+1189,30954,11907,5801,3,125,2024-11-18,Card Not Present,High,True,147.94,Closed - Confirmed Fraud
+1190,997,2897,1406,2,61,2024-03-21,Card Not Present,Medium,False,0.0,Closed - False Positive
+1191,4101,7396,3625,4,135,2024-04-08,Card Not Present,High,False,0.0,Under Review
+1192,11237,12228,5947,2,84,2023-04-26,Geo Mismatch,High,False,0.0,Account Frozen
+1193,57085,8118,3967,2,47,2025-12-27,Card Not Present,High,True,290.43,Closed - Confirmed Fraud
+1194,245,6888,3377,5,189,2023-07-16,Card Not Present,Medium,False,0.0,Closed - False Positive
+1195,10514,8286,4052,5,177,2023-12-22,Card Not Present,Low,False,0.0,Closed - False Positive
+1196,38030,1922,937,4,152,2024-07-13,High Risk Merchant,Low,False,0.0,Customer Contacted
+1197,65120,10276,5008,5,198,2025-01-02,Unusual Amount,Low,False,0.0,Closed - False Positive
+1198,56991,9702,4734,6,216,2024-09-22,Card Not Present,Low,False,0.0,Customer Contacted
+1199,19636,82,35,3,126,2024-08-21,Card Not Present,Low,False,0.0,Closed - False Positive
+1200,56542,6967,3412,3,115,2024-08-10,Unusual Amount,Medium,False,0.0,Account Frozen
+1201,24283,10436,5085,5,171,2023-07-11,Card Not Present,Medium,True,152.2,Account Frozen
+1202,7405,6762,3311,5,184,2025-06-29,Card Not Present,Low,False,0.0,Closed - False Positive
+1203,48127,1549,750,4,135,2025-06-08,Card Not Present,Low,False,0.0,Account Frozen
+1204,62049,10859,5289,5,175,2025-01-02,Geo Mismatch,High,False,0.0,Customer Contacted
+1205,22615,4818,2364,6,224,2023-03-04,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1206,21432,3261,1594,5,197,2024-10-22,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1207,35952,9965,4854,1,35,2024-07-19,Known Compromise,High,False,0.0,Closed - Confirmed Fraud
+1208,31097,1001,486,3,114,2023-04-02,Velocity Spike,Critical,True,650.62,Closed - Confirmed Fraud
+1209,46048,8749,4279,5,199,2023-11-21,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1210,30978,598,286,3,107,2024-02-18,Unusual Amount,Medium,False,0.0,Customer Contacted
+1211,13244,9050,4422,1,1,2024-05-06,Velocity Spike,Low,False,0.0,Under Review
+1212,50119,9485,4630,2,69,2023-03-26,Velocity Spike,Medium,True,68.3,Closed - Confirmed Fraud
+1213,33336,8264,4042,1,27,2025-01-04,Unusual Amount,Low,False,0.0,Closed - False Positive
+1214,57833,2852,1380,2,86,2024-05-06,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1215,35095,210,103,2,55,2024-07-12,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1216,16313,1705,829,2,87,2023-12-02,Velocity Spike,Low,False,0.0,Customer Contacted
+1217,36096,12405,6033,5,193,2025-07-30,Unusual Amount,High,False,0.0,Closed - False Positive
+1218,56825,6328,3099,5,199,2024-04-02,Card Not Present,Low,False,0.0,Closed - False Positive
+1219,54434,2547,1237,4,166,2025-09-26,Unusual Amount,Critical,False,0.0,Closed - False Positive
+1220,64681,13043,6348,1,17,2025-07-29,Unusual Amount,Low,False,0.0,Closed - False Positive
+1221,33723,8558,4180,1,43,2025-07-30,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1222,30765,10950,5335,1,41,2023-08-09,Geo Mismatch,Medium,False,0.0,Closed - Confirmed Fraud
+1223,29630,6625,3239,3,103,2025-06-18,Known Compromise,Medium,True,684.64,Account Frozen
+1224,51220,9118,4449,1,37,2024-04-26,Geo Mismatch,Medium,False,0.0,Under Review
+1225,8997,8124,3970,5,202,2025-08-21,Unusual Amount,Medium,False,0.0,Customer Contacted
+1226,17167,922,447,3,129,2025-09-20,Unusual Amount,High,True,425.61,Closed - Confirmed Fraud
+1227,3563,9672,4722,4,139,2024-05-16,Unusual Amount,Low,True,435.74,Closed - Confirmed Fraud
+1228,9233,14037,6843,4,163,2023-10-28,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1229,24424,9643,4708,5,177,2024-04-19,Card Not Present,High,False,0.0,Closed - False Positive
+1230,57354,4523,2215,3,104,2023-12-08,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1231,51323,2151,1047,3,115,2025-09-30,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1232,32348,9008,4405,4,169,2025-09-13,Card Not Present,Low,False,0.0,Customer Contacted
+1233,43926,9383,4579,1,5,2023-11-10,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1234,43004,5677,2783,2,77,2023-10-03,Velocity Spike,High,False,0.0,Closed - False Positive
+1235,47709,7807,3816,4,139,2023-03-28,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1236,864,6686,3276,3,93,2025-01-17,Unusual Amount,Critical,False,0.0,Closed - False Positive
+1237,65350,2776,1345,5,202,2023-04-06,High Risk Merchant,High,False,0.0,Closed - False Positive
+1238,21914,8603,4199,4,139,2023-05-07,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1239,35043,9395,4585,4,138,2023-07-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+1240,29098,11974,5833,4,161,2023-10-19,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1241,32090,10145,4945,5,200,2023-11-30,Unusual Amount,Low,False,0.0,Closed - False Positive
+1242,25333,9991,4868,4,162,2024-12-18,Velocity Spike,Low,False,0.0,Customer Contacted
+1243,60469,4231,2068,2,89,2025-08-11,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1244,45061,9247,4515,5,175,2024-09-05,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+1245,26086,11154,5429,3,117,2023-09-19,High Risk Merchant,Low,False,0.0,Customer Contacted
+1246,30734,6232,3051,4,132,2025-07-05,High Risk Merchant,High,False,0.0,Closed - False Positive
+1247,47110,6315,3093,1,25,2024-02-19,Unusual Amount,Low,False,0.0,Customer Contacted
+1248,41716,13980,6813,2,66,2024-08-13,Geo Mismatch,High,True,80.02,Customer Contacted
+1249,19583,9779,4768,3,96,2024-01-02,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1250,57696,12862,6255,1,23,2024-04-09,Card Not Present,Medium,False,0.0,Customer Contacted
+1251,38649,3528,1729,3,121,2025-10-05,Unusual Amount,Low,False,0.0,Customer Contacted
+1252,37292,5758,2827,4,139,2024-07-20,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1253,69560,7311,3586,2,53,2025-11-22,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1254,46741,11991,5841,1,9,2025-12-10,Unusual Amount,Low,False,0.0,Closed - False Positive
+1255,5635,870,420,5,203,2025-06-24,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1256,50233,8468,4137,5,184,2023-07-29,Card Not Present,Medium,True,60.41,Closed - Confirmed Fraud
+1257,49895,2165,1054,3,130,2024-01-29,Velocity Spike,Low,False,0.0,Closed - False Positive
+1258,4219,2387,1161,4,159,2025-05-23,Velocity Spike,Critical,True,340.17,Account Frozen
+1259,32484,1413,688,4,147,2023-01-30,Velocity Spike,Low,False,0.0,Closed - False Positive
+1260,59617,9611,4690,2,75,2025-11-04,Geo Mismatch,High,True,186.88,Account Frozen
+1261,9990,11067,5390,4,149,2025-12-03,Card Not Present,High,False,0.0,Under Review
+1262,41396,5894,2894,4,150,2024-09-23,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1263,47177,10392,5066,2,82,2025-04-06,Velocity Spike,High,True,655.74,Closed - Confirmed Fraud
+1264,23769,8866,4336,3,101,2024-10-24,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1265,33831,5543,2720,2,81,2025-01-16,Known Compromise,Low,False,0.0,Closed - False Positive
+1266,44928,8334,4074,3,108,2025-03-22,Geo Mismatch,Critical,True,26.26,Closed - Confirmed Fraud
+1267,16887,5109,2507,5,182,2023-09-07,Card Not Present,Medium,False,0.0,Closed - False Positive
+1268,54050,1625,788,4,145,2025-05-22,Velocity Spike,High,True,25.7,Closed - Confirmed Fraud
+1269,43965,14232,6934,1,9,2024-09-27,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1270,57556,6154,3014,3,116,2024-05-10,Card Not Present,High,False,0.0,Closed - False Positive
+1271,10017,6191,3033,3,122,2024-09-06,High Risk Merchant,High,False,0.0,Closed - False Positive
+1272,46929,1888,921,1,35,2024-09-03,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1273,54922,10933,5326,2,46,2025-08-26,Card Not Present,Low,False,0.0,Closed - False Positive
+1274,58504,12464,6058,5,202,2025-09-25,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1275,2900,8848,4328,2,46,2025-09-01,Card Not Present,Medium,False,0.0,Closed - False Positive
+1276,23441,9684,4728,3,125,2024-12-11,Card Not Present,Medium,False,0.0,Closed - False Positive
+1277,66546,5319,2612,2,83,2023-01-27,Card Not Present,Medium,False,0.0,Closed - False Positive
+1278,11781,13342,6495,1,31,2025-02-25,High Risk Merchant,High,False,0.0,Closed - False Positive
+1279,9401,14329,6988,1,24,2024-10-24,Velocity Spike,High,True,82.65,Account Frozen
+1280,54090,885,429,2,66,2023-06-08,Known Compromise,High,False,0.0,Closed - False Positive
+1281,12112,836,403,6,225,2024-10-28,Card Not Present,Low,False,0.0,Closed - False Positive
+1282,5621,1761,856,4,165,2025-03-18,High Risk Merchant,Medium,True,456.68,Account Frozen
+1283,4491,7262,3559,2,65,2025-03-19,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1284,8644,11096,5403,1,9,2023-04-28,Known Compromise,Medium,False,0.0,Closed - False Positive
+1285,49714,10368,5058,2,66,2024-05-05,Unusual Amount,Low,False,0.0,Customer Contacted
+1286,24565,6767,3313,5,205,2024-12-10,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1287,22443,2646,1283,4,150,2025-05-22,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1288,54742,5002,2451,5,176,2024-08-07,Card Not Present,Medium,True,131.49,Closed - Confirmed Fraud
+1289,64464,8637,4216,3,99,2023-02-27,Velocity Spike,Low,False,0.0,Closed - False Positive
+1290,60727,14051,6850,1,25,2025-05-29,Card Not Present,Low,False,0.0,Closed - False Positive
+1291,38322,1863,905,4,140,2023-02-23,Velocity Spike,Medium,False,0.0,Customer Contacted
+1292,32877,3695,1806,3,120,2025-02-19,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1293,37624,8184,4002,2,62,2025-04-22,High Risk Merchant,Medium,True,107.13,Closed - Confirmed Fraud
+1294,16674,8984,4391,3,95,2024-08-14,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1295,57678,4661,2281,1,41,2025-05-06,Velocity Spike,High,False,0.0,Closed - False Positive
+1296,11072,13645,6641,3,105,2023-07-16,Known Compromise,High,True,1380.39,Account Frozen
+1297,66303,6781,3321,3,101,2024-10-16,Card Not Present,Medium,True,267.37,Closed - Confirmed Fraud
+1298,42515,12248,5956,1,44,2024-05-21,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+1299,64910,10119,4933,1,5,2024-05-18,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+1300,22149,8729,4269,2,77,2025-12-29,Card Not Present,Medium,False,0.0,Closed - False Positive
+1301,7070,14074,6860,4,156,2025-10-19,Velocity Spike,Low,False,0.0,Closed - False Positive
+1302,38053,6267,3066,4,168,2024-06-30,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1303,18004,10027,4888,1,12,2024-09-17,Card Not Present,Medium,False,0.0,Customer Contacted
+1304,32314,10859,5289,5,175,2024-04-10,High Risk Merchant,Medium,False,0.0,Account Frozen
+1305,58186,1874,914,1,3,2023-04-22,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1306,38681,12892,6272,1,14,2024-01-04,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1307,28168,1518,736,2,61,2023-11-27,Known Compromise,Critical,True,989.72,Closed - Confirmed Fraud
+1308,42674,8033,3926,6,211,2025-12-13,Velocity Spike,Medium,True,191.87,Account Frozen
+1309,30460,8503,4156,1,37,2024-05-14,Known Compromise,High,False,0.0,Closed - False Positive
+1310,25289,979,477,4,144,2025-12-24,Card Not Present,Medium,False,0.0,Closed - False Positive
+1311,1153,8569,4185,1,5,2023-10-28,Geo Mismatch,Medium,True,571.84,Closed - Confirmed Fraud
+1312,46851,7641,3742,3,121,2024-11-15,Card Not Present,Low,False,0.0,Closed - False Positive
+1313,60705,2291,1115,2,74,2023-08-01,Known Compromise,Medium,False,0.0,Closed - Confirmed Fraud
+1314,62581,31,14,2,63,2023-04-04,Velocity Spike,Low,False,0.0,Customer Contacted
+1315,52769,9658,4716,4,168,2024-02-12,High Risk Merchant,Critical,True,188.52,Closed - Confirmed Fraud
+1316,53526,8213,4016,1,10,2025-10-18,High Risk Merchant,Low,False,0.0,Customer Contacted
+1317,33610,6333,3102,2,90,2023-11-17,Geo Mismatch,Medium,True,781.4,Customer Contacted
+1318,28093,906,439,1,18,2023-02-15,High Risk Merchant,Medium,False,0.0,Customer Contacted
+1319,316,6973,3416,3,102,2024-10-11,Velocity Spike,Low,False,0.0,Closed - False Positive
+1320,41590,11286,5497,2,66,2024-01-24,Unusual Amount,High,False,0.0,Closed - False Positive
+1321,16037,6299,3084,3,93,2023-08-19,High Risk Merchant,High,False,0.0,Customer Contacted
+1322,61392,8644,4220,3,129,2025-02-17,Known Compromise,Low,False,0.0,Closed - False Positive
+1323,1808,10450,5093,3,110,2024-10-25,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1324,1564,12382,6022,5,186,2024-04-23,Velocity Spike,High,False,0.0,Closed - False Positive
+1325,45960,13663,6647,3,123,2025-05-01,High Risk Merchant,Low,False,0.0,Account Frozen
+1326,14949,794,380,4,152,2023-05-24,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1327,45138,3420,1676,2,62,2025-10-27,Unusual Amount,High,False,0.0,Closed - False Positive
+1328,9498,9472,4622,2,84,2024-04-17,Velocity Spike,Critical,False,0.0,Account Frozen
+1329,6803,10559,5144,3,97,2023-05-06,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1330,65853,2364,1151,5,185,2023-04-15,Card Not Present,Medium,False,0.0,Closed - False Positive
+1331,18452,874,424,5,199,2024-12-08,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1332,3070,9720,4742,6,210,2025-09-25,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1333,28173,11526,5625,1,15,2024-08-24,Unusual Amount,Low,False,0.0,Account Frozen
+1334,48206,9230,4507,2,73,2023-12-29,Velocity Spike,Medium,False,0.0,Customer Contacted
+1335,16976,7117,3483,5,206,2024-03-25,Velocity Spike,Low,False,0.0,Closed - False Positive
+1336,48921,3330,1627,6,219,2024-11-02,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1337,64865,12265,5964,5,208,2024-08-11,Known Compromise,Medium,False,0.0,Closed - Confirmed Fraud
+1338,59052,3647,1784,1,27,2025-10-20,Velocity Spike,Low,False,0.0,Closed - False Positive
+1339,43782,2318,1126,3,107,2023-02-13,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1340,30925,637,309,6,220,2023-05-28,Card Not Present,Low,False,0.0,Closed - False Positive
+1341,60864,6188,3031,4,145,2025-10-12,Velocity Spike,Low,False,0.0,Account Frozen
+1342,48291,9996,4871,3,91,2024-10-20,Card Not Present,Low,False,0.0,Closed - False Positive
+1343,19244,3084,1511,2,54,2024-09-04,Known Compromise,High,False,0.0,Under Review
+1344,54810,5626,2760,4,159,2025-06-06,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+1345,40449,13488,6562,1,9,2023-10-31,Velocity Spike,High,False,0.0,Customer Contacted
+1346,22490,14276,6958,4,161,2024-12-02,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1347,64496,11315,5512,3,100,2024-09-24,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+1348,37856,10480,5104,5,181,2025-03-03,Unusual Amount,High,False,0.0,Closed - False Positive
+1349,18895,2150,1047,2,55,2025-01-27,Card Not Present,Low,False,0.0,Account Frozen
+1350,58921,12635,6142,6,224,2023-04-25,Geo Mismatch,High,True,468.45,Customer Contacted
+1351,46605,2860,1387,2,59,2023-08-26,Velocity Spike,Low,False,0.0,Closed - False Positive
+1352,64941,678,327,5,200,2023-02-19,Velocity Spike,Medium,False,0.0,Under Review
+1353,38184,9952,4848,4,163,2023-04-03,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1354,9651,3572,1750,3,111,2023-12-16,Known Compromise,Low,False,0.0,Customer Contacted
+1355,63398,5806,2851,3,102,2023-12-08,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1356,32200,3777,1844,6,215,2023-08-16,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1357,57668,4057,1981,2,88,2023-03-25,Unusual Amount,High,False,0.0,Closed - False Positive
+1358,51281,8047,3932,1,12,2025-03-02,Card Not Present,Low,False,0.0,Closed - False Positive
+1359,26054,9910,4828,2,72,2023-10-10,Geo Mismatch,Medium,False,0.0,Customer Contacted
+1360,59670,12232,5948,5,182,2025-10-23,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1361,32607,4857,2379,3,119,2025-05-15,Velocity Spike,Low,False,0.0,Closed - False Positive
+1362,60369,8739,4273,2,79,2025-01-30,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+1363,12368,9579,4674,4,156,2023-09-23,Velocity Spike,High,True,275.96,Customer Contacted
+1364,30707,3782,1846,2,69,2023-11-14,Velocity Spike,Low,False,0.0,Customer Contacted
+1365,65329,4718,2312,3,93,2023-01-21,Unusual Amount,Critical,False,0.0,Closed - False Positive
+1366,3696,163,76,4,163,2024-12-24,Velocity Spike,Low,False,0.0,Closed - False Positive
+1367,9470,10323,5033,4,139,2024-11-11,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1368,36817,3975,1943,6,211,2024-06-06,Velocity Spike,Medium,True,95.46,Customer Contacted
+1369,40941,13313,6480,3,93,2023-03-11,Unusual Amount,Medium,True,52.27,Closed - Confirmed Fraud
+1370,53663,2427,1182,6,217,2024-03-12,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1371,23895,2540,1235,3,94,2025-06-05,Known Compromise,High,False,0.0,Closed - False Positive
+1372,60446,3747,1829,3,104,2024-07-14,Unusual Amount,High,True,211.95,Customer Contacted
+1373,27459,10758,5241,5,207,2024-08-03,Card Not Present,Low,False,0.0,Closed - False Positive
+1374,34691,11518,5619,1,25,2023-07-18,Card Not Present,Critical,False,0.0,Closed - False Positive
+1375,25710,4812,2361,6,223,2025-08-25,Card Not Present,Critical,False,0.0,Closed - False Positive
+1376,49966,7933,3880,5,205,2025-12-23,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1377,22386,13362,6505,3,126,2023-09-16,High Risk Merchant,High,False,0.0,Closed - False Positive
+1378,61656,12170,5920,4,146,2023-10-07,Velocity Spike,Medium,True,18.11,Closed - Confirmed Fraud
+1379,18823,8608,4202,2,68,2023-07-12,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1380,16893,292,140,2,83,2023-12-23,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1381,12618,7892,3861,3,109,2024-07-23,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1382,62527,13934,6791,1,28,2023-01-08,Unusual Amount,Low,False,0.0,Closed - False Positive
+1383,15832,1707,830,4,158,2023-11-04,Geo Mismatch,High,False,0.0,Under Review
+1384,8801,6128,3004,4,153,2024-11-22,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1385,65786,6539,3195,3,114,2025-03-22,Geo Mismatch,High,True,441.61,Account Frozen
+1386,69732,962,467,2,73,2023-01-11,Card Not Present,Low,False,0.0,Customer Contacted
+1387,48217,11038,5376,5,207,2025-10-05,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+1388,32182,6820,3340,5,195,2025-05-19,Card Not Present,Low,False,0.0,Closed - False Positive
+1389,36886,3864,1885,3,115,2025-03-07,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1390,28258,7858,3841,3,106,2025-02-17,High Risk Merchant,Critical,False,0.0,Closed - False Positive
+1391,22668,4327,2117,1,21,2025-09-18,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1392,11513,8348,4081,2,70,2023-02-23,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1393,14643,3171,1549,5,205,2024-04-02,Known Compromise,High,False,0.0,Account Frozen
+1394,3628,5786,2842,2,68,2023-12-09,High Risk Merchant,Medium,True,49.58,Closed - Confirmed Fraud
+1395,21179,1223,592,3,92,2024-08-28,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+1396,68128,5566,2730,2,71,2025-07-17,Card Not Present,High,True,1727.01,Closed - Confirmed Fraud
+1397,37475,1698,825,5,178,2025-01-26,Velocity Spike,Medium,False,0.0,Customer Contacted
+1398,26734,8162,3989,3,93,2023-01-11,Unusual Amount,Medium,False,0.0,Under Review
+1399,58486,10682,5203,2,61,2023-07-21,Card Not Present,Medium,True,99.47,Closed - Confirmed Fraud
+1400,41458,1454,708,4,131,2024-05-05,Velocity Spike,High,True,276.07,Closed - Confirmed Fraud
+1401,45130,6411,3139,3,102,2025-11-28,Card Not Present,High,False,0.0,Closed - False Positive
+1402,32866,14062,6856,1,38,2024-01-15,Geo Mismatch,High,False,0.0,Closed - False Positive
+1403,871,12470,6060,4,152,2025-10-10,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1404,31819,7116,3482,4,135,2024-08-24,Card Not Present,Low,False,0.0,Closed - False Positive
+1405,65835,1315,637,6,223,2023-11-02,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+1406,17466,8380,4097,2,48,2024-10-02,High Risk Merchant,High,False,0.0,Closed - False Positive
+1407,7261,9324,4552,4,131,2024-03-30,Unusual Amount,Medium,True,155.06,Customer Contacted
+1408,7564,5292,2600,6,216,2025-09-25,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1409,69156,2626,1275,1,10,2024-02-04,Velocity Spike,Medium,False,0.0,Account Frozen
+1410,63634,12484,6068,6,216,2025-12-22,Geo Mismatch,High,False,0.0,Closed - False Positive
+1411,6903,11957,5827,5,207,2023-09-26,Velocity Spike,Low,False,0.0,Closed - False Positive
+1412,5393,3219,1570,1,17,2023-04-30,Known Compromise,Medium,False,0.0,Customer Contacted
+1413,67974,8325,4068,1,11,2024-05-18,Known Compromise,High,False,0.0,Closed - Confirmed Fraud
+1414,22018,2604,1266,5,176,2024-03-20,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+1415,33026,9178,4481,4,147,2023-04-07,Unusual Amount,Low,False,0.0,Under Review
+1416,68,1416,690,2,53,2024-08-25,Unusual Amount,High,False,0.0,Customer Contacted
+1417,34085,8309,4062,2,71,2023-12-04,High Risk Merchant,High,False,0.0,Closed - False Positive
+1418,66811,3824,1867,6,219,2023-10-13,Card Not Present,Critical,False,0.0,Closed - False Positive
+1419,30049,11575,5647,3,112,2025-07-17,Velocity Spike,High,False,0.0,Closed - False Positive
+1420,28731,8394,4102,3,108,2024-10-11,Velocity Spike,High,False,0.0,Account Frozen
+1421,36580,874,424,5,199,2025-09-23,Unusual Amount,Critical,True,153.67,Account Frozen
+1422,40558,13782,6712,5,189,2025-03-04,High Risk Merchant,Low,False,0.0,Customer Contacted
+1423,37334,6088,2984,3,117,2025-12-12,High Risk Merchant,Low,False,0.0,Under Review
+1424,46569,13331,6488,5,189,2024-06-07,Card Not Present,Medium,True,97.4,Closed - Confirmed Fraud
+1425,13409,13758,6697,2,50,2024-11-10,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1426,58683,6069,2973,1,22,2024-01-06,High Risk Merchant,High,False,0.0,Under Review
+1427,25020,6363,3116,4,157,2024-04-28,Known Compromise,High,False,0.0,Closed - False Positive
+1428,28058,7848,3837,6,226,2023-05-31,Unusual Amount,Low,False,0.0,Account Frozen
+1429,10870,957,464,5,189,2023-06-22,Velocity Spike,Low,False,0.0,Closed - False Positive
+1430,13482,6194,3034,3,115,2024-09-28,Known Compromise,Medium,False,0.0,Customer Contacted
+1431,7722,9450,4611,2,62,2023-01-07,Velocity Spike,Low,False,0.0,Closed - False Positive
+1432,14686,4782,2344,4,137,2024-10-24,Velocity Spike,Medium,False,0.0,Customer Contacted
+1433,4647,120,56,5,195,2025-02-07,Geo Mismatch,Low,False,0.0,Under Review
+1434,13578,10003,4874,1,42,2024-01-26,Velocity Spike,Low,False,0.0,Account Frozen
+1435,23981,6432,3149,4,168,2025-12-20,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1436,56849,1132,554,3,107,2025-03-20,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1437,6382,10200,4972,1,45,2025-03-04,Card Not Present,High,True,46.3,Closed - Confirmed Fraud
+1438,65978,7960,3892,5,204,2023-07-28,High Risk Merchant,High,False,0.0,Closed - False Positive
+1439,68917,12103,5892,2,85,2024-10-13,Card Not Present,Medium,True,434.47,Customer Contacted
+1440,60914,10000,4873,4,153,2024-08-23,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1441,13274,8040,3929,1,10,2023-05-26,Velocity Spike,Critical,True,48.15,Closed - Confirmed Fraud
+1442,19674,3509,1718,1,22,2023-11-03,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1443,36380,5416,2661,5,203,2025-10-14,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1444,41084,8991,4394,1,45,2025-04-17,High Risk Merchant,Critical,False,0.0,Under Review
+1445,65738,10630,5176,5,187,2025-07-17,Unusual Amount,High,False,0.0,Closed - False Positive
+1446,46476,8277,4048,1,5,2025-07-04,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1447,20690,3124,1529,2,87,2025-02-10,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1448,1774,13706,6670,6,226,2025-03-11,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1449,52216,5165,2536,2,75,2023-09-29,Unusual Amount,High,False,0.0,Closed - False Positive
+1450,68785,8699,4252,2,59,2024-06-21,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1451,51425,9382,4578,6,222,2023-04-10,Geo Mismatch,Medium,False,0.0,Customer Contacted
+1452,68717,6840,3350,2,84,2023-06-06,Unusual Amount,Medium,False,0.0,Customer Contacted
+1453,51093,5423,2664,5,190,2025-04-01,Geo Mismatch,High,False,0.0,Under Review
+1454,51455,13809,6726,1,21,2025-09-22,Known Compromise,Low,False,0.0,Closed - False Positive
+1455,46021,4297,2102,1,39,2024-04-15,Unusual Amount,Low,False,0.0,Closed - False Positive
+1456,23414,1570,759,3,104,2023-01-08,Unusual Amount,Low,False,0.0,Closed - False Positive
+1457,60766,1701,827,1,34,2023-02-24,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1458,48182,1799,875,3,108,2024-04-06,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1459,56029,6419,3142,4,136,2024-02-29,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1460,56018,8876,4342,4,147,2023-09-13,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1461,42831,9923,4835,2,63,2023-10-04,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1462,16814,5999,2940,1,26,2024-10-28,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1463,31725,7539,3693,1,8,2024-12-05,Card Not Present,Low,False,0.0,Closed - False Positive
+1464,48022,10478,5103,2,90,2023-10-17,Unusual Amount,Medium,False,0.0,Customer Contacted
+1465,33729,9284,4531,3,95,2025-10-26,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1466,69416,7601,3723,2,51,2023-10-02,Known Compromise,Medium,False,0.0,Customer Contacted
+1467,59047,3912,1910,4,137,2024-08-06,Known Compromise,Low,False,0.0,Closed - False Positive
+1468,42860,955,463,5,188,2023-08-01,Velocity Spike,Critical,False,0.0,Closed - False Positive
+1469,22999,11254,5480,2,72,2023-07-15,Velocity Spike,Medium,False,0.0,Customer Contacted
+1470,28736,7227,3541,3,114,2023-05-11,Velocity Spike,Low,False,0.0,Closed - False Positive
+1471,68397,9323,4551,3,124,2024-06-11,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1472,58015,10377,5060,5,207,2024-08-03,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1473,36340,6455,3159,1,8,2024-01-22,Known Compromise,Medium,False,0.0,Closed - False Positive
+1474,39584,3509,1718,1,22,2024-03-13,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1475,15833,3301,1613,5,187,2025-08-14,Card Not Present,High,False,0.0,Closed - False Positive
+1476,28868,5629,2761,2,51,2025-11-12,Card Not Present,Critical,True,18.67,Closed - Confirmed Fraud
+1477,36870,2784,1348,2,64,2025-10-14,Known Compromise,Medium,False,0.0,Closed - False Positive
+1478,54514,8516,4160,1,31,2024-12-06,Unusual Amount,Critical,True,370.18,Customer Contacted
+1479,51206,2365,1151,2,54,2024-04-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+1480,66757,3914,1910,4,142,2024-07-14,Card Not Present,High,False,0.0,Closed - Confirmed Fraud
+1481,61314,13597,6617,6,220,2025-07-12,Card Not Present,High,False,0.0,Closed - False Positive
+1482,59581,9504,4639,1,6,2024-02-28,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1483,3960,2417,1176,2,72,2025-07-21,High Risk Merchant,Low,False,0.0,Customer Contacted
+1484,66095,5155,2530,3,128,2024-11-17,Unusual Amount,High,True,539.06,Customer Contacted
+1485,39935,4824,2367,5,200,2024-11-17,Card Not Present,Low,False,0.0,Closed - False Positive
+1486,19642,8426,4118,1,13,2023-07-07,Card Not Present,Low,False,0.0,Closed - False Positive
+1487,35059,5748,2820,3,110,2024-04-26,Unusual Amount,Low,False,0.0,Closed - False Positive
+1488,28391,10163,4953,1,25,2025-11-09,High Risk Merchant,Critical,True,331.49,Closed - Confirmed Fraud
+1489,63481,8420,4115,4,137,2023-04-08,Velocity Spike,Low,False,0.0,Customer Contacted
+1490,48974,9656,4715,1,44,2024-06-29,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+1491,46331,1632,792,3,93,2023-10-23,Unusual Amount,Low,False,0.0,Closed - False Positive
+1492,25665,6014,2947,4,145,2023-08-07,Card Not Present,Low,False,0.0,Under Review
+1493,32824,12210,5939,6,212,2023-07-11,Card Not Present,Medium,False,0.0,Closed - False Positive
+1494,62814,12578,6117,4,139,2024-08-31,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1495,29328,4064,1984,4,159,2023-04-02,High Risk Merchant,High,True,144.29,Customer Contacted
+1496,39630,10517,5123,5,181,2023-12-31,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1497,41310,9069,4431,1,38,2024-05-24,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1498,69509,1535,743,4,159,2024-09-30,Card Not Present,Medium,False,0.0,Closed - False Positive
+1499,40072,11962,5829,6,210,2024-05-01,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1500,18091,180,86,5,179,2023-08-04,Geo Mismatch,High,False,0.0,Closed - False Positive
+1501,10323,10395,5068,1,42,2024-04-16,Velocity Spike,High,False,0.0,Under Review
+1502,22618,694,333,1,28,2025-06-21,Velocity Spike,High,False,0.0,Closed - False Positive
+1503,64297,7593,3719,1,27,2024-01-22,Velocity Spike,High,True,124.09,Closed - Confirmed Fraud
+1504,25083,9042,4419,3,122,2024-10-02,Card Not Present,Low,False,0.0,Closed - False Positive
+1505,13126,3212,1567,3,107,2024-03-21,Card Not Present,Low,False,0.0,Closed - False Positive
+1506,35570,13178,6415,2,63,2023-08-17,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1507,57807,3777,1844,6,215,2024-05-11,Card Not Present,Low,False,0.0,Under Review
+1508,21041,11068,5391,3,112,2023-07-04,Velocity Spike,Low,False,0.0,Closed - False Positive
+1509,40681,2752,1331,5,199,2025-02-10,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1510,41846,10366,5056,3,104,2024-06-17,Velocity Spike,Low,False,0.0,Account Frozen
+1511,39214,8820,4314,5,202,2024-10-11,Card Not Present,Low,True,376.56,Closed - Confirmed Fraud
+1512,23869,9235,4511,3,111,2023-07-27,Unusual Amount,Low,False,0.0,Under Review
+1513,21066,6946,3403,1,37,2023-06-26,High Risk Merchant,Medium,False,0.0,Account Frozen
+1514,11734,4631,2267,5,184,2025-07-09,Known Compromise,Medium,False,0.0,Closed - False Positive
+1515,39023,13195,6425,4,134,2024-12-25,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1516,49800,9694,4732,3,126,2023-03-15,Card Not Present,High,False,0.0,Closed - False Positive
+1517,27202,13195,6425,4,134,2023-09-15,Known Compromise,Low,False,0.0,Closed - False Positive
+1518,38159,1293,626,1,38,2024-07-22,Card Not Present,Medium,False,0.0,Under Review
+1519,22676,13410,6529,4,131,2025-08-25,Velocity Spike,Low,False,0.0,Closed - False Positive
+1520,26916,4986,2444,4,135,2025-04-18,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1521,11,11762,5737,4,131,2024-12-30,Unusual Amount,High,False,0.0,Closed - Confirmed Fraud
+1522,8230,8948,4376,4,157,2024-04-19,Card Not Present,Low,False,0.0,Customer Contacted
+1523,36845,7995,3907,3,125,2025-12-23,Velocity Spike,Medium,True,136.15,Closed - Confirmed Fraud
+1524,51602,10157,4951,1,15,2024-08-03,Card Not Present,Low,False,0.0,Customer Contacted
+1525,49804,6145,3011,1,20,2024-05-02,Geo Mismatch,High,False,0.0,Customer Contacted
+1526,55846,7017,3436,1,43,2024-03-10,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+1527,16350,11640,5679,1,7,2025-04-22,Card Not Present,Low,False,0.0,Account Frozen
+1528,20094,1883,919,1,37,2023-10-31,Card Not Present,High,False,0.0,Closed - False Positive
+1529,67669,6821,3340,2,76,2023-02-10,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1530,44491,6860,3361,5,204,2024-03-23,Velocity Spike,High,False,0.0,Closed - False Positive
+1531,46853,11285,5496,1,24,2023-03-16,Card Not Present,Medium,False,0.0,Customer Contacted
+1532,17851,5656,2774,4,150,2024-12-03,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1533,35403,5325,2615,1,29,2025-01-28,Known Compromise,Low,False,0.0,Customer Contacted
+1534,16801,5224,2564,5,178,2025-12-30,Velocity Spike,High,False,0.0,Under Review
+1535,15949,12368,6014,2,86,2024-12-13,Unusual Amount,Low,False,0.0,Closed - False Positive
+1536,30097,1657,805,6,211,2023-06-08,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1537,17624,1646,799,3,126,2024-11-05,Unusual Amount,Low,False,0.0,Account Frozen
+1538,68657,10262,5004,3,107,2024-05-17,Card Not Present,Low,False,0.0,Closed - False Positive
+1539,58396,7966,3894,3,116,2023-03-17,High Risk Merchant,Low,False,0.0,Customer Contacted
+1540,25581,1206,585,2,63,2023-04-08,Velocity Spike,High,False,0.0,Closed - Confirmed Fraud
+1541,20421,5112,2508,2,78,2025-10-25,Unusual Amount,Low,False,0.0,Under Review
+1542,57086,5326,2615,2,80,2025-03-04,Velocity Spike,Low,False,0.0,Closed - False Positive
+1543,26928,2830,1371,1,7,2025-09-24,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+1544,56124,2933,1426,2,57,2025-12-09,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+1545,48779,1304,633,1,32,2024-03-17,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1546,51735,7001,3429,4,149,2023-05-17,Velocity Spike,Low,False,0.0,Customer Contacted
+1547,32510,10665,5195,3,123,2024-08-17,Card Not Present,Medium,False,0.0,Closed - False Positive
+1548,64627,4077,1990,6,224,2025-09-27,Card Not Present,Low,False,0.0,Closed - False Positive
+1549,29231,6987,3423,4,158,2024-11-18,Card Not Present,Medium,False,0.0,Closed - False Positive
+1550,1113,13334,6490,6,216,2025-02-14,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1551,9314,13865,6755,4,167,2023-06-22,Known Compromise,Low,False,0.0,Closed - False Positive
+1552,32601,312,149,4,168,2025-02-02,Unusual Amount,High,True,63.52,Closed - Confirmed Fraud
+1553,7594,4842,2374,4,149,2025-04-05,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1554,22940,6774,3317,2,80,2024-05-15,Velocity Spike,Medium,False,0.0,Under Review
+1555,58035,5406,2656,3,129,2025-07-12,Unusual Amount,Low,False,0.0,Closed - False Positive
+1556,31840,13384,6515,2,52,2023-06-07,Unusual Amount,Low,False,0.0,Closed - False Positive
+1557,60241,9572,4671,1,45,2023-03-26,Card Not Present,Low,False,0.0,Closed - False Positive
+1558,8407,9042,4419,3,122,2025-09-18,Card Not Present,Medium,False,0.0,Closed - False Positive
+1559,39726,12769,6207,5,207,2025-01-14,High Risk Merchant,Low,False,0.0,Under Review
+1560,29219,984,480,5,188,2025-01-20,Unusual Amount,Critical,False,0.0,Closed - Confirmed Fraud
+1561,5876,4553,2229,3,99,2024-09-25,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1562,42804,9240,4512,4,170,2023-03-29,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1563,61764,6167,3020,2,68,2025-07-04,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+1564,10835,7903,3865,2,79,2023-05-06,Geo Mismatch,Low,False,0.0,Closed - Confirmed Fraud
+1565,7330,7958,3891,2,55,2023-08-12,Velocity Spike,Medium,True,22.78,Closed - Confirmed Fraud
+1566,28853,6503,3178,2,46,2023-06-12,Known Compromise,Low,False,0.0,Closed - False Positive
+1567,39146,13857,6751,3,100,2024-03-11,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1568,69672,10222,4983,2,71,2025-11-18,Card Not Present,High,True,77.99,Closed - Confirmed Fraud
+1569,16346,870,420,5,203,2024-05-15,Velocity Spike,Low,False,0.0,Closed - False Positive
+1570,21123,8259,4039,1,45,2025-12-16,Unusual Amount,Low,False,0.0,Account Frozen
+1571,66078,14253,6943,3,108,2024-09-26,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1572,40705,6399,3135,3,94,2025-07-10,Velocity Spike,Low,False,0.0,Closed - False Positive
+1573,29362,9532,4654,5,186,2025-07-16,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1574,24744,6382,3125,2,62,2024-04-06,Velocity Spike,High,False,0.0,Under Review
+1575,25890,11203,5456,1,15,2023-06-04,Unusual Amount,Low,False,0.0,Customer Contacted
+1576,33436,2499,1217,1,11,2024-07-10,Geo Mismatch,Low,False,0.0,Under Review
+1577,21338,5650,2772,5,206,2025-10-10,Unusual Amount,Medium,False,0.0,Customer Contacted
+1578,2751,6552,3200,2,63,2024-04-16,Known Compromise,Medium,False,0.0,Closed - False Positive
+1579,64526,10178,4962,6,214,2025-08-23,High Risk Merchant,High,True,88.05,Account Frozen
+1580,18249,11784,5745,1,14,2025-07-22,Velocity Spike,Low,True,795.89,Closed - Confirmed Fraud
+1581,20860,2420,1177,3,114,2024-04-29,High Risk Merchant,High,True,69.64,Account Frozen
+1582,33338,7087,3469,2,59,2023-12-25,Card Not Present,Critical,False,0.0,Closed - Confirmed Fraud
+1583,24415,5394,2650,3,118,2024-07-03,Geo Mismatch,High,False,0.0,Closed - Confirmed Fraud
+1584,55313,7624,3733,4,147,2023-12-18,Known Compromise,Low,False,0.0,Closed - False Positive
+1585,15579,12176,5922,4,162,2023-02-06,Card Not Present,Medium,False,0.0,Closed - False Positive
+1586,63222,9348,4563,2,82,2023-08-17,Geo Mismatch,Low,False,0.0,Customer Contacted
+1587,67785,10907,5313,2,67,2024-11-27,Unusual Amount,Low,False,0.0,Under Review
+1588,60539,13833,6740,2,76,2023-10-08,Velocity Spike,Low,False,0.0,Closed - False Positive
+1589,28892,9249,4516,4,148,2025-09-12,Velocity Spike,Low,False,0.0,Closed - False Positive
+1590,48949,1289,624,6,214,2025-05-14,Velocity Spike,Low,False,0.0,Account Frozen
+1591,61212,14085,6865,2,79,2025-11-09,Unusual Amount,Critical,False,0.0,Closed - Confirmed Fraud
+1592,11532,3658,1789,5,203,2024-09-30,Known Compromise,Medium,False,0.0,Closed - False Positive
+1593,12498,4749,2327,2,77,2023-09-23,Card Not Present,Medium,False,0.0,Closed - False Positive
+1594,17987,3335,1630,1,5,2023-03-21,Card Not Present,Medium,False,0.0,Closed - False Positive
+1595,28686,2558,1242,2,86,2024-10-09,Card Not Present,Medium,False,0.0,Closed - False Positive
+1596,10155,8278,4048,2,81,2023-01-12,Card Not Present,Low,True,137.38,Customer Contacted
+1597,13686,3610,1766,2,77,2024-09-22,Unusual Amount,Low,False,0.0,Closed - False Positive
+1598,1363,5904,2899,4,139,2024-08-26,Unusual Amount,Medium,True,34.18,Account Frozen
+1599,49477,8219,4018,3,124,2023-10-03,Unusual Amount,Low,False,0.0,Customer Contacted
+1600,22652,8813,4310,3,127,2024-08-27,Velocity Spike,High,False,0.0,Customer Contacted
+1601,282,3690,1804,1,7,2023-12-24,High Risk Merchant,Critical,True,593.81,Customer Contacted
+1602,9560,829,398,3,106,2025-11-11,Unusual Amount,Low,False,0.0,Closed - False Positive
+1603,3145,9886,4818,4,134,2024-08-15,Card Not Present,Low,False,0.0,Account Frozen
+1604,44892,4506,2206,5,208,2023-01-30,Card Not Present,Medium,True,368.86,Closed - Confirmed Fraud
+1605,22316,4764,2334,6,212,2024-08-04,Card Not Present,High,False,0.0,Closed - Confirmed Fraud
+1606,21548,8098,3959,2,69,2023-04-24,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1607,17479,3639,1781,5,175,2025-02-06,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1608,3097,3429,1679,3,123,2023-07-07,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1609,21112,10786,5254,2,87,2023-05-31,Known Compromise,Low,False,0.0,Closed - False Positive
+1610,19075,2291,1115,2,74,2023-02-12,Unusual Amount,Low,False,0.0,Closed - False Positive
+1611,65869,9187,4487,5,192,2023-12-06,Unusual Amount,Low,False,0.0,Account Frozen
+1612,31045,6595,3221,2,74,2025-04-07,Velocity Spike,Medium,False,0.0,Under Review
+1613,47567,8093,3957,2,77,2024-12-23,Card Not Present,Medium,False,0.0,Under Review
+1614,15364,5017,2459,6,211,2023-07-08,Velocity Spike,Low,False,0.0,Closed - False Positive
+1615,20828,7273,3564,2,85,2025-06-22,High Risk Merchant,Medium,True,44.48,Customer Contacted
+1616,395,11010,5364,5,189,2023-09-09,Card Not Present,Medium,False,0.0,Closed - False Positive
+1617,13278,12956,6306,3,117,2024-10-21,High Risk Merchant,Medium,False,0.0,Customer Contacted
+1618,15198,10278,5010,2,61,2024-05-03,Known Compromise,Medium,False,0.0,Customer Contacted
+1619,25026,12672,6161,4,141,2025-05-05,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1620,32565,4411,2158,2,64,2024-10-08,Card Not Present,Low,False,0.0,Closed - False Positive
+1621,41531,2033,992,2,51,2024-09-15,Known Compromise,Medium,True,98.24,Account Frozen
+1622,17633,7513,3680,4,156,2023-12-30,High Risk Merchant,High,False,0.0,Closed - False Positive
+1623,9557,407,195,3,128,2025-08-28,Card Not Present,Low,False,0.0,Closed - False Positive
+1624,35581,12794,6220,1,10,2025-07-26,Geo Mismatch,Low,False,0.0,Customer Contacted
+1625,67914,11319,5515,2,64,2024-04-05,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1626,24234,6020,2951,3,126,2024-03-15,Unusual Amount,High,False,0.0,Closed - False Positive
+1627,38288,3100,1518,4,152,2023-04-10,Velocity Spike,Low,False,0.0,Under Review
+1628,27996,12144,5908,6,220,2025-12-09,Geo Mismatch,Medium,False,0.0,Under Review
+1629,57508,9811,4782,3,124,2024-12-08,Unusual Amount,Medium,False,0.0,Customer Contacted
+1630,61043,2904,1411,3,114,2023-12-02,Velocity Spike,Medium,True,108.4,Account Frozen
+1631,1739,6700,3282,5,202,2025-08-26,Card Not Present,Medium,False,0.0,Closed - False Positive
+1632,17799,3004,1467,2,70,2023-04-22,Card Not Present,Low,False,0.0,Closed - False Positive
+1633,33250,5230,2567,2,65,2024-08-22,Geo Mismatch,Medium,False,0.0,Customer Contacted
+1634,4571,13503,6570,1,25,2023-02-20,Velocity Spike,Low,False,0.0,Account Frozen
+1635,43364,8938,4371,4,138,2024-12-31,Card Not Present,High,False,0.0,Customer Contacted
+1636,18583,12341,6001,1,1,2025-04-10,Unusual Amount,Medium,False,0.0,Customer Contacted
+1637,19835,2758,1336,5,180,2025-01-20,Card Not Present,Low,False,0.0,Customer Contacted
+1638,47874,2636,1279,2,73,2025-05-12,Card Not Present,High,False,0.0,Closed - False Positive
+1639,22046,3516,1720,1,30,2024-02-06,Velocity Spike,High,False,0.0,Customer Contacted
+1640,17763,8799,4302,5,201,2025-01-05,High Risk Merchant,High,False,0.0,Customer Contacted
+1641,147,11562,5640,1,36,2023-09-03,Velocity Spike,Medium,False,0.0,Account Frozen
+1642,18900,4834,2372,2,50,2023-11-25,Unusual Amount,Low,False,0.0,Closed - False Positive
+1643,61994,13051,6352,4,153,2023-05-19,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1644,23666,5790,2844,1,5,2024-02-05,Known Compromise,High,False,0.0,Account Frozen
+1645,31437,8024,3922,5,183,2025-05-27,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1646,9951,3177,1552,2,70,2024-08-30,Card Not Present,Medium,False,0.0,Closed - False Positive
+1647,61955,8809,4308,4,161,2023-07-01,High Risk Merchant,High,True,667.12,Account Frozen
+1648,301,5311,2610,6,216,2025-10-22,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+1649,63062,14258,6947,5,176,2023-08-24,Geo Mismatch,Medium,False,0.0,Closed - False Positive
+1650,24094,14088,6866,4,144,2025-05-18,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1651,47248,8221,4019,1,32,2023-08-24,Card Not Present,Low,False,0.0,Under Review
+1652,59503,11501,5610,1,16,2023-03-06,Unusual Amount,Low,False,0.0,Customer Contacted
+1653,66469,5211,2559,1,45,2024-02-02,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1654,42125,10635,5179,6,220,2025-01-23,Velocity Spike,Medium,False,0.0,Customer Contacted
+1655,17016,11338,5527,1,4,2024-04-04,Unusual Amount,Low,False,0.0,Customer Contacted
+1656,57935,5979,2930,4,152,2024-03-23,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+1657,69868,10781,5252,4,137,2024-11-12,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1658,32181,9562,4666,3,91,2025-12-16,Unusual Amount,Low,False,0.0,Customer Contacted
+1659,64672,4130,2017,6,217,2024-01-22,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1660,25972,2627,1275,1,34,2025-12-16,Unusual Amount,Low,False,0.0,Closed - False Positive
+1661,41128,11449,5579,2,52,2025-08-22,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1662,88,12179,5925,1,28,2023-11-20,Card Not Present,Low,False,0.0,Closed - False Positive
+1663,38075,8188,4004,3,117,2025-12-21,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1664,57671,3954,1930,6,226,2025-08-18,Known Compromise,Low,False,0.0,Closed - Confirmed Fraud
+1665,62476,8360,4086,5,180,2023-04-02,Velocity Spike,Low,False,0.0,Closed - False Positive
+1666,10317,721,343,1,32,2023-03-19,Unusual Amount,Low,True,191.16,Account Frozen
+1667,48091,2208,1076,2,48,2024-01-04,Unusual Amount,Medium,False,0.0,Under Review
+1668,67503,771,367,4,138,2024-09-11,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1669,34449,10209,4978,6,219,2025-04-02,Unusual Amount,Low,False,0.0,Closed - False Positive
+1670,2425,8237,4026,3,111,2025-08-20,Geo Mismatch,Medium,True,99.39,Closed - Confirmed Fraud
+1671,22292,13950,6798,4,146,2024-04-25,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1672,42521,10481,5105,2,88,2023-01-26,Unusual Amount,Low,False,0.0,Customer Contacted
+1673,32827,11353,5533,2,79,2025-05-31,Card Not Present,Low,False,0.0,Closed - False Positive
+1674,5815,4812,2361,6,223,2025-11-26,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+1675,1182,10726,5225,4,161,2025-02-03,High Risk Merchant,High,False,0.0,Customer Contacted
+1676,36929,8971,4386,1,24,2025-01-26,Geo Mismatch,Critical,False,0.0,Closed - Confirmed Fraud
+1677,43135,2390,1163,5,196,2025-02-17,Card Not Present,High,True,47.15,Closed - Confirmed Fraud
+1678,11244,11708,5714,3,94,2025-06-26,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1679,69189,10649,5187,5,174,2025-04-27,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1680,22876,12797,6221,4,150,2023-10-12,Unusual Amount,High,False,0.0,Closed - False Positive
+1681,61626,934,453,4,143,2025-01-15,Velocity Spike,Low,False,0.0,Under Review
+1682,902,10092,4921,1,7,2024-11-11,Unusual Amount,Critical,False,0.0,Customer Contacted
+1683,35253,992,482,3,117,2023-01-07,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1684,15440,12629,6140,2,53,2023-03-23,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+1685,29961,4541,2223,1,11,2023-05-07,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1686,25778,442,212,4,159,2024-08-27,High Risk Merchant,High,True,647.51,Customer Contacted
+1687,4114,5022,2462,2,89,2023-01-04,Unusual Amount,High,False,0.0,Closed - Confirmed Fraud
+1688,9209,4278,2094,4,167,2024-08-23,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1689,13040,1922,937,4,152,2025-03-18,Unusual Amount,Medium,False,0.0,Closed - Confirmed Fraud
+1690,17129,9827,4789,2,86,2023-04-15,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1691,3976,3091,1514,3,110,2024-10-06,Card Not Present,Medium,False,0.0,Under Review
+1692,15385,12369,6015,4,157,2024-01-11,Unusual Amount,Low,False,0.0,Closed - False Positive
+1693,54861,13233,6443,5,176,2023-07-25,Card Not Present,Critical,False,0.0,Customer Contacted
+1694,43023,6340,3105,5,190,2024-04-26,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1695,20973,960,466,5,201,2024-08-12,Velocity Spike,High,False,0.0,Closed - False Positive
+1696,46729,8189,4004,3,109,2025-05-08,Card Not Present,Low,False,0.0,Closed - False Positive
+1697,12562,9907,4827,6,221,2023-12-29,Card Not Present,Medium,False,0.0,Customer Contacted
+1698,15912,6240,3054,3,130,2025-04-19,Geo Mismatch,Critical,False,0.0,Closed - False Positive
+1699,44347,13183,6419,2,50,2025-04-13,Card Not Present,Low,False,0.0,Closed - False Positive
+1700,37845,12038,5860,3,98,2024-10-11,Velocity Spike,Critical,True,18.87,Closed - Confirmed Fraud
+1701,50603,866,418,3,109,2023-04-07,Unusual Amount,Low,False,0.0,Closed - False Positive
+1702,20198,396,190,2,56,2024-05-11,Geo Mismatch,Critical,True,174.85,Closed - Confirmed Fraud
+1703,14515,7035,3444,5,196,2024-05-13,Card Not Present,Low,False,0.0,Closed - False Positive
+1704,8297,4059,1982,6,213,2023-06-07,Known Compromise,Medium,False,0.0,Closed - False Positive
+1705,1878,971,472,4,142,2024-12-01,Velocity Spike,Critical,False,0.0,Closed - False Positive
+1706,12475,2797,1353,4,162,2024-01-31,Card Not Present,Low,False,0.0,Account Frozen
+1707,36945,7894,3861,3,119,2024-02-06,Velocity Spike,Low,False,0.0,Customer Contacted
+1708,48419,13292,6470,4,147,2025-08-30,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1709,5579,500,239,3,128,2025-12-12,Velocity Spike,High,False,0.0,Closed - False Positive
+1710,2174,9178,4481,4,147,2023-04-15,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1711,19452,10291,5018,4,161,2025-07-02,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1712,5127,13853,6750,4,135,2024-08-29,Card Not Present,High,False,0.0,Closed - False Positive
+1713,3653,4892,2398,5,199,2025-05-08,Unusual Amount,Medium,False,0.0,Account Frozen
+1714,21418,7830,3829,3,109,2024-01-15,Card Not Present,Low,False,0.0,Customer Contacted
+1715,40623,13573,6606,2,87,2025-11-28,Geo Mismatch,Critical,False,0.0,Customer Contacted
+1716,23145,3468,1697,4,146,2023-05-29,Velocity Spike,High,True,113.92,Closed - Confirmed Fraud
+1717,63486,2327,1132,1,26,2025-11-14,Card Not Present,High,False,0.0,Closed - Confirmed Fraud
+1718,52059,7500,3673,2,76,2025-09-14,Unusual Amount,Low,False,0.0,Closed - False Positive
+1719,31283,1866,908,1,25,2024-07-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1720,41638,3584,1755,4,146,2025-12-16,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1721,45439,6322,3096,5,200,2025-01-01,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1722,19454,9361,4567,3,96,2024-07-31,Geo Mismatch,Low,True,681.66,Customer Contacted
+1723,15157,13294,6471,6,225,2025-01-17,Geo Mismatch,Low,False,0.0,Customer Contacted
+1724,8667,13199,6427,2,77,2024-02-10,Card Not Present,Low,False,0.0,Closed - False Positive
+1725,67817,2314,1125,2,79,2024-08-25,Velocity Spike,Medium,True,340.15,Closed - Confirmed Fraud
+1726,24285,5526,2712,4,154,2025-04-05,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+1727,48970,4275,2093,3,94,2025-01-04,Card Not Present,Medium,False,0.0,Account Frozen
+1728,19760,1764,859,6,226,2023-09-22,Card Not Present,Low,False,0.0,Closed - Confirmed Fraud
+1729,38947,6207,3040,5,171,2023-10-22,Card Not Present,Low,False,0.0,Closed - False Positive
+1730,10184,6857,3359,2,69,2024-12-28,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1731,11081,7733,3784,2,80,2024-03-08,Unusual Amount,Low,False,0.0,Closed - False Positive
+1732,23235,7849,3837,2,49,2024-03-21,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1733,54158,1914,934,5,207,2023-11-24,Geo Mismatch,Medium,False,0.0,Customer Contacted
+1734,63264,453,218,5,177,2024-10-18,Velocity Spike,Low,False,0.0,Closed - Confirmed Fraud
+1735,17637,487,233,3,98,2023-06-25,High Risk Merchant,Medium,False,0.0,Closed - False Positive
+1736,37597,8733,4271,6,223,2023-06-18,Velocity Spike,Low,False,0.0,Closed - False Positive
+1737,51688,12153,5912,4,134,2024-07-06,Unusual Amount,Critical,True,120.67,Closed - Confirmed Fraud
+1738,58241,8464,4135,1,34,2023-09-22,Velocity Spike,Critical,False,0.0,Closed - False Positive
+1739,12807,4920,2410,2,55,2024-08-25,Card Not Present,Low,False,0.0,Closed - False Positive
+1740,8574,2795,1352,4,137,2024-11-21,Velocity Spike,Medium,False,0.0,Under Review
+1741,55471,2107,1030,2,59,2023-07-08,Known Compromise,Low,False,0.0,Account Frozen
+1742,572,3433,1681,1,10,2024-05-19,Card Not Present,Medium,False,0.0,Closed - Confirmed Fraud
+1743,53633,12113,5896,4,135,2023-10-22,Geo Mismatch,Low,False,0.0,Customer Contacted
+1744,13454,11853,5776,2,81,2025-02-09,Unusual Amount,Low,False,0.0,Closed - False Positive
+1745,64402,2544,1237,4,148,2025-02-25,Velocity Spike,Medium,True,3351.93,Account Frozen
+1746,63579,9077,4433,2,77,2023-05-23,Unusual Amount,High,False,0.0,Closed - False Positive
+1747,14885,12231,5948,1,21,2023-02-06,Velocity Spike,High,False,0.0,Closed - False Positive
+1748,52429,13727,6682,1,10,2025-05-30,Velocity Spike,Low,False,0.0,Under Review
+1749,14035,3821,1866,1,8,2024-09-04,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1750,4334,9913,4830,3,104,2023-07-12,Unusual Amount,Low,False,0.0,Closed - Confirmed Fraud
+1751,17396,4108,2005,1,44,2024-02-27,Card Not Present,Low,False,0.0,Closed - False Positive
+1752,14296,6395,3132,1,36,2025-07-19,Card Not Present,Low,True,68.03,Closed - Confirmed Fraud
+1753,41242,1700,827,3,104,2024-06-22,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1754,44621,13001,6329,3,94,2024-12-31,High Risk Merchant,Low,False,0.0,Closed - Confirmed Fraud
+1755,5112,7629,3737,2,85,2024-11-02,Unusual Amount,Medium,False,0.0,Under Review
+1756,28799,12434,6047,1,15,2024-11-16,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1757,47494,3253,1590,5,194,2023-12-06,Unusual Amount,Medium,False,0.0,Closed - False Positive
+1758,28786,8198,4009,6,223,2024-12-06,Geo Mismatch,Low,False,0.0,Account Frozen
+1759,60932,1110,545,5,206,2023-05-09,Card Not Present,Low,False,0.0,Closed - False Positive
+1760,340,12400,6030,2,86,2025-12-28,Velocity Spike,Critical,True,140.23,Customer Contacted
+1761,37720,311,148,1,19,2025-10-21,Known Compromise,Medium,False,0.0,Closed - Confirmed Fraud
+1762,60628,671,324,4,137,2023-10-09,Velocity Spike,Low,False,0.0,Account Frozen
+1763,33417,13982,6815,3,106,2025-07-22,Geo Mismatch,High,True,152.95,Closed - Confirmed Fraud
+1764,64856,3905,1905,3,121,2025-08-21,High Risk Merchant,High,False,0.0,Closed - False Positive
+1765,2556,9711,4738,2,63,2024-01-12,High Risk Merchant,Low,False,0.0,Customer Contacted
+1766,42863,13123,6386,2,49,2025-06-17,Unusual Amount,Low,False,0.0,Closed - False Positive
+1767,58480,8843,4326,3,92,2023-01-14,High Risk Merchant,High,True,99.42,Closed - Confirmed Fraud
+1768,936,1669,810,1,44,2025-10-02,Velocity Spike,Medium,False,0.0,Closed - Confirmed Fraud
+1769,65318,11361,5536,2,70,2025-12-01,High Risk Merchant,Low,False,0.0,Customer Contacted
+1770,2673,927,448,3,93,2023-05-15,Known Compromise,Critical,True,485.23,Closed - Confirmed Fraud
+1771,2328,14067,6858,2,74,2025-12-01,Known Compromise,Low,False,0.0,Closed - False Positive
+1772,53062,7751,3792,5,179,2024-06-03,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1773,10631,1885,919,4,156,2025-01-04,High Risk Merchant,Medium,False,0.0,Closed - Confirmed Fraud
+1774,33646,11909,5802,6,209,2023-10-08,Unusual Amount,Critical,True,398.93,Closed - Confirmed Fraud
+1775,19803,2973,1450,4,169,2024-04-26,Known Compromise,Low,False,0.0,Customer Contacted
+1776,34802,6466,3164,3,121,2024-12-16,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1777,58918,4012,1961,1,38,2025-07-19,Geo Mismatch,Medium,True,339.3,Customer Contacted
+1778,7161,10762,5242,1,33,2023-05-26,High Risk Merchant,Medium,False,0.0,Customer Contacted
+1779,32408,1787,869,1,32,2025-05-05,Geo Mismatch,High,True,141.57,Closed - Confirmed Fraud
+1780,50825,7573,3709,3,117,2025-06-05,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1781,67358,606,289,5,190,2024-04-18,Velocity Spike,High,True,502.06,Account Frozen
+1782,3882,4064,1984,4,159,2024-12-18,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1783,45551,8095,3958,2,74,2023-10-31,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1784,17814,1216,590,5,188,2024-10-18,Velocity Spike,Low,False,0.0,Under Review
+1785,20806,925,448,5,182,2025-01-26,Unusual Amount,Low,False,0.0,Closed - False Positive
+1786,46795,13754,6695,5,178,2023-04-21,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1787,19437,6156,3015,2,66,2023-07-28,Velocity Spike,Low,False,0.0,Closed - False Positive
+1788,58586,8344,4079,4,139,2024-07-11,Card Not Present,Low,False,0.0,Customer Contacted
+1789,29029,8278,4048,2,81,2023-03-06,Geo Mismatch,Low,False,0.0,Closed - False Positive
+1790,17351,8524,4164,6,214,2025-06-12,Velocity Spike,Medium,False,0.0,Closed - False Positive
+1791,45261,2230,1087,2,87,2024-05-01,High Risk Merchant,Low,False,0.0,Closed - False Positive
+1792,56114,8732,4271,2,72,2023-01-18,High Risk Merchant,Medium,False,0.0,Customer Contacted
+1793,44058,2286,1112,4,144,2025-09-04,Known Compromise,Medium,False,0.0,Closed - False Positive
+1794,35272,8557,4180,1,42,2024-06-08,Velocity Spike,High,True,125.57,Account Frozen
+1795,42453,13350,6501,1,17,2024-11-12,Card Not Present,Medium,False,0.0,Under Review
+1796,12519,5563,2729,2,46,2024-01-04,High Risk Merchant,Low,False,0.0,Customer Contacted
+1797,19098,1213,588,5,181,2025-12-14,Card Not Present,Low,False,0.0,Closed - False Positive
+1798,135,1408,685,2,59,2024-04-02,Card Not Present,Medium,False,0.0,Customer Contacted
+1799,63318,3333,1629,5,196,2023-04-30,Unusual Amount,Critical,True,44.22,Account Frozen
+1800,10359,3085,1511,1,17,2025-08-19,Velocity Spike,High,False,0.0,Closed - False Positive

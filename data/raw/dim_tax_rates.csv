@@ -1,0 +1,15 @@
+tax_rate_id,province,province_name,total_tax_rate,effective_start_date,effective_end_date
+1,ON,Ontario,0.13,2023-01-01,2099-12-31
+2,QC,Quebec,0.14975,2023-01-01,2099-12-31
+3,BC,British Columbia,0.12,2023-01-01,2099-12-31
+4,AB,Alberta,0.05,2023-01-01,2099-12-31
+5,MB,Manitoba,0.12,2023-01-01,2099-12-31
+6,SK,Saskatchewan,0.11,2023-01-01,2099-12-31
+7,NS,Nova Scotia,0.15,2023-01-01,2025-03-31
+8,NS,Nova Scotia,0.14,2025-04-01,2099-12-31
+9,NB,New Brunswick,0.15,2023-01-01,2099-12-31
+10,NL,Newfoundland and Labrador,0.15,2023-01-01,2099-12-31
+11,PE,Prince Edward Island,0.15,2023-01-01,2099-12-31
+12,YT,Yukon,0.05,2023-01-01,2099-12-31
+13,NT,Northwest Territories,0.05,2023-01-01,2099-12-31
+14,NU,Nunavut,0.05,2023-01-01,2099-12-31

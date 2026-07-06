@@ -1,0 +1,7 @@
+institution_id,institution_code,institution_name,institution_group,institution_type,is_big5,is_dsib,is_active,headquarters_city,headquarters_province
+1,RBC,Royal Bank of Canada,Big 5,Bank,True,True,True,Toronto,ON
+2,TD,Toronto-Dominion Bank,Big 5,Bank,True,True,True,Toronto,ON
+3,BNS,Scotiabank,Big 5,Bank,True,True,True,Toronto,ON
+4,BMO,Bank of Montreal,Big 5,Bank,True,True,True,Montreal,QC
+5,CIBC,Canadian Imperial Bank of Commerce,Big 5,Bank,True,True,True,Toronto,ON
+6,NBC,National Bank of Canada,D-SIB Benchmark,Bank,False,True,True,Montreal,QC

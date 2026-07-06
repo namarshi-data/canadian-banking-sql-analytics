@@ -1,0 +1,8 @@
+rate_id,rate_code,rate_name,annual_rate,effective_start_date,effective_end_date
+1,PRIME,CAD Prime Rate,0.0645,2023-01-01,2023-06-30
+2,PRIME,CAD Prime Rate,0.0695,2023-07-01,2024-05-31
+3,PRIME,CAD Prime Rate,0.062,2024-06-01,2024-12-31
+4,PRIME,CAD Prime Rate,0.052,2025-01-01,2025-12-31
+5,SAVINGS_BASE,Savings Base Rate,0.0125,2023-01-01,2024-12-31
+6,SAVINGS_BASE,Savings Base Rate,0.009,2025-01-01,2025-12-31
+7,CARD_APR_BASE,Credit Card APR Base,0.1999,2023-01-01,2099-12-31

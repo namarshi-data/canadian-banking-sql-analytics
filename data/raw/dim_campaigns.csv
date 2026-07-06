@@ -1,0 +1,7 @@
+campaign_id,campaign_name,campaign_type,target_product_family,start_date,end_date,budget_amount,campaign_description
+1,2024 Spring Newcomer Bundle,Newcomer,Deposit,2024-03-01,2024-05-31,60000,New customers and newcomers
+2,2024 Summer Credit Card Rewards,Card Acquisition,Card,2024-06-01,2024-08-31,90000,Cashback and travel cards
+3,2024 Fall Mortgage Renewal,Mortgage Renewal,Loan,2024-09-01,2024-11-30,75000,Mortgage renewal retention
+4,2025 TFSA Season,Investment Cross-sell,Wealth,2025-01-02,2025-03-31,80000,TFSA contribution season
+5,2025 Digital Banking Activation,Digital Adoption,Deposit,2025-04-01,2025-06-30,45000,Mobile app engagement
+6,2025 Fraud Awareness Outreach,Risk Education,Service,2025-07-01,2025-09-30,30000,Fraud prevention education

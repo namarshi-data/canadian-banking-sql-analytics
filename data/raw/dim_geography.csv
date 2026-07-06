@@ -1,0 +1,28 @@
+geo_id,province,province_name,city,postal_prefix,metro_area,region
+1,ON,Ontario,Toronto,M5V,Greater Toronto Area,Central Canada
+2,ON,Ontario,Ottawa,K1P,Ottawa-Gatineau,Central Canada
+3,ON,Ontario,Mississauga,L5B,Greater Toronto Area,Central Canada
+4,ON,Ontario,Hamilton,L8P,Greater Golden Horseshoe,Central Canada
+5,ON,Ontario,London,N6A,Southwestern Ontario,Central Canada
+6,QC,Quebec,Montreal,H3A,Greater Montreal,Central Canada
+7,QC,Quebec,Quebec City,G1R,Capitale-Nationale,Central Canada
+8,QC,Quebec,Laval,H7N,Greater Montreal,Central Canada
+9,QC,Quebec,Gatineau,J8X,Ottawa-Gatineau,Central Canada
+10,BC,British Columbia,Vancouver,V6B,Lower Mainland,Western Canada
+11,BC,British Columbia,Victoria,V8W,Vancouver Island,Western Canada
+12,BC,British Columbia,Surrey,V3T,Lower Mainland,Western Canada
+13,BC,British Columbia,Burnaby,V5C,Lower Mainland,Western Canada
+14,AB,Alberta,Calgary,T2P,Calgary Region,Western Canada
+15,AB,Alberta,Edmonton,T5J,Edmonton Metro,Western Canada
+16,AB,Alberta,Red Deer,T4N,Central Alberta,Western Canada
+17,MB,Manitoba,Winnipeg,R3C,Winnipeg Metro,Prairies
+18,SK,Saskatchewan,Saskatoon,S7K,Central Saskatchewan,Prairies
+19,SK,Saskatchewan,Regina,S4P,Southern Saskatchewan,Prairies
+20,NS,Nova Scotia,Halifax,B3J,Halifax Regional Municipality,Atlantic Canada
+21,NB,New Brunswick,Moncton,E1C,Southeast New Brunswick,Atlantic Canada
+22,NB,New Brunswick,Fredericton,E3B,Capital Region,Atlantic Canada
+23,NL,Newfoundland and Labrador,St. John's,A1C,Avalon Peninsula,Atlantic Canada
+24,PE,Prince Edward Island,Charlottetown,C1A,Queens County,Atlantic Canada
+25,YT,Yukon,Whitehorse,Y1A,Yukon,Northern Canada
+26,NT,Northwest Territories,Yellowknife,X1A,North Slave Region,Northern Canada
+27,NU,Nunavut,Iqaluit,X0A,Qikiqtaaluk Region,Northern Canada

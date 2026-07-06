@@ -1,0 +1,7 @@
+# Keep GitHub language stats focused on SQL for this SQL portfolio project
+*.sql linguist-detectable=true
+*.csv linguist-vendored
+scripts/*.py linguist-vendored
+*.md linguist-documentation
+*.yml linguist-vendored
+Makefile linguist-vendored

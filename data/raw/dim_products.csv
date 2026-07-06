@@ -1,0 +1,16 @@
+product_id,product_code,product_name,product_family,product_category,currency,monthly_fee,minimum_balance,base_rate,is_credit_product
+1,CHK_BASIC,Basic Chequing,Deposit,Chequing,CAD,1.5,0.0,0.0,False
+2,CHK_PREMIUM,Premium Chequing,Deposit,Chequing,CAD,16.95,4000.0,0.0,False
+3,SAV_HIGH,High Interest Savings,Deposit,Savings,CAD,0.0,0.0,0.0125,False
+4,USD_SAV,US Dollar Savings,Deposit,Savings,USD,0.0,0.0,0.0075,False
+5,GIC_1YR,1 Year GIC,Deposit,Term Deposit,CAD,0.0,1000.0,0.0425,False
+6,GIC_3YR,3 Year GIC,Deposit,Term Deposit,CAD,0.0,1000.0,0.038,False
+7,VISA_CASH,Cashback Visa,Card,Credit Card,CAD,0.0,0.0,0.2099,True
+8,VISA_TRAVEL,Travel Rewards Visa,Card,Credit Card,CAD,120.0,0.0,0.2199,True
+9,MC_STUDENT,Student Mastercard,Card,Credit Card,CAD,0.0,0.0,0.1999,True
+10,MTG_FIXED,5 Year Fixed Mortgage,Loan,Mortgage,CAD,0.0,25000.0,0.0525,True
+11,MTG_VARIABLE,Variable Mortgage,Loan,Mortgage,CAD,0.0,25000.0,0.061,True
+12,LOC_UNSEC,Unsecured Line of Credit,Loan,Line of Credit,CAD,0.0,5000.0,0.0975,True
+13,AUTO_LOAN,Auto Loan,Loan,Installment Loan,CAD,0.0,5000.0,0.0845,True
+14,INV_TFSA,TFSA Investment Account,Wealth,Investment,CAD,0.0,0.0,0.0,False
+15,INV_RRSP,RRSP Investment Account,Wealth,Investment,CAD,0.0,0.0,0.0,False
